@@ -34,6 +34,8 @@ The workflow:
 - runs `node build-data.mjs`
 - commits `wiki-source.md` and `app-data.js`
 - skips the commit entirely when the wiki-derived output did not change
+- avoids `uses:` marketplace actions, which is useful when the repo only allows actions
+  from repositories you own
 
 ## Open the dashboard
 
