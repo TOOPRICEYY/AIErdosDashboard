@@ -1,0 +1,43 @@
+-- Top bar with name "Matrix Multiplication vs Paul Erdos" centered --
+-- Below has time last updated from repo with link --
+-- Main prominante graph space that spans the width of the central column--
+	- Is a cumilitive line graph by default of the amount of problems solved(in a specific filter set of problems) to that date by default
+		-  The default filter is 1(a) full solutions
+	- Hovering over an individual point shows a hover menu displaying brief details of the problem(s) that point represents
+	- Clicking on a point selects it and allows you to view it in problem details pane but doesn't lock the hover menu
+
+	
+-- Graph configuration region -- 
+ - Represent with effective "solvable" date option
+	- All problems solved dates are mapped to the model release date or if that isn't available the first showing of the model in the repo
+		- There are cases of "Internal Model" where it should assume the model's release date is a two weeks after the company who posses the internal model's most recently released model at that time. It should note that this is an estimate with an * in the effective solve date column
+ - Filter options
+	- Fully autonomous complete solutions(default)
+		- 1(a) full solutions
+	- Assited + autonomous complete solutions
+		- Any 1(a) complete
+		- 1(b) strictly if gone from partial to full solution
+		- 1(c) new proof or partial to full solution
+		- 1(d) Full solutions
+		- Ensure problems are deduped
+	- Partial solutions
+		- 1(a), 1(b), 1(c), 1(d) full and partial solutions
+		- Deduped
+	- A advanced filter option with
+		- The ability to specify any combination of 1(a..b) full, partial solutions
+ 
+-- Stats region --
+	- Responds to filters
+	- Contributions by model family horizontal bar chart with stacked bars of full partial and incorrect, option to group by model family or model.
+		- When hovered over model text show model details. When hoevering over a section of the bar chart show the same problem detail hover as the primary chart. When clicking a bar segement show that in the problem detail table.
+	- Contribution category pie chart
+	- 
+	
+-- Problem details --
+	- Table with configurable, sortable and filterable columns of the problems either selected or all problems if no subset is selected currently
+	
+	
+	
+-- General details -- 
+ - Category is mapped from 1(a..d) to their human readable names ex. previously solved, open problem ,Human-AI collab, Lit search
+ - Heading 2x if removed entirely from the data
