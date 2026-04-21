@@ -26,6 +26,7 @@ This repo includes [`.github/workflows/refresh-data.yml`](./.github/workflows/re
 which runs:
 
 - on manual dispatch
+- on pushes to `master`
 - once per hour at `HH:17 UTC`
 
 The workflow:
