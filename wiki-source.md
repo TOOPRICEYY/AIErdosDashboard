@@ -600,6 +600,7 @@ Sorted by author's last name alphabetically.
 | ------- | - | - | - | - | - | - |
 | [[415]](https://www.erdosproblems.com/415) | Przemek Chojecki | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result?
 | [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result?
+| [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution?
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result?
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ?
 | [[858]](https://www.erdosproblems.com/858) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ?
