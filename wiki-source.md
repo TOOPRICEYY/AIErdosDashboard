@@ -201,7 +201,7 @@ Sorted by author's last name alphabetically.
 | [[493]](https://www.erdosproblems.com/493) | Aristotle, GPT, Seed Prover | 2025 | 🟢 Seamans (2025) | 🟢 New or existing proof found (Lean)
 | [[507]](https://www.erdosproblems.com/507) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Friedman (2015) | 🟡 Surpassed some past constructions
 | [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Thinking | 1 Mar, 2026 | 🟡 He and Tang (2026) | 🟡 Slight improvement to past construction
-| [[524]](https://www.erdosproblems.com/524) | Gemini, GPT-5.2, Grok | 30 Jan, 2026 | 🟡 Sawhney (2025) | 🟡 Improved bound towards original problem (simultaneous with independent work)
+| [[524]](https://www.erdosproblems.com/524) | Gemini, GPT-5.2, Grok | 30 Jan, 2026 | 🟡 Sawhney (2025) | 🟡 Improved partial result
 | [[679]](https://www.erdosproblems.com/679) | Aristotle | 12 Jan, 2026 | 🟡 DottedCalculator (2025) | 🟡 Improved proof by reducing dependence on prime number theorem
 | [[729]](https://www.erdosproblems.com/729) | Aristotle, GPT-5.2 Pro | 8-10 Jan, 2026 | 🟡 Barreto, GPT-5.2-Pro, Aristotle (2026) [full solution to #728]| 🟢 Full solution (Lean)
 | [[788]](https://www.erdosproblems.com/788) | GPT-5.2 Pro | 20 Jan, 2026 | 🟡 Hunter (2025) | 🟡 New partial result
@@ -248,6 +248,7 @@ Sorted by author's last name alphabetically.
 | [[423]](https://www.erdosproblems.com/423) | Quanyu Tang, Nat Sothanaphan | GPT-5.2 Thinking, GPT-5.4 Thinking | 11-12 Mar, 2026 | 🟡 Partial result
 | [[460]](https://www.erdosproblems.com/460) | Przemek Chojecki | GPT-5.2 | 13 Jan, 2026 | 🟡 Reduction to a simpler problem
 | [[488]](https://www.erdosproblems.com/488) | Przemek Chojecki | Aristotle, GPT-5.4 | 20 Mar, 2026 | 🟡 Partial result
+| [[524]](https://www.erdosproblems.com/524) | Brayden Letwin, Mehtaab Sawhney | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
 | [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
 | [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean)
 | [[659]](https://www.erdosproblems.com/659) | Benjamin Grayzel | Gemini 3 | 13 Jan, 2026 | 🟢 Full solution (Lean)
