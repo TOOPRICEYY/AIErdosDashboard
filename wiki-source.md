@@ -422,6 +422,7 @@ Sorted by author's last name alphabetically.
 | [[134]](https://www.erdosproblems.com/134) | 🟢 Alon | Aristotle | 7 Feb, 2026
 | [[150]](https://www.erdosproblems.com/150) | 🟢 Bradač (2024) | Aristotle | 31 Mar, 2026
 | [[154]](https://www.erdosproblems.com/154) | 🟢 Lindström (1998) | Aristotle, GPT | 6 Feb, 2026
+| [[178]](https://www.erdosproblems.com/178) | 🟢 Beck (1981) | Aristotle | 21 Apr, 2026
 | [[189]](https://www.erdosproblems.com/189) | 🟢 Kovač (2023) | Aristotle, Gemini 3 Pro | 17 Dec, 2025
 | [[194]](https://www.erdosproblems.com/194) | 🟢 Ardal, Brown, and Jungić  (2011) | Aristotle | 15 Apr, 2026
 | [[198]](https://www.erdosproblems.com/198) | 🟢 Baumgartner (1975) | Aristotle, GPT | 24 Nov, 2025
@@ -434,6 +435,7 @@ Sorted by author's last name alphabetically.
 | [[237]](https://www.erdosproblems.com/237) | 🟢 Chen and Ding (2022) | Aristotle | 4 Apr, 2026
 | [[246]](https://www.erdosproblems.com/246) | 🟢 Birch (1959) | Aristotle | 28 Dec, 2025
 | [[258]](https://www.erdosproblems.com/258) | 🟢 GPT-5.4 Pro (2026) | Aristotle | 14 Apr, 2026
+| [[259]](https://www.erdosproblems.com/259) | 🟢 Chen and Ruzsa (1999) | Aristotle | 21 Apr, 2026
 | [[268]](https://www.erdosproblems.com/268) | 🟢 Kovač (2024) | Aristotle | 13 Apr, 2026
 | [[275]](https://www.erdosproblems.com/275) | 🟢 Balister, Bollobas, Morris, Sahasrabudhe, and Tiba (2020) | Aristotle | 20 Jan, 2026
 | [[280]](https://www.erdosproblems.com/280) | 🟢 Cambie (2025) | Aristotle | 18 Apr, 2026
