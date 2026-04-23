@@ -64,9 +64,9 @@ We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wik
 
 ### Frequently asked questions
 
-1. [I just saw an exciting announcement on social media about AI being used to solve an Erdős problem. Why can't I find out about it on this page?](https://github.com/teorth/erdosproblems/wiki/I-just-saw-an-exciting-announcement-on-social-media-about-AI-being-used-to-solve-an-Erd%C5%91s-problem.-Why-can't-I-find-out-about-it-on-this-page%3F)
-2. [I think I managed to get my favorite AI system to solve an open Erdős problem! What do I do next?](https://github.com/teorth/erdosproblems/wiki/I-think-I-managed-to-get-my-favorite-AI-system-to-solve-an-open-Erd%C5%91s-problem!-What-do-I-do-next%3F)
-3. [I'm not a domain expert, but my AI system seems to have made some partial progress on an Erdős problem, before getting stuck. How can I finish the job?](https://github.com/teorth/erdosproblems/wiki/I'm-not-a-domain-expert,-but-my-AI-system-seems-to-have-made-some-partial-progress-on-an-Erd%C5%91s-problem,-before-getting-stuck.-How-can-I-finish-the-job%3F)
+* [Why is a social media announcement about AI solving an Erdős problem not reflected on this wiki?](https://github.com/teorth/erdosproblems/wiki/Why-is-a-social-media-announcement-about-AI-solving-an-Erd%C5%91s-problem-not-reflected-on-this-wiki%3F)
+* [What to do when I think I managed to get AI to solve an Erdős problem?](https://github.com/teorth/erdosproblems/wiki/What-to-do-when-I-think-I-managed-to-get-AI-to-solve-an-Erd%C5%91s-problem%3F)
+* [What to do when AI seems to make some partial progress on an Erdős problem?](https://github.com/teorth/erdosproblems/wiki/What-to-do-when-AI-seems-to-make-some-partial-progress-on-an-Erd%C5%91s-problem%3F)
 
 ### External sources
 
