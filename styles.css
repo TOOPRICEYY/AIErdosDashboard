@@ -115,7 +115,7 @@ a {
 .config-panel {
   grid-area: config;
   display: grid;
-  grid-template-columns: repeat(4, minmax(170px, 1fr));
+  grid-template-columns: minmax(220px, 1.25fr) repeat(3, minmax(170px, 1fr)) minmax(130px, 0.55fr);
   gap: 14px;
   align-items: end;
   padding: 18px;
@@ -131,6 +131,10 @@ a {
 
 .config-panel .advanced-box {
   grid-column: 1 / -1;
+}
+
+.reset-field .button {
+  width: 100%;
 }
 
 .stats-grid {

@@ -180,6 +180,7 @@
     renderAdvancedFilterGrid();
     renderColumnControls();
     bindEvents();
+    bindTooltipDismissal();
     render();
 
     const observer = new ResizeObserver(() => renderChartsOnly());
@@ -251,6 +252,28 @@
       clearSelection();
       render();
     });
+  }
+
+  function bindTooltipDismissal() {
+    document.addEventListener("pointerdown", (event) => {
+      if (isInteractiveChartTarget(event.target)) {
+        return;
+      }
+
+      hideTooltip();
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        hideTooltip();
+      }
+    });
+
+    window.addEventListener("scroll", hideTooltip, { passive: true });
+  }
+
+  function isInteractiveChartTarget(target) {
+    return target instanceof Element && Boolean(target.closest(".chart-point, .chart-segment"));
   }
 
   function render() {
@@ -576,16 +599,16 @@
       );
     }
 
-    buildMonthTicks(minX, maxX).forEach((tick) => {
+    buildMonthTicks(minX, maxX, width).forEach((tick) => {
       const x = xScale(tick.value);
       svg.appendChild(svgNode("line", { x1: x, y1: margin.top, x2: x, y2: height - margin.bottom, stroke: SVG_THEME.gridSoft }));
       svg.appendChild(
-        svgNode("text", { x, y: height - 18, "text-anchor": "middle", fill: SVG_THEME.muted, "font-size": 12 }, tick.label)
+        svgNode("text", { x, y: height - 18, "text-anchor": "middle", fill: SVG_THEME.muted, "font-size": width < 520 ? 11 : 12 }, tick.label)
       );
     });
   }
 
-  function buildMonthTicks(minX, maxX) {
+  function buildMonthTicks(minX, maxX, width) {
     const ticks = [];
     let cursor = new Date(minX);
     cursor = new Date(Date.UTC(cursor.getUTCFullYear(), cursor.getUTCMonth(), 1));
@@ -598,15 +621,52 @@
     while (cursor <= end) {
       ticks.push({
         value: cursor.getTime(),
-        label:
-          cursor.getUTCMonth() === 0
-            ? `${monthShort(cursor)} ${cursor.getUTCFullYear()}`
-            : monthShort(cursor),
+        date: new Date(cursor.getTime()),
       });
       cursor = new Date(Date.UTC(cursor.getUTCFullYear(), cursor.getUTCMonth() + 1, 1));
     }
 
-    return ticks;
+    const selectedTicks = downsampleTicks(ticks, maxDateTicks(width));
+    return selectedTicks.map((tick, index) => ({
+      value: tick.value,
+      label: formatMonthTick(tick.date, index, selectedTicks.length, minX, maxX),
+    }));
+  }
+
+  function formatMonthTick(date, index, tickCount, minX, maxX) {
+    const minDate = new Date(minX);
+    const maxDate = new Date(maxX);
+    const crossesYear = minDate.getUTCFullYear() !== maxDate.getUTCFullYear();
+    const shouldShowYear =
+      date.getUTCMonth() === 0 || (crossesYear && (tickCount <= 4 || index === 0 || index === tickCount - 1));
+
+    return shouldShowYear ? `${monthShort(date)} ${date.getUTCFullYear()}` : monthShort(date);
+  }
+
+  function maxDateTicks(width) {
+    if (width < 520) {
+      return 3;
+    }
+    if (width < 760) {
+      return 4;
+    }
+    if (width < 1040) {
+      return 6;
+    }
+    return 8;
+  }
+
+  function downsampleTicks(ticks, maxTicks) {
+    if (ticks.length <= maxTicks || maxTicks < 2) {
+      return ticks;
+    }
+
+    const selectedIndexes = new Set();
+    for (let index = 0; index < maxTicks; index += 1) {
+      selectedIndexes.add(Math.round((index * (ticks.length - 1)) / (maxTicks - 1)));
+    }
+
+    return [...selectedIndexes].sort((left, right) => left - right).map((index) => ticks[index]);
   }
 
   function buildStepPath(points, xScale, yScale, minX, maxX) {
