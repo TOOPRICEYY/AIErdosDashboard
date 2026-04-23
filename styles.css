@@ -509,6 +509,8 @@ svg {
 .data-table th.is-active::after {
   content: " " attr(data-dir);
   color: var(--green);
+  font-size: 0.9rem;
+  line-height: 0;
 }
 
 .data-table tbody tr:hover td {

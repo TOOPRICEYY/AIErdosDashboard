@@ -915,7 +915,10 @@
         th.textContent = column.label;
         if (state.sort.column === column.key) {
           th.classList.add("is-active");
-          th.dataset.dir = state.sort.direction === "asc" ? "asc" : "desc";
+          th.dataset.dir = state.sort.direction === "asc" ? "↑" : "↓";
+          th.setAttribute("aria-sort", state.sort.direction === "asc" ? "ascending" : "descending");
+        } else {
+          th.setAttribute("aria-sort", "none");
         }
         th.addEventListener("click", () => {
           if (state.sort.column === column.key) {
