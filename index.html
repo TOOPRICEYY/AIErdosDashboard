@@ -3,311 +3,137 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Erdos AI Dashboard</title>
+    <title>Matrix Multiplication vs Paul Erdos</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="app-shell">
-      <header class="header">
-        <div class="header-main">
-          <p class="eyebrow">Deterministic scrape and release-aware interpretation</p>
-          <h1>AI Contributions to Erdos Problems</h1>
-          <p class="header-copy">
-            Interactive view of the Erdos wiki with cumulative progress curves,
-            release-aligned timing, inferred model availability, and a sortable
-            contribution table.
-          </p>
-          <div id="source-line" class="source-line"></div>
+    <header class="topbar">
+      <h1>Matrix Multiplication vs Paul Erdos</h1>
+      <div id="source-line" class="source-line"></div>
+    </header>
+
+    <main class="app-shell">
+      <section class="panel graph-panel">
+        <div class="panel-heading">
+          <div>
+            <h2>Cumulative Solved Problems</h2>
+            <p id="timeline-subhead" class="subhead"></p>
+          </div>
+          <button id="reset-filters" class="button" type="button">Reset</button>
         </div>
-        <div id="hero-meta" class="header-meta"></div>
-      </header>
 
-      <section id="stats-grid" class="stats-bar" aria-label="Current slice stats"></section>
+        <div class="chart-frame chart-frame-main">
+          <svg id="timeline-chart" aria-label="Cumulative solved problem timeline"></svg>
+          <div id="chart-tooltip" class="chart-tooltip" hidden></div>
+        </div>
+        <div id="timeline-legend" class="legend-row"></div>
+      </section>
 
-      <main class="dashboard">
-        <section class="card wide control-card workbench-card">
-          <div class="card-header">
-            <div>
-              <h2>Workbench</h2>
-              <p class="subhead">
-                Keep the high-frequency controls above the fold, then open the
-                deeper model and slice browsers only when you need them.
-              </p>
-            </div>
-            <button id="reset-filters" class="ghost-button" type="button">Reset</button>
+      <aside class="panel config-panel" aria-label="Graph configuration">
+        <h2>Graph Configuration</h2>
+
+        <label class="field">
+          <span>Problem set</span>
+          <select id="problem-set-select">
+            <option value="autonomous-full">Fully autonomous complete solutions</option>
+            <option value="assisted-full">Assisted + autonomous complete solutions</option>
+            <option value="partial">Partial solutions</option>
+            <option value="advanced">Advanced filter</option>
+          </select>
+        </label>
+
+        <div class="field">
+          <span id="date-axis-label">Date axis</span>
+          <button
+            id="date-mode-toggle"
+            class="date-mode-button"
+            type="button"
+            aria-label="Date axis: Switch to Effectively Solvable Date"
+            aria-pressed="false"
+          >
+            Switch to Effectively Solvable Date
+          </button>
+        </div>
+
+        <label class="field">
+          <span>Model bars</span>
+          <select id="model-group-select">
+            <option value="family">Group by model family</option>
+            <option value="model">Group by model</option>
+          </select>
+        </label>
+
+        <label class="field">
+          <span>Search</span>
+          <input id="search-input" type="search" placeholder="Problem, model, note" />
+        </label>
+
+        <details id="advanced-filter-box" class="advanced-box">
+          <summary>Advanced section/outcome filter</summary>
+          <div id="advanced-filter-grid" class="advanced-grid"></div>
+        </details>
+      </aside>
+
+      <section id="stats-grid" class="stats-grid" aria-label="Current filter statistics"></section>
+
+      <section class="panel model-panel">
+        <div class="panel-heading">
+          <div>
+            <h2>Contributions by Model</h2>
+            <p id="model-family-subhead" class="subhead"></p>
           </div>
+        </div>
+        <div class="chart-frame chart-frame-bar">
+          <svg id="model-family-chart" aria-label="Stacked model contribution chart"></svg>
+        </div>
+        <div id="model-family-legend" class="legend-row"></div>
+      </section>
 
-          <div class="workbench-shell">
-            <div class="toolbar-grid">
-              <label class="field field-wide">
-                <span>Search</span>
-                <input
-                  id="search-input"
-                  type="search"
-                  placeholder="Problem, model, person, note"
-                />
-              </label>
-
-              <label class="field">
-                <span>Contribution lens</span>
-                <select id="lens-select">
-                  <option value="all">All contributions</option>
-                  <option value="proofs">Novel / improved proofs</option>
-                </select>
-              </label>
-
-              <label class="field">
-                <span>Scope</span>
-                <select id="scope-select">
-                  <option value="all">All contributions</option>
-                  <option value="primary">Primary-role contributions</option>
-                  <option value="secondary">Secondary contributions</option>
-                </select>
-              </label>
-
-              <label class="field">
-                <span>Accumulation metric</span>
-                <select id="metric-select">
-                  <option value="progress">Credited progress</option>
-                  <option value="rows">Contribution rows</option>
-                  <option value="problems">Unique problems</option>
-                </select>
-              </label>
-
-              <label class="field">
-                <span>Series split</span>
-                <select id="series-select">
-                  <option value="overall">Overall</option>
-                  <option value="outcome">Outcome tone</option>
-                  <option value="proof">Novel / improved proof breakdown</option>
-                  <option value="scope">Primary vs secondary</option>
-                  <option value="section">Wiki section</option>
-                  <option value="vendor">Vendor</option>
-                  <option value="model">Matched model release</option>
-                </select>
-              </label>
-            </div>
-
-            <div class="toggle-row">
-              <label class="toggle">
-                <input id="show-unknown-toggle" type="checkbox" checked />
-                <span>Keep rows with no curated release match</span>
-              </label>
-              <label class="toggle">
-                <input id="show-release-overlay-toggle" type="checkbox" checked />
-                <span>Show release markers on the timeline</span>
-              </label>
-            </div>
-
-            <div id="active-filter-summary" class="active-filter-summary" aria-live="polite"></div>
-
-            <section class="model-focus-panel compact">
-              <div class="section-heading section-heading-inline">
-                <div>
-                  <h3>Model Focus</h3>
-                  <p>
-                    Quick picks cover the current slice. Open the full browser
-                    only when you need the exhaustive release list.
-                  </p>
-                </div>
-                <button id="clear-model-focus" class="ghost-button" type="button">
-                  Clear model
-                </button>
-              </div>
-
-              <div id="model-vendor-filters" class="chip-grid" aria-label="Model vendor filters"></div>
-              <div id="model-picker-summary" class="field-note"></div>
-              <div id="model-quick-grid" class="model-quick-grid" aria-label="Quick model release picker"></div>
-
-              <details id="model-browser" class="advanced-picker">
-                <summary>Browse all matched model releases</summary>
-                <div class="browser-stack">
-                  <label class="field">
-                    <span>Model search</span>
-                    <input
-                      id="model-search-input"
-                      type="search"
-                      placeholder="Search model, vendor, release"
-                    />
-                  </label>
-
-                  <div id="model-chip-grid" class="model-chip-grid" aria-label="Model release picker"></div>
-
-                  <label class="field">
-                    <span>Release dropdown</span>
-                    <select id="model-select"></select>
-                  </label>
-                </div>
-              </details>
-            </section>
-
-            <details class="advanced-filters">
-              <summary>Advanced slice filters</summary>
-              <div class="filter-stack">
-                <div class="field">
-                  <span>Sections</span>
-                  <div id="section-filters" class="chip-grid"></div>
-                </div>
-                <div class="field">
-                  <span>Outcome tone</span>
-                  <div id="outcome-filters" class="chip-grid"></div>
-                </div>
-              </div>
-            </details>
+      <section class="panel category-panel">
+        <div class="panel-heading">
+          <div>
+            <h2>Contribution Category</h2>
+            <p id="category-subhead" class="subhead"></p>
           </div>
-        </section>
+        </div>
+        <div class="chart-frame chart-frame-donut">
+          <svg id="category-chart" aria-label="Contribution category chart"></svg>
+        </div>
+        <div id="category-legend" class="legend-row legend-column"></div>
+      </section>
 
-        <section class="card wide">
-          <div class="card-header">
-            <div>
-              <h2>Cumulative Contributions Over Time</h2>
-              <p id="timeline-subhead" class="subhead"></p>
-            </div>
+      <section class="panel detail-panel">
+        <div class="panel-heading">
+          <div>
+            <h2>Problem Details</h2>
+            <p id="table-summary" class="subhead"></p>
           </div>
-          <div class="chart-wrap timeline">
-            <svg id="timeline-chart" aria-label="Accumulated contribution timeline"></svg>
-          </div>
-          <div id="timeline-legend" class="legend-row"></div>
-          <div class="insight-box">
-            <div id="insight-list" class="insight-list"></div>
-          </div>
-        </section>
+          <button id="clear-selection" class="button" type="button">Show all</button>
+        </div>
 
-        <section class="card">
-          <div class="card-header">
-            <div>
-              <h2>Accumulated After Release</h2>
-              <p id="lag-subhead" class="subhead"></p>
-            </div>
-          </div>
-          <div class="chart-wrap compact">
-            <svg id="lag-chart" aria-label="Accumulated progress after release"></svg>
-          </div>
-          <div id="lag-legend" class="legend-row"></div>
-        </section>
+        <div id="selection-summary" class="selection-summary"></div>
 
-        <section class="card insight-deck-card">
-          <div class="card-header">
-            <div>
-              <h2>Breakdowns</h2>
-              <p class="subhead">
-                One comparison deck instead of four competing cards.
-              </p>
-            </div>
-          </div>
+        <div class="table-tools">
+          <label class="field table-search">
+            <span>Filter table</span>
+            <input id="table-filter-input" type="search" placeholder="Filter visible rows" />
+          </label>
+          <details class="column-picker">
+            <summary>Columns</summary>
+            <div id="column-controls" class="column-controls"></div>
+          </details>
+        </div>
 
-          <div id="breakdown-tabs" class="tab-row" role="tablist" aria-label="Breakdown views">
-            <button class="tab-button is-active" type="button" role="tab" data-view="proof">Proofs</button>
-            <button class="tab-button" type="button" role="tab" data-view="status">Outcomes</button>
-            <button class="tab-button" type="button" role="tab" data-view="family">Families</button>
-            <button class="tab-button" type="button" role="tab" data-view="generation">After release</button>
-          </div>
-
-          <section class="tab-panel" data-panel="proof">
-            <div class="panel-block">
-              <h3>Novel / Improved Proofs</h3>
-              <p id="proof-subhead" class="subhead"></p>
-            </div>
-            <div class="chart-wrap doughnut">
-              <svg id="proof-chart" aria-label="Novel or improved proof breakdown"></svg>
-            </div>
-            <div id="proof-legend" class="legend-row"></div>
-          </section>
-
-          <section class="tab-panel" data-panel="status" hidden>
-            <div class="panel-block">
-              <h3>Outcome Distribution</h3>
-              <p id="status-subhead" class="subhead"></p>
-            </div>
-            <div class="chart-wrap doughnut">
-              <svg id="status-chart" aria-label="Outcome distribution"></svg>
-            </div>
-            <div id="status-legend" class="legend-row"></div>
-          </section>
-
-          <section class="tab-panel" data-panel="family" hidden>
-            <div class="panel-block">
-              <h3>Contributions By Model Family</h3>
-              <p id="model-family-subhead" class="subhead"></p>
-            </div>
-            <div class="chart-wrap bar">
-              <svg id="model-family-chart" aria-label="Contributions by model family"></svg>
-            </div>
-            <div id="model-family-legend" class="legend-row"></div>
-          </section>
-
-          <section class="tab-panel" data-panel="generation" hidden>
-            <div class="panel-block">
-              <h3>Problems Solved After Release</h3>
-              <p id="generation-subhead" class="subhead"></p>
-            </div>
-            <div class="chart-wrap bar">
-              <svg id="generation-chart" aria-label="Problems solved after release"></svg>
-            </div>
-            <div id="generation-legend" class="legend-row"></div>
-          </section>
-        </section>
-
-        <section class="card wide drilldown-card">
-          <div class="card-header">
-            <div>
-              <h2>Drill-down</h2>
-              <p class="subhead">
-                Keep the selected milestone and the exhaustive release catalog in
-                the same place instead of splitting the page in half.
-              </p>
-            </div>
-          </div>
-
-          <div id="drilldown-tabs" class="tab-row" role="tablist" aria-label="Drill-down views">
-            <button class="tab-button is-active" type="button" role="tab" data-view="milestone">
-              Selected milestone
-            </button>
-            <button class="tab-button" type="button" role="tab" data-view="releases">
-              Release catalog
-            </button>
-          </div>
-
-          <section class="tab-panel drilldown-panel" data-panel="milestone">
-            <section id="detail-panel" class="detail-panel"></section>
-          </section>
-
-          <section class="tab-panel drilldown-panel" data-panel="releases" hidden>
-            <div id="release-list" class="release-list"></div>
-          </section>
-        </section>
-
-        <section class="card wide">
-          <div class="card-header">
-            <div>
-              <h2>All Contributions</h2>
-              <p class="subhead">
-                Filtered rows from the deterministic scrape. Click a column
-                header to sort.
-              </p>
-            </div>
-            <div id="table-summary" class="table-summary"></div>
-          </div>
-
-          <div class="table-container">
-            <table id="data-table" class="data-table">
-              <thead>
-                <tr>
-                  <th data-col="problem">Problem</th>
-                  <th data-col="date">Date</th>
-                  <th data-col="model">AI model(s)</th>
-                  <th data-col="outcome">Outcome</th>
-                  <th data-col="section">Section</th>
-                  <th data-col="release">Closest release</th>
-                  <th data-col="note">Note</th>
-                </tr>
-              </thead>
-              <tbody id="table-body"></tbody>
-            </table>
-          </div>
-        </section>
-      </main>
-    </div>
+        <div class="table-container">
+          <table id="data-table" class="data-table">
+            <thead>
+              <tr id="table-head-row"></tr>
+            </thead>
+            <tbody id="table-body"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
 
     <script src="app-data.js"></script>
     <script src="app.js"></script>
