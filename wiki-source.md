@@ -112,13 +112,13 @@ Sorted by author's last name alphabetically.
 | [[514]](https://www.erdosproblems.com/514) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[563]](https://www.erdosproblems.com/563) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[616]](https://www.erdosproblems.com/616) | Claude Sonnet 4.5, Gemini 3 Pro, GPT-5.2 Pro | 18 Jan, 2026 | 🔴 Incorrect proof found
-| [[647]](https://www.erdosproblems.com/647) | ChatGPT Deep research, DeepSeek Deepthinking, Gemini  | 28 Jan, 2026 | 🔴 Incorrect proof found
+| [[647]](https://www.erdosproblems.com/647) | ChatGPT Deep research, DeepSeek DeepThink, Gemini  | 28 Jan, 2026 | 🔴 Incorrect proof found
 | [[654]](https://www.erdosproblems.com/654) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one formulation of problem
 | [[665]](https://www.erdosproblems.com/665) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[684]](https://www.erdosproblems.com/684) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 31 Mar, 2026 | 🟡 Partial result (Lean) (solution to variant of first part; solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result (solution to second part)
-| [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution
+| [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution (Lean)
 | [[783]](https://www.erdosproblems.com/783) | GPT-5.2 | 23 Jan, 2026 | 🟡 Partial result
 | [[850]](https://www.erdosproblems.com/850) | GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[868]](https://www.erdosproblems.com/868) | GPT-5.2 multi-agent system | 13 Jan, 2026 | Did not find viable approach
@@ -260,6 +260,8 @@ Sorted by author's last name alphabetically.
 | [[848]](https://www.erdosproblems.com/848) | MalekZ | Claude Opus 4.6, GPT-5.4 | 12-15 Mar, 2026 | 🔴 Incorrect proof found
 | [[848]](https://www.erdosproblems.com/848) | Mehtaab Sawhney, Mark Sellke | GPT-5 | 12 Oct-20 Nov, 2025 | 🟢 Full solution
 | [[852]](https://www.erdosproblems.com/852) | Aron Bhalla | GPT-5.4 | 15 Apr, 2026 | 🟡 Partial result
+| [[858]](https://www.erdosproblems.com/858) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | 🟢 Full solution
+| [[863]](https://www.erdosproblems.com/863) | Boon Suan Ho | GPT-5.4 Pro | 22 Apr, 2026 | 🟢 Full solution
 | [[872]](https://www.erdosproblems.com/872) | Om_Buddhdev_sensho | GPT-5.4 Pro | 16 Apr, 2026 | 🟡 Partial result
 | [[931]](https://www.erdosproblems.com/931) | MalekZ | Claude, GPT-5.4 | 12-15 Mar, 2026 | 🟡 Partial result
 | [[943]](https://www.erdosproblems.com/943) | Przemek Chojecki | GPT-5.4 Pro | 3 Feb-18 Mar, 2026 | 🟡 Partial result
@@ -412,6 +414,7 @@ Sorted by author's last name alphabetically.
 | Problem | Proof to formalize | AI systems | Date |
 | ------- | ------------------ | ---------- | -----|
 | [[16]](https://www.erdosproblems.com/16) | 🟢 Chen (2023) | Antigravity, Gemini 3.1 Pro | 25 Feb, 2026
+| [[24]](https://www.erdosproblems.com/24) | 🟢 Grzesik (2012) | Aristotle | 23 Apr, 2026
 | [[26]](https://www.erdosproblems.com/26) | 🟢 Ruzsa | Aristotle | 28 Dec, 2025
 | [[31]](https://www.erdosproblems.com/31) | 🟢 Lorentz (1954), Wouter van Doorn (2025) | Aristotle, GPT | 24 Nov, 2025
 | [[34]](https://www.erdosproblems.com/34) | 🟢 Konieczny (2015) | Aristotle | 5 Feb, 2026
@@ -612,7 +615,5 @@ Sorted by author's last name alphabetically.
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result?
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ?
-| [[858]](https://www.erdosproblems.com/858) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ?
-| [[863]](https://www.erdosproblems.com/863) | Boon Suan Ho | GPT-5.4 Pro | 22 Apr, 2026 | 🟢 Full solution?
 | [[1190]](https://www.erdosproblems.com/1190) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution?
 | [[1195]](https://www.erdosproblems.com/1195) | Boon Suan Ho | GPT-5.4 Pro | 19 Apr, 2026 | 🟢 Full solution?
