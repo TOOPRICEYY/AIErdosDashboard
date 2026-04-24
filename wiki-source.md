@@ -12,7 +12,7 @@ For some further discussion of AI contributions, see the [AI thread](https://www
 * 🟡: *Partial* progress.
 * 🔴: *Incorrect* work.
 
-The 🔴 (incorrect) refers to works that the humans interacting with AI initially understood to be correct but were later found incorrect. An occasional AI mistake does not automatically count. The purpose is to caution against errors rather than record all mistakes. Also, even if the work is incorrect, there could be some salvageable aspects.
+The 🔴 (incorrect) refers to works that the humans interacting with AI initially understood to be correct but were later found incorrect. Occasional AI mistake does not automatically count. The purpose is to caution against errors rather than record all mistakes. Also, even if the work is incorrect, there could be some salvageable aspects.
 
 An entry that does not fit these colors will not have a color indicator.
 
@@ -50,17 +50,17 @@ Evaluation of AI contributions is complex and nuanced and cannot be captured by 
 
 We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats) in this regard:
 
-1. [This page is not a benchmark.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-1)
-2. [Many problems on the site lack a thorough literature review.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-2)
-3. [Keep selection bias in mind when drawing conclusions about success rates of AI systems.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-3)
-4. [In some cases, Erdős himself or the problem site stated the problem incorrectly.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-4)
-5. [Absence of past progress may reflect obscurity rather than difficulty.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-5)
-6. [Contributions should be evaluated holistically.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-6)
-7. [A solution to an Erdős problem does not automatically qualify as a publishable paper in a journal.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-7)
-8. [We encourage formalizations of AI proofs in a formal language such as Lean.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-8)
-9. [This wiki is only a superficial reference and is not a definitive verdict or assessment.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-9)
-10. [The information provided on this page is provisional rather than final.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-10)
-11. [Problem solving is only one component of mathematical research.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-11)
+1. [This page is not a benchmark](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-1)
+2. [Many problems on the site lack a thorough literature review](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-2)
+3. [Keep selection bias in mind when drawing conclusions about success rates of AI systems](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-3)
+4. [In some cases, Erdős himself or the problem site stated the problem incorrectly](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-4)
+5. [Absence of past progress may reflect obscurity rather than difficulty](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-5)
+6. [Contributions should be evaluated holistically](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-6)
+7. [A solution to an Erdős problem does not automatically qualify as publishable paper in a journal](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-7)
+8. [We encourage formalizations of AI proofs in a formal language such as Lean](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-8)
+9. [This wiki is only a superficial reference and is not definitive verdict or assessment](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-9)
+10. [The information provided on this wiki is provisional rather than final.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-10)
+11. [Problem solving is only one component of mathematical research](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-11)
 
 ### Frequently asked questions
 
@@ -70,12 +70,12 @@ We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wik
 
 ### External sources
 
-Sorted by author's last name alphabetically.
+Sorted by the author's last name alphabetically.
 
 * [Blog post "Formalization of Erdős problems"](https://xenaproject.wordpress.com/2025/12/05/formalization-of-erdos-problems/) by Boris Alexeev, 5 Dec, 2025.
-* [Webpage](https://agentic-erdos.vercel.app/) by Przemek Chojecki, collecting some AI attempts on Erdős problems.
-* [Webpage](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/erdos.html) by Mehmet Mars Seven, collecting some AI attempts on Erdős problems.
-* [Webpage](https://www.ocf.berkeley.edu/~neel/erdos.html) by Neel Somani, collecting some AI attempts on Erdős problems.
+* [Webpage](https://agentic-erdos.vercel.app/) by Przemek Chojecki, collecting AI attempts on Erdős problems.
+* [Webpage](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/erdos.html) by Mehmet Mars Seven, collecting AI attempts on Erdős problems.
+* [Webpage](https://www.ocf.berkeley.edu/~neel/erdos.html) by Neel Somani, collecting AI attempts on Erdős problems.
 * [Blog post "Is AI solving open Erdős problems?"](https://zeyu-zheng.github.io/blog/erd%C5%91sConjectures.html) by Zeyu Zheng, Jan 7, 2026.
 
 <a id="sect-1"></a>
