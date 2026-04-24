@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-24T14:49:06.732Z",
+    "generatedAt": "2026-04-24T15:42:52.222Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 460,
+    "recordCount": 462,
     "sectionCount": 10
   },
   "sections": [
@@ -19,7 +19,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 48
+      "rowCount": 50
     },
     {
       "title": "1(b). AI alongside literature",
@@ -2523,6 +2523,45 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
       "rowOrder": 40,
+      "problemRaw": "[[1014]](https://www.erdosproblems.com/1014)",
+      "problemLabel": "1014",
+      "problemIds": [
+        1014
+      ],
+      "problemLinks": [
+        {
+          "label": "1014",
+          "url": "https://www.erdosproblems.com/1014"
+        }
+      ],
+      "aiSystemsRaw": "OpenAI internal model",
+      "aiSystemsLabel": "OpenAI internal model",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "23 Apr, 2026",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
+      "fieldsRaw": {
+        "Problem": "[[1014]](https://www.erdosproblems.com/1014)",
+        "AI systems": "OpenAI internal model",
+        "Date": "23 Apr, 2026",
+        "Outcome": "🟢 Full solution"
+      },
+      "fieldsPlain": {
+        "Problem": "1014",
+        "AI systems": "OpenAI internal model",
+        "Date": "23 Apr, 2026",
+        "Outcome": "🟢 Full solution"
+      }
+    },
+    {
+      "id": "sect-1a-041",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(a). AI standalone",
+      "subsectionAnchor": "sect-1a",
+      "subsectionOrder": 1,
+      "rowOrder": 41,
       "problemRaw": "[[1040]](https://www.erdosproblems.com/1040)",
       "problemLabel": "1040",
       "problemIds": [
@@ -2555,13 +2594,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-041",
+      "id": "sect-1a-042",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 41,
+      "rowOrder": 42,
       "problemRaw": "[[1044]](https://www.erdosproblems.com/1044)",
       "problemLabel": "1044",
       "problemIds": [
@@ -2594,13 +2633,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-042",
+      "id": "sect-1a-043",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 42,
+      "rowOrder": 43,
       "problemRaw": "[[1051]](https://www.erdosproblems.com/1051)",
       "problemLabel": "1051",
       "problemIds": [
@@ -2633,13 +2672,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-043",
+      "id": "sect-1a-044",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 43,
+      "rowOrder": 44,
       "problemRaw": "[[1091]](https://www.erdosproblems.com/1091)",
       "problemLabel": "1091",
       "problemIds": [
@@ -2672,13 +2711,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-044",
+      "id": "sect-1a-045",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 44,
+      "rowOrder": 45,
       "problemRaw": "[[1139]](https://www.erdosproblems.com/1139)",
       "problemLabel": "1139",
       "problemIds": [
@@ -2711,13 +2750,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-045",
+      "id": "sect-1a-046",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 45,
+      "rowOrder": 46,
       "problemRaw": "[[1141]](https://www.erdosproblems.com/1141)",
       "problemLabel": "1141",
       "problemIds": [
@@ -2750,13 +2789,52 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-046",
+      "id": "sect-1a-047",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 46,
+      "rowOrder": 47,
+      "problemRaw": "[[1194]](https://www.erdosproblems.com/1194)",
+      "problemLabel": "1194",
+      "problemIds": [
+        1194
+      ],
+      "problemLinks": [
+        {
+          "label": "1194",
+          "url": "https://www.erdosproblems.com/1194"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.4 Pro",
+      "aiSystemsLabel": "GPT-5.4 Pro",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "23 Apr, 2026",
+      "descriptionRaw": "🟡 Partial result",
+      "descriptionLabel": "🟡 Partial result",
+      "fieldsRaw": {
+        "Problem": "[[1194]](https://www.erdosproblems.com/1194)",
+        "AI systems": "GPT-5.4 Pro",
+        "Date": "23 Apr, 2026",
+        "Outcome": "🟡 Partial result"
+      },
+      "fieldsPlain": {
+        "Problem": "1194",
+        "AI systems": "GPT-5.4 Pro",
+        "Date": "23 Apr, 2026",
+        "Outcome": "🟡 Partial result"
+      }
+    },
+    {
+      "id": "sect-1a-048",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(a). AI standalone",
+      "subsectionAnchor": "sect-1a",
+      "subsectionOrder": 1,
+      "rowOrder": 48,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -2789,13 +2867,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-047",
+      "id": "sect-1a-049",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 47,
+      "rowOrder": 49,
       "problemRaw": "[[1202]](https://www.erdosproblems.com/1202)",
       "problemLabel": "1202",
       "problemIds": [
@@ -2828,13 +2906,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-048",
+      "id": "sect-1a-050",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 48,
+      "rowOrder": 50,
       "problemRaw": "[[1217]](https://www.erdosproblems.com/1217)",
       "problemLabel": "1217",
       "problemIds": [

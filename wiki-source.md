@@ -130,12 +130,14 @@ Sorted by author's last name alphabetically.
 | [[963]](https://www.erdosproblems.com/963) | Gemini 3 Pro | 22 Jan, 2026  | 🔴 Argument with major gaps made
 | [[987]](https://www.erdosproblems.com/987) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[990]](https://www.erdosproblems.com/990) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
+| [[1014]](https://www.erdosproblems.com/1014) | OpenAI internal model | 23 Apr, 2026 | 🟢 Full solution
 | [[1040]](https://www.erdosproblems.com/1040) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one part of problem; 🔴 incorrect solution to other part
 | [[1044]](https://www.erdosproblems.com/1044) | GPT-5.2 Pro | 5 Jan, 2026  | 🔴 Incorrect claim made
 | [[1051]](https://www.erdosproblems.com/1051) | Aletheia | 29 Jan, 2026 | 🟢 Full solution (Lean)
 | [[1091]](https://www.erdosproblems.com/1091) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[1139]](https://www.erdosproblems.com/1139) | GPT-5.2 | 26 Jan, 2026  | Initial exploration
 | [[1141]](https://www.erdosproblems.com/1141) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
+| [[1194]](https://www.erdosproblems.com/1194) | GPT-5.4 Pro | 23 Apr, 2026 | 🟡 Partial result
 | [[1196]](https://www.erdosproblems.com/1196) | GPT-5.4 Pro | 13 Apr, 2026 | 🟢 Full solution
 | [[1202]](https://www.erdosproblems.com/1202) | GPT-5.4 Pro | 1 Apr, 2026 | 🟢 Full solution
 | [[1217]](https://www.erdosproblems.com/1217) | GPT-5.4 Pro | 16 Apr, 2026 | 🟢 Full solution
