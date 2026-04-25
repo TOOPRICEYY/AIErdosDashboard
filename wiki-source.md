@@ -548,6 +548,7 @@ Sorted by the author's last name alphabetically.
 | [[1067]](https://www.erdosproblems.com/1067) | 🟢 Bowler and Pitz (2024) | Aleph Prover, Aristotle | 28 Jan, 2026
 | [[1071]](https://www.erdosproblems.com/1071) | 🟢 Danzer; Alexeev (2026) | Aleph Prover, Aristotle, GPT | 29 Jan, 2026 (second part); 12 Feb, 2026 (first part)
 | [[1080]](https://www.erdosproblems.com/1080) | 🟢 De Caen and Székely (1992) | Aristotle | 28 Dec, 2025
+| [[1098]](https://www.erdosproblems.com/1098) | 🟢 Neumann (1976) | Aristotle | 25 Apr, 2026
 | [[1102]](https://www.erdosproblems.com/1102) | 🟢 van Doorn and Tao (2025) | Aristotle | 23 Feb, 2026
 | [[1121]](https://www.erdosproblems.com/1121) | 🟢 Goodman and Goodman (1945) | Aristotle | 16 Apr, 2026
 | [[1125]](https://www.erdosproblems.com/1125) | 🟢 Laczkovich (1984) | Aristotle | 11 Apr, 2026
