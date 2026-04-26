@@ -518,6 +518,7 @@ Sorted by the author's last name alphabetically.
 | [[785]](https://www.erdosproblems.com/785) | 🟡 Narkiewicz (1959/60) + 🟢 Ruzsa (2015) | Aristotle | 6 Mar, 2026
 | [[788]](https://www.erdosproblems.com/788) | 🟡 GPT-5.2 Pro (2026) | Aristotle | 20 Jan, 2026
 | [[794]](https://www.erdosproblems.com/794) | 🟢 Harris (2025) | Aristotle | 5 Feb, 2026
+| [[818]](https://www.erdosproblems.com/818) | 🟢 Solymosi (2009) | Aristotle | 25 Apr, 2026
 | [[835]](https://www.erdosproblems.com/835) | 🟡 Likely folklore | AlphaProof | 26 Dec, 2025
 | [[845]](https://www.erdosproblems.com/845) | 🟢 van Doorn and Everts (2025) | Aristotle | 8 Jan, 2026 (one form of result), 21 Jan, 2026 (second form)
 | [[848]](https://www.erdosproblems.com/848) | 🟢 Sawhney (2025) | Aristotle, Claude, GPT-5.2 | 28 Jan, 2026
@@ -613,6 +614,7 @@ Sorted by the author's last name alphabetically.
 
 | Problem | A | B | C | D | E | F |
 | ------- | - | - | - | - | - | - |
+| [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution?
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution?
 | [[330]](https://www.erdosproblems.com/330) | David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 🟢 Full solution?
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
@@ -623,5 +625,6 @@ Sorted by the author's last name alphabetically.
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ?
 | [[870]](https://www.erdosproblems.com/870) | David Turturean | GPT-5.4 Pro, GPT-5.5 Pro | 24 Apr, 2026 | 🟢 Full solution?
 | [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | ?
+| [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | 🟢 Full solution?
 | [[1190]](https://www.erdosproblems.com/1190) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution?
 | [[1195]](https://www.erdosproblems.com/1195) | Boon Suan Ho | GPT-5.4 Pro | 19 Apr, 2026 | 🟢 Full solution?
