@@ -280,6 +280,7 @@ Sorted by the author's last name alphabetically.
 | [[1062]](https://www.erdosproblems.com/1062) | Damek Davis | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result
 | [[1095]](https://www.erdosproblems.com/1095) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 Pro | 13 Mar, 2026 | 🟡 Partial result
 | [[1132]](https://www.erdosproblems.com/1132) | Terence Tao | AlphaEvolve, Claude, Gemini Pro, GPT-5.4 Pro | 2 Feb-24 Mar, 2026 | 🟡 Partial result
+| [[1138]](https://www.erdosproblems.com/1138) | Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder | GPT-5.5 Pro, GPT-5.5 Thinking | 25 Apr, 2026 | 🟢 Full solution
 | [[1141]](https://www.erdosproblems.com/1141) | Quanyu Tang | GPT-5.2 Pro, GPT-5.2 Thinking | 25 Jan, 2026 | 🟡 Partial result of variant problem
 | [[1148]](https://www.erdosproblems.com/1148) | Ingo Althöfer, Przemek Chojecki, Wouter van Doorn | Gemini 3 Pro, Gemini 3.1 Pro, GPT-5.2 Pro, GPT-5.2 Thinking, GPT-5.4 Pro | 24 Jan-16 Mar, 2026 | 🟢 Full solution
 | [[1153]](https://www.erdosproblems.com/1153) | Aron Bhalla, Nat Sothanaphan, Terence Tao | AlphaEvolve, Claude, Gemini Pro, GPT-5.2 Thinking, GPT-5.4 Pro | 2 Feb-24 Mar, 2026 | 🟢 Full solution
