@@ -4,8 +4,6 @@ If you are interested in getting started with using AI for research mathematics,
 
 ## Introduction
 
-For some further discussion of AI contributions, see the [AI thread](https://www.erdosproblems.com/forum/thread/AI%20Contributions).
-
 ### Color indicators
 
 * 🟢: *Full* resolution.
@@ -615,6 +613,7 @@ Sorted by the author's last name alphabetically.
 | [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution?
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution?
 | [[330]](https://www.erdosproblems.com/330) | David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 🟢 Full solution?
+| [[451]](https://www.erdosproblems.com/451) | Quanyu Tang | GPT-5.5 Pro | 26 Apr, 2026 | 🟡 Partial result?
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
 | [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result?
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
@@ -625,5 +624,6 @@ Sorted by the author's last name alphabetically.
 | [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | ?
 | [[896]](https://www.erdosproblems.com/896) | Przemek Chojecki | GPT-5.5 Pro | 26 Apr, 2026 | ?
 | [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | 🟢 Full solution?
+| [[1131]](https://www.erdosproblems.com/1131) | GPT-5.5 Pro | 26 Apr, 2026 | 🟡 Partial result?
 | [[1190]](https://www.erdosproblems.com/1190) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution?
 | [[1195]](https://www.erdosproblems.com/1195) | Boon Suan Ho | GPT-5.4 Pro | 19 Apr, 2026 | 🟢 Full solution?
