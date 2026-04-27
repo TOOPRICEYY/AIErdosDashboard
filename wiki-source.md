@@ -466,6 +466,7 @@ Sorted by the author's last name alphabetically.
 | [[418]](https://www.erdosproblems.com/418) | 🟢 Browkin and Schinzel (1995) | Aristotle, GPT | 22 Nov, 2025
 | [[419]](https://www.erdosproblems.com/419) | 🟢 Sawhney (2025) | Aristotle | 31 Jan, 2026
 | [[426]](https://www.erdosproblems.com/426) | 🟢 Bradač and Christoph (2024) | Aristotle | 20 Apr, 2026
+| [[427]](https://www.erdosproblems.com/427) | 🟢 Pilatte | Aristotle | 26 Apr, 2026
 | [[429]](https://www.erdosproblems.com/429) | 🟢 Weisenberg (2024) | Aristotle | 29 Jan, 2026
 | [[433]](https://www.erdosproblems.com/433) | 🟢 Dixmier (1990) | Aristotle, Claude Sonnet 4.6, Gemini 3 Flash, Gemini 3.1 Pro, Project Numina, | 24 Feb, 2026
 | [[434]](https://www.erdosproblems.com/434) | Continued from [433] formalization | Aristotle | 24 Feb, 2026
@@ -516,6 +517,7 @@ Sorted by the author's last name alphabetically.
 | [[794]](https://www.erdosproblems.com/794) | 🟢 Harris (2025) | Aristotle | 5 Feb, 2026
 | [[818]](https://www.erdosproblems.com/818) | 🟢 Solymosi (2009) | Aristotle | 25 Apr, 2026
 | [[835]](https://www.erdosproblems.com/835) | 🟡 Likely folklore | AlphaProof | 26 Dec, 2025
+| [[844]](https://www.erdosproblems.com/844) | 🟢 Chvátal (1974) + Weisenberg | Aristotle | 26 Apr, 2026
 | [[845]](https://www.erdosproblems.com/845) | 🟢 van Doorn and Everts (2025) | Aristotle | 8 Jan, 2026 (one form of result), 21 Jan, 2026 (second form)
 | [[848]](https://www.erdosproblems.com/848) | 🟢 Sawhney (2025) | Aristotle, Claude, GPT-5.2 | 28 Jan, 2026
 | [[862]](https://www.erdosproblems.com/862) | 🟢 Saxton and Thomason (2015) | Aristotle | 21 Jan, 2026
@@ -618,6 +620,7 @@ Sorted by the author's last name alphabetically.
 | [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result?
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result?
+| [[696]](https://www.erdosproblems.com/696) | David Turturean | Claude Code, GPT-5.5 Pro | 26 Apr, 2026 | 🟢 Full solution?
 | [[852]](https://www.erdosproblems.com/852) | Przemek Chojecki, David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 🟡 Partial result?
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ?
 | [[870]](https://www.erdosproblems.com/870) | David Turturean | GPT-5.4 Pro, GPT-5.5 Pro | 24 Apr, 2026 | 🟢 Full solution?
