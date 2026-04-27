@@ -12,13 +12,13 @@ For some further discussion of AI contributions, see the [AI thread](https://www
 * 🟡: *Partial* progress.
 * 🔴: *Incorrect* work.
 
-The 🔴 (incorrect) refers to works that the humans interacting with AI initially understood to be correct but were later found incorrect. Occasional AI mistake does not automatically count. The purpose is to caution against errors rather than record all mistakes. Also, even if the work is incorrect, there could be some salvageable aspects.
+The 🔴 (incorrect) refers to works that the humans interacting with AI initially understood to be correct but were later found incorrect. Occasional AI mistake does not automatically count. The purpose is to caution against errors rather than record all mistakes. Even if the work is incorrect, there could be some salvageable aspects.
 
 An entry that does not fit these colors will not have a color indicator.
 
 ### Section placement
 
-Full details can be <a href="https://github.com/teorth/erdosproblems/wiki/AI-contribution-section-placement-system">found here</a>.
+Full details are <a href="https://github.com/teorth/erdosproblems/wiki/AI-contribution-section-placement-system">found here</a>.
 
 * [1. Primary contributions](#sect-1)
 
@@ -46,9 +46,7 @@ Full details can be <a href="https://github.com/teorth/erdosproblems/wiki/AI-con
 
 ### Disclaimers
 
-Evaluation of AI contributions is complex and nuanced and cannot be captured by simple numerical metrics.
-
-We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats) in this regard:
+We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats):
 
 1. [This page is not a benchmark](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-1)
 2. [Many problems on the site lack a thorough literature review](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-2)
@@ -59,7 +57,7 @@ We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wik
 7. [A solution to an Erdős problem does not automatically qualify as publishable paper in a journal](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-7)
 8. [We encourage formalizations of AI proofs in a formal language such as Lean](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-8)
 9. [This wiki is only a superficial reference and is not definitive verdict or assessment](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-9)
-10. [The information provided on this wiki is provisional rather than final.](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-10)
+10. [The information provided on this wiki is provisional rather than final](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-10)
 11. [Problem solving is only one component of mathematical research](https://github.com/teorth/erdosproblems/wiki/Disclaimers-and-caveats#disclaimer-11)
 
 ### Frequently asked questions
@@ -68,7 +66,7 @@ We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wik
 * [What to do when I think I managed to get AI to solve an Erdős problem?](https://github.com/teorth/erdosproblems/wiki/What-to-do-when-I-think-I-managed-to-get-AI-to-solve-an-Erd%C5%91s-problem%3F)
 * [What to do when AI seems to make some partial progress on an Erdős problem?](https://github.com/teorth/erdosproblems/wiki/What-to-do-when-AI-seems-to-make-some-partial-progress-on-an-Erd%C5%91s-problem%3F)
 
-### External sources
+### External links
 
 Sorted by the author's last name alphabetically.
 
@@ -76,7 +74,6 @@ Sorted by the author's last name alphabetically.
 * [Webpage](https://agentic-erdos.vercel.app/) by Przemek Chojecki, collecting AI attempts on Erdős problems.
 * [Webpage](https://mehmetmars7.github.io/Erdosproblems-llm-hunter/erdos.html) by Mehmet Mars Seven, collecting AI attempts on Erdős problems.
 * [Webpage](https://www.ocf.berkeley.edu/~neel/erdos.html) by Neel Somani, collecting AI attempts on Erdős problems.
-* [Blog post "Is AI solving open Erdős problems?"](https://zeyu-zheng.github.io/blog/erd%C5%91sConjectures.html) by Zeyu Zheng, Jan 7, 2026.
 
 <a id="sect-1"></a>
 ## 1. Primary contributions
