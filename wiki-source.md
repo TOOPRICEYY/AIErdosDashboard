@@ -127,6 +127,7 @@ Sorted by the author's last name alphabetically.
 | [[990]](https://www.erdosproblems.com/990) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[1014]](https://www.erdosproblems.com/1014) | OpenAI internal model | 23 Apr, 2026 | 🟢 Full solution
 | [[1040]](https://www.erdosproblems.com/1040) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one part of problem; 🔴 incorrect solution to other part
+| [[1041]](https://www.erdosproblems.com/1041) | GPT-5.4 Thinking | 22 Apr, 2026 | 🔴 Argument with major gaps made
 | [[1044]](https://www.erdosproblems.com/1044) | GPT-5.2 Pro | 5 Jan, 2026  | 🔴 Incorrect claim made
 | [[1051]](https://www.erdosproblems.com/1051) | Aletheia | 29 Jan, 2026 | 🟢 Full solution (Lean)
 | [[1091]](https://www.erdosproblems.com/1091) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
@@ -533,6 +534,7 @@ Sorted by the author's last name alphabetically.
 | [[958]](https://www.erdosproblems.com/958) | 🟢 Clemen, Dumitrescu, and Liu (2025) | Seed Prover 1.5 | 19 Dec, 2025
 | [[964]](https://www.erdosproblems.com/964) | 🟢 Eberhard (2025) | Antigravity, Aristotle, Gemini | 14 Feb, 2026
 | [[967]](https://www.erdosproblems.com/967) | 🟢 Yip (2025) | Aristotle | 19 Dec, 2025
+| [[974]](https://www.erdosproblems.com/974) | 🟢 Tijdeman (1966) | Aristotle | 27 Apr, 2026
 | [[990]](https://www.erdosproblems.com/990) | 🟢 OpenAI internal model (2026) | GPT-5.4 Pro | 10 Apr, 2026
 | [[997]](https://www.erdosproblems.com/997) | 🟢 OpenAI internal model (2026) | Aristotle | 1 Apr, 2026
 | [[1000]](https://www.erdosproblems.com/1000) | 🟢 Haight | Aristotle, GPT | 28 Dec, 2025
