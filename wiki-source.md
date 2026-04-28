@@ -435,6 +435,7 @@ Sorted by the author's last name alphabetically.
 | [[198]](https://www.erdosproblems.com/198) | 🟢 Baumgartner (1975) | Aristotle, GPT | 24 Nov, 2025
 | [[199]](https://www.erdosproblems.com/199) | 🟢 Baumgartner (1975) | Aristotle | 24 Feb, 2026
 | [[204]](https://www.erdosproblems.com/204) | 🟢 Adenwalla (2025) | Aristotle | 15 Mar, 2026
+| [[206]](https://www.erdosproblems.com/206) | 🟢 Kovač (2024) | Aristotle | 28 Apr, 2026
 | [[214]](https://www.erdosproblems.com/214) | 🟢 Juhász (1979) | Aristotle | 2 Mar, 2026
 | [[221]](https://www.erdosproblems.com/221) | 🟢 Ruzsa (1972) + van Doorn (2025) | Aristotle | 31 Jan, 2026
 | [[226]](https://www.erdosproblems.com/226) | 🟢 Sato and Rankin (1974) | Aristotle | 29 Dec, 2025
