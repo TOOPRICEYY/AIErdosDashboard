@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-28T18:49:47.259Z",
+    "generatedAt": "2026-04-28T19:52:58.433Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 488,
@@ -66,7 +66,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 56
+      "rowCount": 57
     },
     {
       "title": "2(a). Literature search",
@@ -152,7 +152,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Potential status"
       ],
-      "rowCount": 24
+      "rowCount": 23
     }
   ],
   "releases": [
@@ -7919,6 +7919,47 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
       "rowOrder": 55,
+      "problemRaw": "[[1195]](https://www.erdosproblems.com/1195)",
+      "problemLabel": "1195",
+      "problemIds": [
+        1195
+      ],
+      "problemLinks": [
+        {
+          "label": "1195",
+          "url": "https://www.erdosproblems.com/1195"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.4 Pro",
+      "aiSystemsLabel": "GPT-5.4 Pro",
+      "humansRaw": "Boon Suan Ho",
+      "humansLabel": "Boon Suan Ho",
+      "dateRaw": "19 Apr, 2026",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
+      "fieldsRaw": {
+        "Problem": "[[1195]](https://www.erdosproblems.com/1195)",
+        "Humans": "Boon Suan Ho",
+        "AI systems": "GPT-5.4 Pro",
+        "Date": "19 Apr, 2026",
+        "Outcome": "🟢 Full solution"
+      },
+      "fieldsPlain": {
+        "Problem": "1195",
+        "Humans": "Boon Suan Ho",
+        "AI systems": "GPT-5.4 Pro",
+        "Date": "19 Apr, 2026",
+        "Outcome": "🟢 Full solution"
+      }
+    },
+    {
+      "id": "sect-1d-056",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(d). AI collaborating with humans",
+      "subsectionAnchor": "sect-1d",
+      "subsectionOrder": 4,
+      "rowOrder": 56,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -7953,13 +7994,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-056",
+      "id": "sect-1d-057",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 56,
+      "rowOrder": 57,
       "problemRaw": "[[1209]](https://www.erdosproblems.com/1209)",
       "problemLabel": "1209",
       "problemIds": [
@@ -20461,51 +20502,6 @@ window.ERDOS_AI_DATA = {
       },
       "fieldsPlain": {
         "Problem": "1190",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-024",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 11,
-      "rowOrder": 24,
-      "problemRaw": "[[1195]](https://www.erdosproblems.com/1195)",
-      "problemLabel": "1195",
-      "problemIds": [
-        1195
-      ],
-      "problemLinks": [
-        {
-          "label": "1195",
-          "url": "https://www.erdosproblems.com/1195"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[1195]](https://www.erdosproblems.com/1195)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "1195",
         "Humans": "",
         "AI systems": "",
         "Date": "",
