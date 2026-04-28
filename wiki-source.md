@@ -16,7 +16,7 @@ An entry that does not fit these colors will not have a color indicator.
 
 ### Section placement
 
-Full details are <a href="https://github.com/teorth/erdosproblems/wiki/AI-contribution-section-placement-system">found here</a>.
+Full details are [found here](https://github.com/teorth/erdosproblems/wiki/AI-contribution-section-placement-system).
 
 * [1. Primary contributions](#sect-1)
 
