@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-28T16:54:43.128Z",
+    "generatedAt": "2026-04-28T18:49:47.259Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 487,
+    "recordCount": 488,
     "sectionCount": 10
   },
   "sections": [
@@ -66,7 +66,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 55
+      "rowCount": 56
     },
     {
       "title": "2(a). Literature search",
@@ -147,12 +147,10 @@ window.ERDOS_AI_DATA = {
       "order": 11,
       "headers": [
         "Problem",
-        "A",
-        "B",
-        "C",
-        "D",
-        "E",
-        "F"
+        "Authors",
+        "Tool used",
+        "Date",
+        "Potential status"
       ],
       "rowCount": 24
     }
@@ -990,28 +988,6 @@ window.ERDOS_AI_DATA = {
       },
       "patterns": [
         "^Gauss$"
-      ]
-    },
-    {
-      "id": "claude-code",
-      "label": "Claude Code",
-      "vendor": "Anthropic",
-      "family": "claude-code",
-      "releaseDate": "2026-04-26",
-      "releaseType": "inferred-first_positive_then_seen",
-      "sourceKind": "inferred",
-      "sourceLabel": "Erdos wiki inference",
-      "sourceUrl": "https://www.erdosproblems.com/696",
-      "notes": "No official release page was cataloged for this exact system name; date inferred from the earliest positive wiki entry, or first appearance if no positive entry exists.",
-      "inferenceType": "first_positive_then_seen",
-      "inferredFrom": {
-        "dateRaw": "26 Apr, 2026",
-        "problem": "#696",
-        "subsection": "3. Pending assessment",
-        "outcome": "full"
-      },
-      "patterns": [
-        "^Claude Code$"
       ]
     }
   ],
@@ -6713,6 +6689,47 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
       "rowOrder": 25,
+      "problemRaw": "[[675]](https://www.erdosproblems.com/675)",
+      "problemLabel": "675",
+      "problemIds": [
+        675
+      ],
+      "problemLinks": [
+        {
+          "label": "675",
+          "url": "https://www.erdosproblems.com/675"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.4 Pro",
+      "aiSystemsLabel": "GPT-5.4 Pro",
+      "humansRaw": "Boon Suan Ho",
+      "humansLabel": "Boon Suan Ho",
+      "dateRaw": "18 Apr, 2026",
+      "descriptionRaw": "🟡 Partial result",
+      "descriptionLabel": "🟡 Partial result",
+      "fieldsRaw": {
+        "Problem": "[[675]](https://www.erdosproblems.com/675)",
+        "Humans": "Boon Suan Ho",
+        "AI systems": "GPT-5.4 Pro",
+        "Date": "18 Apr, 2026",
+        "Outcome": "🟡 Partial result"
+      },
+      "fieldsPlain": {
+        "Problem": "675",
+        "Humans": "Boon Suan Ho",
+        "AI systems": "GPT-5.4 Pro",
+        "Date": "18 Apr, 2026",
+        "Outcome": "🟡 Partial result"
+      }
+    },
+    {
+      "id": "sect-1d-026",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(d). AI collaborating with humans",
+      "subsectionAnchor": "sect-1d",
+      "subsectionOrder": 4,
+      "rowOrder": 26,
       "problemRaw": "[[684]](https://www.erdosproblems.com/684)",
       "problemLabel": "684",
       "problemIds": [
@@ -6747,13 +6764,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-026",
+      "id": "sect-1d-027",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 26,
+      "rowOrder": 27,
       "problemRaw": "[[684]](https://www.erdosproblems.com/684)",
       "problemLabel": "684",
       "problemIds": [
@@ -6788,13 +6805,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-027",
+      "id": "sect-1d-028",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 27,
+      "rowOrder": 28,
       "problemRaw": "[[686]](https://www.erdosproblems.com/686)",
       "problemLabel": "686",
       "problemIds": [
@@ -6829,13 +6846,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-028",
+      "id": "sect-1d-029",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 28,
+      "rowOrder": 29,
       "problemRaw": "[[749]](https://www.erdosproblems.com/749)",
       "problemLabel": "749",
       "problemIds": [
@@ -6870,13 +6887,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-029",
+      "id": "sect-1d-030",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 29,
+      "rowOrder": 30,
       "problemRaw": "[[776]](https://www.erdosproblems.com/776)",
       "problemLabel": "776",
       "problemIds": [
@@ -6911,13 +6928,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-030",
+      "id": "sect-1d-031",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 30,
+      "rowOrder": 31,
       "problemRaw": "[[848]](https://www.erdosproblems.com/848)",
       "problemLabel": "848",
       "problemIds": [
@@ -6952,13 +6969,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-031",
+      "id": "sect-1d-032",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 31,
+      "rowOrder": 32,
       "problemRaw": "[[848]](https://www.erdosproblems.com/848)",
       "problemLabel": "848",
       "problemIds": [
@@ -6993,13 +7010,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-032",
+      "id": "sect-1d-033",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 32,
+      "rowOrder": 33,
       "problemRaw": "[[852]](https://www.erdosproblems.com/852)",
       "problemLabel": "852",
       "problemIds": [
@@ -7034,13 +7051,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-033",
+      "id": "sect-1d-034",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 33,
+      "rowOrder": 34,
       "problemRaw": "[[858]](https://www.erdosproblems.com/858)",
       "problemLabel": "858",
       "problemIds": [
@@ -7075,13 +7092,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-034",
+      "id": "sect-1d-035",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 34,
+      "rowOrder": 35,
       "problemRaw": "[[863]](https://www.erdosproblems.com/863)",
       "problemLabel": "863",
       "problemIds": [
@@ -7116,13 +7133,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-035",
+      "id": "sect-1d-036",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 35,
+      "rowOrder": 36,
       "problemRaw": "[[872]](https://www.erdosproblems.com/872)",
       "problemLabel": "872",
       "problemIds": [
@@ -7157,13 +7174,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-036",
+      "id": "sect-1d-037",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 36,
+      "rowOrder": 37,
       "problemRaw": "[[931]](https://www.erdosproblems.com/931)",
       "problemLabel": "931",
       "problemIds": [
@@ -7198,13 +7215,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-037",
+      "id": "sect-1d-038",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 37,
+      "rowOrder": 38,
       "problemRaw": "[[943]](https://www.erdosproblems.com/943)",
       "problemLabel": "943",
       "problemIds": [
@@ -7239,13 +7256,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-038",
+      "id": "sect-1d-039",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 38,
+      "rowOrder": 39,
       "problemRaw": "[[995]](https://www.erdosproblems.com/995)",
       "problemLabel": "995",
       "problemIds": [
@@ -7280,13 +7297,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-039",
+      "id": "sect-1d-040",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 39,
+      "rowOrder": 40,
       "problemRaw": "[[996]](https://www.erdosproblems.com/996)",
       "problemLabel": "996",
       "problemIds": [
@@ -7321,13 +7338,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-040",
+      "id": "sect-1d-041",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 40,
+      "rowOrder": 41,
       "problemRaw": "[[951]](https://www.erdosproblems.com/951)",
       "problemLabel": "951",
       "problemIds": [
@@ -7362,13 +7379,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-041",
+      "id": "sect-1d-042",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 41,
+      "rowOrder": 42,
       "problemRaw": "[[976]](https://www.erdosproblems.com/976)",
       "problemLabel": "976",
       "problemIds": [
@@ -7403,13 +7420,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-042",
+      "id": "sect-1d-043",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 42,
+      "rowOrder": 43,
       "problemRaw": "[[1026]](https://www.erdosproblems.com/1026)",
       "problemLabel": "1026",
       "problemIds": [
@@ -7444,13 +7461,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-043",
+      "id": "sect-1d-044",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 43,
+      "rowOrder": 44,
       "problemRaw": "[[1038]](https://www.erdosproblems.com/1038)",
       "problemLabel": "1038",
       "problemIds": [
@@ -7485,13 +7502,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-044",
+      "id": "sect-1d-045",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 44,
+      "rowOrder": 45,
       "problemRaw": "[[1039]](https://www.erdosproblems.com/1039)",
       "problemLabel": "1039",
       "problemIds": [
@@ -7526,13 +7543,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-045",
+      "id": "sect-1d-046",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 45,
+      "rowOrder": 46,
       "problemRaw": "[[1041]](https://www.erdosproblems.com/1041)",
       "problemLabel": "1041",
       "problemIds": [
@@ -7567,13 +7584,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-046",
+      "id": "sect-1d-047",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 46,
+      "rowOrder": 47,
       "problemRaw": "[[1062]](https://www.erdosproblems.com/1062)",
       "problemLabel": "1062",
       "problemIds": [
@@ -7608,13 +7625,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-047",
+      "id": "sect-1d-048",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 47,
+      "rowOrder": 48,
       "problemRaw": "[[1095]](https://www.erdosproblems.com/1095)",
       "problemLabel": "1095",
       "problemIds": [
@@ -7649,13 +7666,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-048",
+      "id": "sect-1d-049",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 48,
+      "rowOrder": 49,
       "problemRaw": "[[1132]](https://www.erdosproblems.com/1132)",
       "problemLabel": "1132",
       "problemIds": [
@@ -7690,13 +7707,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-049",
+      "id": "sect-1d-050",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 49,
+      "rowOrder": 50,
       "problemRaw": "[[1138]](https://www.erdosproblems.com/1138)",
       "problemLabel": "1138",
       "problemIds": [
@@ -7731,13 +7748,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-050",
+      "id": "sect-1d-051",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 50,
+      "rowOrder": 51,
       "problemRaw": "[[1141]](https://www.erdosproblems.com/1141)",
       "problemLabel": "1141",
       "problemIds": [
@@ -7772,13 +7789,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-051",
+      "id": "sect-1d-052",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 51,
+      "rowOrder": 52,
       "problemRaw": "[[1148]](https://www.erdosproblems.com/1148)",
       "problemLabel": "1148",
       "problemIds": [
@@ -7813,13 +7830,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-052",
+      "id": "sect-1d-053",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 52,
+      "rowOrder": 53,
       "problemRaw": "[[1153]](https://www.erdosproblems.com/1153)",
       "problemLabel": "1153",
       "problemIds": [
@@ -7854,13 +7871,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-053",
+      "id": "sect-1d-054",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 53,
+      "rowOrder": 54,
       "problemRaw": "[[1183]](https://www.erdosproblems.com/1183)",
       "problemLabel": "1183",
       "problemIds": [
@@ -7895,13 +7912,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-054",
+      "id": "sect-1d-055",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 54,
+      "rowOrder": 55,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -7936,13 +7953,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-055",
+      "id": "sect-1d-056",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 55,
+      "rowOrder": 56,
       "problemRaw": "[[1209]](https://www.erdosproblems.com/1209)",
       "problemLabel": "1209",
       "problemIds": [
@@ -19436,27 +19453,27 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/38"
         }
       ],
-      "aiSystemsRaw": "25 Apr, 2026",
-      "aiSystemsLabel": "25 Apr, 2026",
-      "humansRaw": "GPT-5.5 Pro",
-      "humansLabel": "GPT-5.5 Pro",
-      "dateRaw": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[38]](https://www.erdosproblems.com/38)",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "25 Apr, 2026",
-        "Date": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "38",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "25 Apr, 2026",
-        "Date": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
@@ -19481,28 +19498,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/202"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro",
-      "humansRaw": "Boon Suan Ho",
-      "humansLabel": "Boon Suan Ho",
-      "dateRaw": "23 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[202]](https://www.erdosproblems.com/202)",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "23 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "202",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "23 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19526,28 +19543,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/330"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "David Turturean",
-      "humansLabel": "David Turturean",
-      "dateRaw": "24 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[330]](https://www.erdosproblems.com/330)",
-        "Humans": "David Turturean",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "330",
-        "Humans": "David Turturean",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19571,28 +19588,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/451"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Quanyu Tang",
-      "humansLabel": "Quanyu Tang",
-      "dateRaw": "26 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result?",
-      "descriptionLabel": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[451]](https://www.erdosproblems.com/451)",
-        "Humans": "Quanyu Tang",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "451",
-        "Humans": "Quanyu Tang",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19616,28 +19633,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/503"
         }
       ],
-      "aiSystemsRaw": "Aristotle, GPT-5.4 Pro",
-      "aiSystemsLabel": "Aristotle, GPT-5.4 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "22 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result?",
-      "descriptionLabel": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[503]](https://www.erdosproblems.com/503)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.4 Pro",
-        "Date": "22 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "503",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.4 Pro",
-        "Date": "22 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19661,28 +19678,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/514"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "20 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result?",
-      "descriptionLabel": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[514]](https://www.erdosproblems.com/514)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "20 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "514",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "20 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19695,39 +19712,39 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 7,
-      "problemRaw": "[[535]](https://www.erdosproblems.com/535)",
-      "problemLabel": "535",
+      "problemRaw": "[[514]](https://www.erdosproblems.com/514)",
+      "problemLabel": "514",
       "problemIds": [
-        535
+        514
       ],
       "problemLinks": [
         {
-          "label": "535",
-          "url": "https://www.erdosproblems.com/535"
+          "label": "514",
+          "url": "https://www.erdosproblems.com/514"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Thinking",
-      "aiSystemsLabel": "GPT-5.5 Thinking",
-      "humansRaw": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
-      "humansLabel": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
-      "dateRaw": "27 Apr, 2026",
-      "descriptionRaw": "?",
-      "descriptionLabel": "?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
-        "Problem": "[[535]](https://www.erdosproblems.com/535)",
-        "Humans": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
-        "AI systems": "GPT-5.5 Thinking",
-        "Date": "27 Apr, 2026",
-        "Outcome": "?",
+        "Problem": "[[514]](https://www.erdosproblems.com/514)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
-        "Problem": "535",
-        "Humans": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
-        "AI systems": "GPT-5.5 Thinking",
-        "Date": "27 Apr, 2026",
-        "Outcome": "?",
+        "Problem": "514",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19740,39 +19757,39 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 8,
-      "problemRaw": "[[598]](https://www.erdosproblems.com/598)",
-      "problemLabel": "598",
+      "problemRaw": "[[535]](https://www.erdosproblems.com/535)",
+      "problemLabel": "535",
       "problemIds": [
-        598
+        535
       ],
       "problemLinks": [
         {
-          "label": "598",
-          "url": "https://www.erdosproblems.com/598"
+          "label": "535",
+          "url": "https://www.erdosproblems.com/535"
         }
       ],
-      "aiSystemsRaw": "Aristotle, GPT-5.4 Pro",
-      "aiSystemsLabel": "Aristotle, GPT-5.4 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "22 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result?",
-      "descriptionLabel": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
-        "Problem": "[[598]](https://www.erdosproblems.com/598)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.4 Pro",
-        "Date": "22 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Problem": "[[535]](https://www.erdosproblems.com/535)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
-        "Problem": "598",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.4 Pro",
-        "Date": "22 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Problem": "535",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19785,39 +19802,39 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 9,
-      "problemRaw": "[[675]](https://www.erdosproblems.com/675)",
-      "problemLabel": "675",
+      "problemRaw": "[[598]](https://www.erdosproblems.com/598)",
+      "problemLabel": "598",
       "problemIds": [
-        675
+        598
       ],
       "problemLinks": [
         {
-          "label": "675",
-          "url": "https://www.erdosproblems.com/675"
+          "label": "598",
+          "url": "https://www.erdosproblems.com/598"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro",
-      "humansRaw": "Boon Suan Ho",
-      "humansLabel": "Boon Suan Ho",
-      "dateRaw": "18 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result?",
-      "descriptionLabel": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
-        "Problem": "[[675]](https://www.erdosproblems.com/675)",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "18 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Problem": "[[598]](https://www.erdosproblems.com/598)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
-        "Problem": "675",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "18 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Problem": "598",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19841,28 +19858,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/696"
         }
       ],
-      "aiSystemsRaw": "Claude Code, GPT-5.5 Pro",
-      "aiSystemsLabel": "Claude Code, GPT-5.5 Pro",
-      "humansRaw": "David Turturean",
-      "humansLabel": "David Turturean",
-      "dateRaw": "26 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[696]](https://www.erdosproblems.com/696)",
-        "Humans": "David Turturean",
-        "AI systems": "Claude Code, GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "696",
-        "Humans": "David Turturean",
-        "AI systems": "Claude Code, GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19886,27 +19903,27 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/836"
         }
       ],
-      "aiSystemsRaw": "27 Apr, 2026",
-      "aiSystemsLabel": "27 Apr, 2026",
-      "humansRaw": "GPT-5.5 Pro",
-      "humansLabel": "GPT-5.5 Pro",
-      "dateRaw": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[836]](https://www.erdosproblems.com/836)",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "27 Apr, 2026",
-        "Date": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "836",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "27 Apr, 2026",
-        "Date": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
@@ -19931,28 +19948,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/852"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Przemek Chojecki, David Turturean",
-      "humansLabel": "Przemek Chojecki, David Turturean",
-      "dateRaw": "24 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result?",
-      "descriptionLabel": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[852]](https://www.erdosproblems.com/852)",
-        "Humans": "Przemek Chojecki, David Turturean",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "852",
-        "Humans": "Przemek Chojecki, David Turturean",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
-        "Outcome": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -19976,28 +19993,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/856"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "15 Apr, 2026",
-      "descriptionRaw": "?",
-      "descriptionLabel": "?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[856]](https://www.erdosproblems.com/856)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "15 Apr, 2026",
-        "Outcome": "?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "856",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "15 Apr, 2026",
-        "Outcome": "?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20021,28 +20038,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/870"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro, GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro, GPT-5.5 Pro",
-      "humansRaw": "David Turturean",
-      "humansLabel": "David Turturean",
-      "dateRaw": "24 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[870]](https://www.erdosproblems.com/870)",
-        "Humans": "David Turturean",
-        "AI systems": "GPT-5.4 Pro, GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "870",
-        "Humans": "David Turturean",
-        "AI systems": "GPT-5.4 Pro, GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20066,28 +20083,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/888"
         }
       ],
-      "aiSystemsRaw": "Aristotle, GPT-5.5 Pro",
-      "aiSystemsLabel": "Aristotle, GPT-5.5 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "25 Apr, 2026",
-      "descriptionRaw": "?",
-      "descriptionLabel": "?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[888]](https://www.erdosproblems.com/888)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.5 Pro",
-        "Date": "25 Apr, 2026",
-        "Outcome": "?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "888",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.5 Pro",
-        "Date": "25 Apr, 2026",
-        "Outcome": "?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20111,28 +20128,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/896"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "26 Apr, 2026",
-      "descriptionRaw": "?",
-      "descriptionLabel": "?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[896]](https://www.erdosproblems.com/896)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "896",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20156,28 +20173,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/906"
         }
       ],
-      "aiSystemsRaw": "Unspecified",
-      "aiSystemsLabel": "Unspecified",
-      "humansRaw": "Adriano Almeida",
-      "humansLabel": "Adriano Almeida",
-      "dateRaw": "25 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[906]](https://www.erdosproblems.com/906)",
-        "Humans": "Adriano Almeida",
-        "AI systems": "Unspecified",
-        "Date": "25 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "906",
-        "Humans": "Adriano Almeida",
-        "AI systems": "Unspecified",
-        "Date": "25 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20201,28 +20218,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/953"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "27 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[953]](https://www.erdosproblems.com/953)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "27 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "953",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "27 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20246,28 +20263,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/956"
         }
       ],
-      "aiSystemsRaw": "Aristotle, GPT-5.5 Pro",
-      "aiSystemsLabel": "Aristotle, GPT-5.5 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "27 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[956]](https://www.erdosproblems.com/956)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.5 Pro",
-        "Date": "27 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "956",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "Aristotle, GPT-5.5 Pro",
-        "Date": "27 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20291,28 +20308,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1092"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Przemek Chojecki",
-      "humansLabel": "Przemek Chojecki",
-      "dateRaw": "28 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[1092]](https://www.erdosproblems.com/1092)",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "28 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "1092",
-        "Humans": "Przemek Chojecki",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "28 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20336,27 +20353,27 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1101"
         }
       ],
-      "aiSystemsRaw": "27 Apr, 2026",
-      "aiSystemsLabel": "27 Apr, 2026",
-      "humansRaw": "GPT-5.5 Pro",
-      "humansLabel": "GPT-5.5 Pro",
-      "dateRaw": "🟡 Partial result (solution to second part)?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[1101]](https://www.erdosproblems.com/1101)",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "27 Apr, 2026",
-        "Date": "🟡 Partial result (solution to second part)?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "1101",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "27 Apr, 2026",
-        "Date": "🟡 Partial result (solution to second part)?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
@@ -20381,27 +20398,27 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1131"
         }
       ],
-      "aiSystemsRaw": "26 Apr, 2026",
-      "aiSystemsLabel": "26 Apr, 2026",
-      "humansRaw": "GPT-5.5 Pro",
-      "humansLabel": "GPT-5.5 Pro",
-      "dateRaw": "🟡 Partial result?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[1131]](https://www.erdosproblems.com/1131)",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "26 Apr, 2026",
-        "Date": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "1131",
-        "Humans": "GPT-5.5 Pro",
-        "AI systems": "26 Apr, 2026",
-        "Date": "🟡 Partial result?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
         "Outcome": "",
         "E": "",
         "F": ""
@@ -20426,28 +20443,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1190"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro",
-      "humansRaw": "Boon Suan Ho",
-      "humansLabel": "Boon Suan Ho",
-      "dateRaw": "23 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[1190]](https://www.erdosproblems.com/1190)",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "23 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "1190",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "23 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
@@ -20471,28 +20488,28 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1195"
         }
       ],
-      "aiSystemsRaw": "GPT-5.4 Pro",
-      "aiSystemsLabel": "GPT-5.4 Pro",
-      "humansRaw": "Boon Suan Ho",
-      "humansLabel": "Boon Suan Ho",
-      "dateRaw": "19 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution?",
-      "descriptionLabel": "🟢 Full solution?",
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[1195]](https://www.erdosproblems.com/1195)",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "19 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       },
       "fieldsPlain": {
         "Problem": "1195",
-        "Humans": "Boon Suan Ho",
-        "AI systems": "GPT-5.4 Pro",
-        "Date": "19 Apr, 2026",
-        "Outcome": "🟢 Full solution?",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
         "E": "",
         "F": ""
       }
