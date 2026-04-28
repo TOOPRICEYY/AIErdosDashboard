@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-28T16:01:51.850Z",
+    "generatedAt": "2026-04-28T16:54:43.128Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 485,
+    "recordCount": 487,
     "sectionCount": 10
   },
   "sections": [
@@ -154,7 +154,7 @@ window.ERDOS_AI_DATA = {
         "E",
         "F"
       ],
-      "rowCount": 22
+      "rowCount": 24
     }
   ],
   "releases": [
@@ -20190,6 +20190,51 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 18,
+      "problemRaw": "[[953]](https://www.erdosproblems.com/953)",
+      "problemLabel": "953",
+      "problemIds": [
+        953
+      ],
+      "problemLinks": [
+        {
+          "label": "953",
+          "url": "https://www.erdosproblems.com/953"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Pro",
+      "aiSystemsLabel": "GPT-5.5 Pro",
+      "humansRaw": "Przemek Chojecki",
+      "humansLabel": "Przemek Chojecki",
+      "dateRaw": "27 Apr, 2026",
+      "descriptionRaw": "🟢 Full solution?",
+      "descriptionLabel": "🟢 Full solution?",
+      "fieldsRaw": {
+        "Problem": "[[953]](https://www.erdosproblems.com/953)",
+        "Humans": "Przemek Chojecki",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "27 Apr, 2026",
+        "Outcome": "🟢 Full solution?",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "953",
+        "Humans": "Przemek Chojecki",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "27 Apr, 2026",
+        "Outcome": "🟢 Full solution?",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-019",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 11,
+      "rowOrder": 19,
       "problemRaw": "[[956]](https://www.erdosproblems.com/956)",
       "problemLabel": "956",
       "problemIds": [
@@ -20228,13 +20273,58 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-019",
+      "id": "sect-3-020",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 19,
+      "rowOrder": 20,
+      "problemRaw": "[[1092]](https://www.erdosproblems.com/1092)",
+      "problemLabel": "1092",
+      "problemIds": [
+        1092
+      ],
+      "problemLinks": [
+        {
+          "label": "1092",
+          "url": "https://www.erdosproblems.com/1092"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Pro",
+      "aiSystemsLabel": "GPT-5.5 Pro",
+      "humansRaw": "Przemek Chojecki",
+      "humansLabel": "Przemek Chojecki",
+      "dateRaw": "28 Apr, 2026",
+      "descriptionRaw": "🟢 Full solution?",
+      "descriptionLabel": "🟢 Full solution?",
+      "fieldsRaw": {
+        "Problem": "[[1092]](https://www.erdosproblems.com/1092)",
+        "Humans": "Przemek Chojecki",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "28 Apr, 2026",
+        "Outcome": "🟢 Full solution?",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "1092",
+        "Humans": "Przemek Chojecki",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "28 Apr, 2026",
+        "Outcome": "🟢 Full solution?",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-021",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 11,
+      "rowOrder": 21,
       "problemRaw": "[[1101]](https://www.erdosproblems.com/1101)",
       "problemLabel": "1101",
       "problemIds": [
@@ -20273,13 +20363,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-020",
+      "id": "sect-3-022",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 20,
+      "rowOrder": 22,
       "problemRaw": "[[1131]](https://www.erdosproblems.com/1131)",
       "problemLabel": "1131",
       "problemIds": [
@@ -20318,13 +20408,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-021",
+      "id": "sect-3-023",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 21,
+      "rowOrder": 23,
       "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
       "problemLabel": "1190",
       "problemIds": [
@@ -20363,13 +20453,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-022",
+      "id": "sect-3-024",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 22,
+      "rowOrder": 24,
       "problemRaw": "[[1195]](https://www.erdosproblems.com/1195)",
       "problemLabel": "1195",
       "problemIds": [
