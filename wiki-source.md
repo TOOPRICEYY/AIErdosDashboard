@@ -620,6 +620,7 @@ Sorted by the author's last name alphabetically.
 | [[451]](https://www.erdosproblems.com/451) | Quanyu Tang | GPT-5.5 Pro | 26 Apr, 2026 | 🟡 Partial result?
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
 | [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result?
+| [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | ?
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🟡 Partial result?
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result?
 | [[696]](https://www.erdosproblems.com/696) | David Turturean | Claude Code, GPT-5.5 Pro | 26 Apr, 2026 | 🟢 Full solution?
