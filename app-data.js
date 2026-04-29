@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-29T15:55:36.691Z",
+    "generatedAt": "2026-04-29T16:50:54.841Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 491,
+    "recordCount": 492,
     "sectionCount": 10
   },
   "sections": [
@@ -152,7 +152,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Status"
       ],
-      "rowCount": 24
+      "rowCount": 25
     }
   ],
   "releases": [
@@ -20600,6 +20600,51 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 24,
+      "problemRaw": "[[1143]](https://www.erdosproblems.com/1143)",
+      "problemLabel": "1143",
+      "problemIds": [
+        1143
+      ],
+      "problemLinks": [
+        {
+          "label": "1143",
+          "url": "https://www.erdosproblems.com/1143"
+        }
+      ],
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[1143]](https://www.erdosproblems.com/1143)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "1143",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-025",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 11,
+      "rowOrder": 25,
       "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
       "problemLabel": "1190",
       "problemIds": [
