@@ -550,6 +550,7 @@ Sorted by the author's last name alphabetically.
 | [[1034]](https://www.erdosproblems.com/1034) | 🟢 Ma-Tang (2025) | Aristotle | 4 Dec, 2025
 | [[1036]](https://www.erdosproblems.com/1036) | 🟢 Shelah (1998) | Aristotle | 20 Jan, 2026
 | [[1037]](https://www.erdosproblems.com/1037) | 🟢 Cambie, Chan, and Hunter (2025) | Aristotle | 19 Jan, 2026
+| [[1044]](https://www.erdosproblems.com/1044) | 🟢 Tang (2026) | Aristotle | 28 Apr, 2026
 | [[1048]](https://www.erdosproblems.com/1048) | 🟢 Pommerenke (1961) | Aristotle | 27 Jan, 2026
 | [[1067]](https://www.erdosproblems.com/1067) | 🟢 Bowler and Pitz (2024) | Aleph Prover, Aristotle | 28 Jan, 2026
 | [[1071]](https://www.erdosproblems.com/1071) | 🟢 Danzer; Alexeev (2026) | Aleph Prover, Aristotle, GPT | 29 Jan, 2026 (second part); 12 Feb, 2026 (first part)
