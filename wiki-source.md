@@ -633,6 +633,7 @@ Sorted by the author's last name alphabetically.
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[870]](https://www.erdosproblems.com/870) | David Turturean | GPT-5.4 Pro, GPT-5.5 Pro | 24 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[872]](https://www.erdosproblems.com/872) | Jonas Silva | GPT-5.5 Pro | 29 Apr, 2026 | 1(d) 🟡 Partial result?
+| [[873]](https://www.erdosproblems.com/873) | Ritvik Nayak | GPT-5.4 Thinking | 29 Apr, 2026 | 1(d) 🟡 Partial result?
 | [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[896]](https://www.erdosproblems.com/896) | Przemek Chojecki | GPT-5.5 Pro | 26 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | 1(d) 🟢 Full solution?
