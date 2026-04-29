@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-28T19:52:58.433Z",
+    "generatedAt": "2026-04-29T07:06:43.373Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 488,
@@ -66,7 +66,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 57
+      "rowCount": 58
     },
     {
       "title": "2(a). Literature search",
@@ -152,7 +152,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Potential status"
       ],
-      "rowCount": 23
+      "rowCount": 22
     }
   ],
   "releases": [
@@ -6566,6 +6566,47 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
       "rowOrder": 22,
+      "problemRaw": "[[535]](https://www.erdosproblems.com/535)",
+      "problemLabel": "535",
+      "problemIds": [
+        535
+      ],
+      "problemLinks": [
+        {
+          "label": "535",
+          "url": "https://www.erdosproblems.com/535"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Thinking",
+      "aiSystemsLabel": "GPT-5.5 Thinking",
+      "humansRaw": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
+      "humansLabel": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
+      "dateRaw": "27 Apr, 2026",
+      "descriptionRaw": "🟡 Partial result",
+      "descriptionLabel": "🟡 Partial result",
+      "fieldsRaw": {
+        "Problem": "[[535]](https://www.erdosproblems.com/535)",
+        "Humans": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
+        "AI systems": "GPT-5.5 Thinking",
+        "Date": "27 Apr, 2026",
+        "Outcome": "🟡 Partial result"
+      },
+      "fieldsPlain": {
+        "Problem": "535",
+        "Humans": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
+        "AI systems": "GPT-5.5 Thinking",
+        "Date": "27 Apr, 2026",
+        "Outcome": "🟡 Partial result"
+      }
+    },
+    {
+      "id": "sect-1d-023",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(d). AI collaborating with humans",
+      "subsectionAnchor": "sect-1d",
+      "subsectionOrder": 4,
+      "rowOrder": 23,
       "problemRaw": "[[603]](https://www.erdosproblems.com/603)",
       "problemLabel": "603",
       "problemIds": [
@@ -6600,13 +6641,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-023",
+      "id": "sect-1d-024",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 23,
+      "rowOrder": 24,
       "problemRaw": "[[610]](https://www.erdosproblems.com/610)",
       "problemLabel": "610",
       "problemIds": [
@@ -6641,13 +6682,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-024",
+      "id": "sect-1d-025",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 24,
+      "rowOrder": 25,
       "problemRaw": "[[659]](https://www.erdosproblems.com/659)",
       "problemLabel": "659",
       "problemIds": [
@@ -6682,13 +6723,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-025",
+      "id": "sect-1d-026",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 25,
+      "rowOrder": 26,
       "problemRaw": "[[675]](https://www.erdosproblems.com/675)",
       "problemLabel": "675",
       "problemIds": [
@@ -6723,13 +6764,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-026",
+      "id": "sect-1d-027",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 26,
+      "rowOrder": 27,
       "problemRaw": "[[684]](https://www.erdosproblems.com/684)",
       "problemLabel": "684",
       "problemIds": [
@@ -6764,13 +6805,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-027",
+      "id": "sect-1d-028",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 27,
+      "rowOrder": 28,
       "problemRaw": "[[684]](https://www.erdosproblems.com/684)",
       "problemLabel": "684",
       "problemIds": [
@@ -6805,13 +6846,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-028",
+      "id": "sect-1d-029",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 28,
+      "rowOrder": 29,
       "problemRaw": "[[686]](https://www.erdosproblems.com/686)",
       "problemLabel": "686",
       "problemIds": [
@@ -6846,13 +6887,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-029",
+      "id": "sect-1d-030",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 29,
+      "rowOrder": 30,
       "problemRaw": "[[749]](https://www.erdosproblems.com/749)",
       "problemLabel": "749",
       "problemIds": [
@@ -6887,13 +6928,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-030",
+      "id": "sect-1d-031",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 30,
+      "rowOrder": 31,
       "problemRaw": "[[776]](https://www.erdosproblems.com/776)",
       "problemLabel": "776",
       "problemIds": [
@@ -6928,13 +6969,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-031",
+      "id": "sect-1d-032",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 31,
+      "rowOrder": 32,
       "problemRaw": "[[848]](https://www.erdosproblems.com/848)",
       "problemLabel": "848",
       "problemIds": [
@@ -6969,13 +7010,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-032",
+      "id": "sect-1d-033",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 32,
+      "rowOrder": 33,
       "problemRaw": "[[848]](https://www.erdosproblems.com/848)",
       "problemLabel": "848",
       "problemIds": [
@@ -7010,13 +7051,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-033",
+      "id": "sect-1d-034",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 33,
+      "rowOrder": 34,
       "problemRaw": "[[852]](https://www.erdosproblems.com/852)",
       "problemLabel": "852",
       "problemIds": [
@@ -7051,13 +7092,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-034",
+      "id": "sect-1d-035",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 34,
+      "rowOrder": 35,
       "problemRaw": "[[858]](https://www.erdosproblems.com/858)",
       "problemLabel": "858",
       "problemIds": [
@@ -7092,13 +7133,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-035",
+      "id": "sect-1d-036",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 35,
+      "rowOrder": 36,
       "problemRaw": "[[863]](https://www.erdosproblems.com/863)",
       "problemLabel": "863",
       "problemIds": [
@@ -7133,13 +7174,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-036",
+      "id": "sect-1d-037",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 36,
+      "rowOrder": 37,
       "problemRaw": "[[872]](https://www.erdosproblems.com/872)",
       "problemLabel": "872",
       "problemIds": [
@@ -7174,13 +7215,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-037",
+      "id": "sect-1d-038",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 37,
+      "rowOrder": 38,
       "problemRaw": "[[931]](https://www.erdosproblems.com/931)",
       "problemLabel": "931",
       "problemIds": [
@@ -7215,13 +7256,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-038",
+      "id": "sect-1d-039",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 38,
+      "rowOrder": 39,
       "problemRaw": "[[943]](https://www.erdosproblems.com/943)",
       "problemLabel": "943",
       "problemIds": [
@@ -7256,13 +7297,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-039",
+      "id": "sect-1d-040",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 39,
+      "rowOrder": 40,
       "problemRaw": "[[995]](https://www.erdosproblems.com/995)",
       "problemLabel": "995",
       "problemIds": [
@@ -7297,13 +7338,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-040",
+      "id": "sect-1d-041",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 40,
+      "rowOrder": 41,
       "problemRaw": "[[996]](https://www.erdosproblems.com/996)",
       "problemLabel": "996",
       "problemIds": [
@@ -7338,13 +7379,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-041",
+      "id": "sect-1d-042",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 41,
+      "rowOrder": 42,
       "problemRaw": "[[951]](https://www.erdosproblems.com/951)",
       "problemLabel": "951",
       "problemIds": [
@@ -7379,13 +7420,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-042",
+      "id": "sect-1d-043",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 42,
+      "rowOrder": 43,
       "problemRaw": "[[976]](https://www.erdosproblems.com/976)",
       "problemLabel": "976",
       "problemIds": [
@@ -7420,13 +7461,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-043",
+      "id": "sect-1d-044",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 43,
+      "rowOrder": 44,
       "problemRaw": "[[1026]](https://www.erdosproblems.com/1026)",
       "problemLabel": "1026",
       "problemIds": [
@@ -7461,13 +7502,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-044",
+      "id": "sect-1d-045",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 44,
+      "rowOrder": 45,
       "problemRaw": "[[1038]](https://www.erdosproblems.com/1038)",
       "problemLabel": "1038",
       "problemIds": [
@@ -7502,13 +7543,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-045",
+      "id": "sect-1d-046",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 45,
+      "rowOrder": 46,
       "problemRaw": "[[1039]](https://www.erdosproblems.com/1039)",
       "problemLabel": "1039",
       "problemIds": [
@@ -7543,13 +7584,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-046",
+      "id": "sect-1d-047",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 46,
+      "rowOrder": 47,
       "problemRaw": "[[1041]](https://www.erdosproblems.com/1041)",
       "problemLabel": "1041",
       "problemIds": [
@@ -7584,13 +7625,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-047",
+      "id": "sect-1d-048",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 47,
+      "rowOrder": 48,
       "problemRaw": "[[1062]](https://www.erdosproblems.com/1062)",
       "problemLabel": "1062",
       "problemIds": [
@@ -7625,13 +7666,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-048",
+      "id": "sect-1d-049",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 48,
+      "rowOrder": 49,
       "problemRaw": "[[1095]](https://www.erdosproblems.com/1095)",
       "problemLabel": "1095",
       "problemIds": [
@@ -7666,13 +7707,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-049",
+      "id": "sect-1d-050",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 49,
+      "rowOrder": 50,
       "problemRaw": "[[1132]](https://www.erdosproblems.com/1132)",
       "problemLabel": "1132",
       "problemIds": [
@@ -7707,13 +7748,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-050",
+      "id": "sect-1d-051",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 50,
+      "rowOrder": 51,
       "problemRaw": "[[1138]](https://www.erdosproblems.com/1138)",
       "problemLabel": "1138",
       "problemIds": [
@@ -7748,13 +7789,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-051",
+      "id": "sect-1d-052",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 51,
+      "rowOrder": 52,
       "problemRaw": "[[1141]](https://www.erdosproblems.com/1141)",
       "problemLabel": "1141",
       "problemIds": [
@@ -7789,13 +7830,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-052",
+      "id": "sect-1d-053",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 52,
+      "rowOrder": 53,
       "problemRaw": "[[1148]](https://www.erdosproblems.com/1148)",
       "problemLabel": "1148",
       "problemIds": [
@@ -7830,13 +7871,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-053",
+      "id": "sect-1d-054",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 53,
+      "rowOrder": 54,
       "problemRaw": "[[1153]](https://www.erdosproblems.com/1153)",
       "problemLabel": "1153",
       "problemIds": [
@@ -7871,13 +7912,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-054",
+      "id": "sect-1d-055",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 54,
+      "rowOrder": 55,
       "problemRaw": "[[1183]](https://www.erdosproblems.com/1183)",
       "problemLabel": "1183",
       "problemIds": [
@@ -7912,13 +7953,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-055",
+      "id": "sect-1d-056",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 55,
+      "rowOrder": 56,
       "problemRaw": "[[1195]](https://www.erdosproblems.com/1195)",
       "problemLabel": "1195",
       "problemIds": [
@@ -7953,13 +7994,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-056",
+      "id": "sect-1d-057",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 56,
+      "rowOrder": 57,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -7994,13 +8035,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-057",
+      "id": "sect-1d-058",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 57,
+      "rowOrder": 58,
       "problemRaw": "[[1209]](https://www.erdosproblems.com/1209)",
       "problemLabel": "1209",
       "problemIds": [
@@ -19798,51 +19839,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 8,
-      "problemRaw": "[[535]](https://www.erdosproblems.com/535)",
-      "problemLabel": "535",
-      "problemIds": [
-        535
-      ],
-      "problemLinks": [
-        {
-          "label": "535",
-          "url": "https://www.erdosproblems.com/535"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[535]](https://www.erdosproblems.com/535)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "535",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-009",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 11,
-      "rowOrder": 9,
       "problemRaw": "[[598]](https://www.erdosproblems.com/598)",
       "problemLabel": "598",
       "problemIds": [
@@ -19881,13 +19877,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-010",
+      "id": "sect-3-009",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 10,
+      "rowOrder": 9,
       "problemRaw": "[[696]](https://www.erdosproblems.com/696)",
       "problemLabel": "696",
       "problemIds": [
@@ -19926,13 +19922,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-011",
+      "id": "sect-3-010",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 11,
+      "rowOrder": 10,
       "problemRaw": "[[836]](https://www.erdosproblems.com/836)",
       "problemLabel": "836",
       "problemIds": [
@@ -19971,13 +19967,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-012",
+      "id": "sect-3-011",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 12,
+      "rowOrder": 11,
       "problemRaw": "[[852]](https://www.erdosproblems.com/852)",
       "problemLabel": "852",
       "problemIds": [
@@ -20016,13 +20012,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-013",
+      "id": "sect-3-012",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 13,
+      "rowOrder": 12,
       "problemRaw": "[[856]](https://www.erdosproblems.com/856)",
       "problemLabel": "856",
       "problemIds": [
@@ -20061,13 +20057,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-014",
+      "id": "sect-3-013",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 14,
+      "rowOrder": 13,
       "problemRaw": "[[870]](https://www.erdosproblems.com/870)",
       "problemLabel": "870",
       "problemIds": [
@@ -20106,13 +20102,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-015",
+      "id": "sect-3-014",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 15,
+      "rowOrder": 14,
       "problemRaw": "[[888]](https://www.erdosproblems.com/888)",
       "problemLabel": "888",
       "problemIds": [
@@ -20151,13 +20147,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-016",
+      "id": "sect-3-015",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 16,
+      "rowOrder": 15,
       "problemRaw": "[[896]](https://www.erdosproblems.com/896)",
       "problemLabel": "896",
       "problemIds": [
@@ -20196,13 +20192,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-017",
+      "id": "sect-3-016",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 17,
+      "rowOrder": 16,
       "problemRaw": "[[906]](https://www.erdosproblems.com/906)",
       "problemLabel": "906",
       "problemIds": [
@@ -20241,13 +20237,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-018",
+      "id": "sect-3-017",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 18,
+      "rowOrder": 17,
       "problemRaw": "[[953]](https://www.erdosproblems.com/953)",
       "problemLabel": "953",
       "problemIds": [
@@ -20286,13 +20282,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-019",
+      "id": "sect-3-018",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 19,
+      "rowOrder": 18,
       "problemRaw": "[[956]](https://www.erdosproblems.com/956)",
       "problemLabel": "956",
       "problemIds": [
@@ -20331,13 +20327,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-020",
+      "id": "sect-3-019",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 20,
+      "rowOrder": 19,
       "problemRaw": "[[1092]](https://www.erdosproblems.com/1092)",
       "problemLabel": "1092",
       "problemIds": [
@@ -20376,13 +20372,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-021",
+      "id": "sect-3-020",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 21,
+      "rowOrder": 20,
       "problemRaw": "[[1101]](https://www.erdosproblems.com/1101)",
       "problemLabel": "1101",
       "problemIds": [
@@ -20421,13 +20417,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-022",
+      "id": "sect-3-021",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 22,
+      "rowOrder": 21,
       "problemRaw": "[[1131]](https://www.erdosproblems.com/1131)",
       "problemLabel": "1131",
       "problemIds": [
@@ -20466,13 +20462,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-023",
+      "id": "sect-3-022",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 23,
+      "rowOrder": 22,
       "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
       "problemLabel": "1190",
       "problemIds": [
