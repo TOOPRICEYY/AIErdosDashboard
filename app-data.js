@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-29T07:06:43.373Z",
+    "generatedAt": "2026-04-29T07:57:08.177Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 488,
@@ -147,10 +147,10 @@ window.ERDOS_AI_DATA = {
       "order": 11,
       "headers": [
         "Problem",
-        "Authors",
-        "Tool used",
+        "Correspondents",
+        "AI systems",
         "Date",
-        "Potential status"
+        "Status"
       ],
       "rowCount": 22
     }
