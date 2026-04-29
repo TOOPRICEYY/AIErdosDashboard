@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-29T16:50:54.841Z",
+    "generatedAt": "2026-04-29T19:50:31.216Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 492,
@@ -6584,21 +6584,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
       "humansLabel": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
       "dateRaw": "27 Apr, 2026",
-      "descriptionRaw": "🟡 Partial result",
-      "descriptionLabel": "🟡 Partial result",
+      "descriptionRaw": "🟡 Partial result (already implicitly in the literature)",
+      "descriptionLabel": "🟡 Partial result (already implicitly in the literature)",
       "fieldsRaw": {
         "Problem": "[[535]](https://www.erdosproblems.com/535)",
         "Humans": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
         "AI systems": "GPT-5.5 Thinking",
         "Date": "27 Apr, 2026",
-        "Outcome": "🟡 Partial result"
+        "Outcome": "🟡 Partial result (already implicitly in the literature)"
       },
       "fieldsPlain": {
         "Problem": "535",
         "Humans": "Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder",
         "AI systems": "GPT-5.5 Thinking",
         "Date": "27 Apr, 2026",
-        "Outcome": "🟡 Partial result"
+        "Outcome": "🟡 Partial result (already implicitly in the literature)"
       }
     },
     {
