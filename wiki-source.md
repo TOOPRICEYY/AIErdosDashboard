@@ -209,6 +209,7 @@ Sorted by the author's last name alphabetically.
 | [[951]](https://www.erdosproblems.com/951) | AlphaEvolve | 28 Jan, 2026 | 🟡 Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) [solution to one formulation of problem] | 🟡 New solution to one formulation of problem
 | [[958]](https://www.erdosproblems.com/958) | Aristotle | 27 Dec, 2025 | 🟢 Clemen, Dumitrescu, and Liu (2025) | 🟢 New proof found (Lean)
 | [[966]](https://www.erdosproblems.com/966) | Aristotle | 25 Feb, 2026 | 🟢 Spencer (unpublished) | 🟢 Full solution (Lean)
+| [[1004]](https://www.erdosproblems.com/1004) | GPT-5.5 Pro | 29 Apr, 2026 | 🟡 Pollack, Pomerance, and Treviño (2013) | 🟡 Partial result (implicit in literature)
 | [[1007]](https://www.erdosproblems.com/1007) | Aristotle | 19 Jan, 2026 | 🟢 House (2013); 🟢 Chaffee and Noble (2016) | 🟢 New proof found (Lean)
 | [[1043]](https://www.erdosproblems.com/1043) | Aristotle | 28 Dec, 2025 | 🟢 Pommerenke (1961) | 🟢 New proof found (Lean)
 | [[1043]](https://www.erdosproblems.com/1043) | GPT | 30 Dec, 2025 | 🟢 Pommerenke (1961), Aristotle | 🟢 New proof found

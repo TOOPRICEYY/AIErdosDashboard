@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-30T09:57:19.104Z",
+    "generatedAt": "2026-04-30T13:55:42.653Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 492,
+    "recordCount": 493,
     "sectionCount": 10
   },
   "sections": [
@@ -51,7 +51,7 @@ window.ERDOS_AI_DATA = {
         "Literature",
         "Outcome"
       ],
-      "rowCount": 41
+      "rowCount": 42
     },
     {
       "title": "1(d). AI collaborating with humans",
@@ -5297,6 +5297,47 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
       "rowOrder": 33,
+      "problemRaw": "[[1004]](https://www.erdosproblems.com/1004)",
+      "problemLabel": "1004",
+      "problemIds": [
+        1004
+      ],
+      "problemLinks": [
+        {
+          "label": "1004",
+          "url": "https://www.erdosproblems.com/1004"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Pro",
+      "aiSystemsLabel": "GPT-5.5 Pro",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "29 Apr, 2026",
+      "descriptionRaw": "🟡 Partial result (implicit in literature)",
+      "descriptionLabel": "🟡 Partial result (implicit in literature)",
+      "fieldsRaw": {
+        "Problem": "[[1004]](https://www.erdosproblems.com/1004)",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "29 Apr, 2026",
+        "Literature": "🟡 Pollack, Pomerance, and Treviño (2013)",
+        "Outcome": "🟡 Partial result (implicit in literature)"
+      },
+      "fieldsPlain": {
+        "Problem": "1004",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "29 Apr, 2026",
+        "Literature": "🟡 Pollack, Pomerance, and Treviño (2013)",
+        "Outcome": "🟡 Partial result (implicit in literature)"
+      }
+    },
+    {
+      "id": "sect-1c-034",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(c). AI building on literature",
+      "subsectionAnchor": "sect-1c",
+      "subsectionOrder": 3,
+      "rowOrder": 34,
       "problemRaw": "[[1007]](https://www.erdosproblems.com/1007)",
       "problemLabel": "1007",
       "problemIds": [
@@ -5331,13 +5372,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-034",
+      "id": "sect-1c-035",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 34,
+      "rowOrder": 35,
       "problemRaw": "[[1043]](https://www.erdosproblems.com/1043)",
       "problemLabel": "1043",
       "problemIds": [
@@ -5372,13 +5413,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-035",
+      "id": "sect-1c-036",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 35,
+      "rowOrder": 36,
       "problemRaw": "[[1043]](https://www.erdosproblems.com/1043)",
       "problemLabel": "1043",
       "problemIds": [
@@ -5413,13 +5454,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-036",
+      "id": "sect-1c-037",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 36,
+      "rowOrder": 37,
       "problemRaw": "[[1047]](https://www.erdosproblems.com/1047)",
       "problemLabel": "1047",
       "problemIds": [
@@ -5454,13 +5495,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-037",
+      "id": "sect-1c-038",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 37,
+      "rowOrder": 38,
       "problemRaw": "[[1048]](https://www.erdosproblems.com/1048)",
       "problemLabel": "1048",
       "problemIds": [
@@ -5495,13 +5536,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-038",
+      "id": "sect-1c-039",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 38,
+      "rowOrder": 39,
       "problemRaw": "[[1090]](https://www.erdosproblems.com/1090)",
       "problemLabel": "1090",
       "problemIds": [
@@ -5536,13 +5577,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-039",
+      "id": "sect-1c-040",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 39,
+      "rowOrder": 40,
       "problemRaw": "[[1095]](https://www.erdosproblems.com/1095)",
       "problemLabel": "1095",
       "problemIds": [
@@ -5577,13 +5618,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-040",
+      "id": "sect-1c-041",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 40,
+      "rowOrder": 41,
       "problemRaw": "[[1097]](https://www.erdosproblems.com/1097)",
       "problemLabel": "1097",
       "problemIds": [
@@ -5618,13 +5659,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-041",
+      "id": "sect-1c-042",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 41,
+      "rowOrder": 42,
       "problemRaw": "[[1197]](https://www.erdosproblems.com/1197)",
       "problemLabel": "1197",
       "problemIds": [
