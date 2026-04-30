@@ -642,6 +642,7 @@ Sorted by the author's last name alphabetically.
 | [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[953]](https://www.erdosproblems.com/953) | Przemek Chojecki | GPT-5.5 Pro | 27 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[956]](https://www.erdosproblems.com/956) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 27 Apr, 2026 | 1(d) 🟢 Full solution?
+| [[983]](https://www.erdosproblems.com/983) | Liam Price | GPT-5.5 Pro | 30 Apr, 2026 | 1(a) 🟡 Partial result (solution to first part)?
 | [[1092]](https://www.erdosproblems.com/1092) | Przemek Chojecki | GPT-5.5 Pro | 28 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[1101]](https://www.erdosproblems.com/1101) | lipet2k | GPT-5.5 Pro | 27 Apr, 2026 | 1(a) 🟡 Partial result (solution to second part)?
 | [[1131]](https://www.erdosproblems.com/1131) | Liam Price | GPT-5.5 Pro | 26 Apr, 2026 | 1(a) 🟡 Partial result?
