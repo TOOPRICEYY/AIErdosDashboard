@@ -230,6 +230,7 @@ Sorted by the author's last name alphabetically.
 | ------- | ------ | ---------- | ---- | ------- |
 | [[12]](https://www.erdosproblems.com/12) | Nat Sothanaphan, Terence Tao | GPT-5.4 Thinking | 7 Apr, 2026 | 🟡 Partial result
 | [[25]](https://www.erdosproblems.com/25) | Przemek Chojecki | GPT-5.4 Pro | 19 Mar, 2026 | 🟡 Partial result
+| [[42]](https://www.erdosproblems.com/42) | Harjas | GPT-5.5 Pro | 27 Apr, 2026 | 🟢 Full solution
 | [[138]](https://www.erdosproblems.com/138) | Nat Sothanaphan | GPT-5.4 Thinking | 10 Apr, 2026 | 🟡 Partial result of variant problem
 | [[342]](https://www.erdosproblems.com/342) | Przemek Chojecki | GPT-5.2 Pro, GPT-5.4 Pro | 20 Jan-23 Mar, 2026 | 🟡 Partial result
 | [[347]](https://www.erdosproblems.com/347) | Enrique Barschkis, Wouter van Doorn, jbbaehr22, Bartosz Naskrecki, Terence Tao | Aristotle, Claude Opus, Codex, GPT | 25 Oct, 2025-4 Feb, 2026 | 🟢 Full solution (Lean)
