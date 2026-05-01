@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-04-30T22:33:43.616Z",
+    "generatedAt": "2026-05-01T08:55:59.046Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 500,
@@ -1172,19 +1172,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "1 Feb, 2026",
-      "descriptionRaw": "🟡 Solution (using prior literature) to previous formulation of the problem",
-      "descriptionLabel": "🟡 Solution (using prior literature) to previous formulation of the problem",
+      "descriptionRaw": "🟡 Solution (using prior literature) to previous formulation of problem",
+      "descriptionLabel": "🟡 Solution (using prior literature) to previous formulation of problem",
       "fieldsRaw": {
         "Problem": "[[75]](https://www.erdosproblems.com/75)",
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
-        "Outcome": "🟡 Solution (using prior literature) to previous formulation of the problem"
+        "Outcome": "🟡 Solution (using prior literature) to previous formulation of problem"
       },
       "fieldsPlain": {
         "Problem": "75",
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
-        "Outcome": "🟡 Solution (using prior literature) to previous formulation of the problem"
+        "Outcome": "🟡 Solution (using prior literature) to previous formulation of problem"
       }
     },
     {
@@ -1562,19 +1562,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "14 Jan, 2026",
-      "descriptionRaw": "🟡 Cheap solution to previous formulation of the problem",
-      "descriptionLabel": "🟡 Cheap solution to previous formulation of the problem",
+      "descriptionRaw": "🟡 Cheap solution to previous formulation of problem",
+      "descriptionLabel": "🟡 Cheap solution to previous formulation of problem",
       "fieldsRaw": {
         "Problem": "[[460]](https://www.erdosproblems.com/460)",
         "AI systems": "GPT-5.2 Thinking",
         "Date": "14 Jan, 2026",
-        "Outcome": "🟡 Cheap solution to previous formulation of the problem"
+        "Outcome": "🟡 Cheap solution to previous formulation of problem"
       },
       "fieldsPlain": {
         "Problem": "460",
         "AI systems": "GPT-5.2 Thinking",
         "Date": "14 Jan, 2026",
-        "Outcome": "🟡 Cheap solution to previous formulation of the problem"
+        "Outcome": "🟡 Cheap solution to previous formulation of problem"
       }
     },
     {
@@ -1640,19 +1640,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "11 Jan, 2026",
-      "descriptionRaw": "🟡 Cheap counterexample to previous formulation of the problem",
-      "descriptionLabel": "🟡 Cheap counterexample to previous formulation of the problem",
+      "descriptionRaw": "🟡 Cheap counterexample to previous formulation of problem",
+      "descriptionLabel": "🟡 Cheap counterexample to previous formulation of problem",
       "fieldsRaw": {
         "Problem": "[[486]](https://www.erdosproblems.com/486)",
         "AI systems": "GPT-5.2",
         "Date": "11 Jan, 2026",
-        "Outcome": "🟡 Cheap counterexample to previous formulation of the problem"
+        "Outcome": "🟡 Cheap counterexample to previous formulation of problem"
       },
       "fieldsPlain": {
         "Problem": "486",
         "AI systems": "GPT-5.2",
         "Date": "11 Jan, 2026",
-        "Outcome": "🟡 Cheap counterexample to previous formulation of the problem"
+        "Outcome": "🟡 Cheap counterexample to previous formulation of problem"
       }
     },
     {
@@ -3423,7 +3423,7 @@ window.ERDOS_AI_DATA = {
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "30 Jan, 2026",
         "Outcome": "🟡 Solution to one part of problem (Lean)",
-        "Literature": "🟡 Elliott (1979) [reduces one part of a problem to a much simpler one]",
+        "Literature": "🟡 Elliott (1979) (reduces one part of problem to a much simpler one)",
         "Literature found on": "30 Jan, 2026",
         "Similar?": "Yes (for a large portion of the proof)"
       },
@@ -3432,7 +3432,7 @@ window.ERDOS_AI_DATA = {
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "30 Jan, 2026",
         "Outcome": "🟡 Solution to one part of problem (Lean)",
-        "Literature": "🟡 Elliott (1979) [reduces one part of a problem to a much simpler one]",
+        "Literature": "🟡 Elliott (1979) (reduces one part of problem to a much simpler one)",
         "Literature found on": "30 Jan, 2026",
         "Similar?": "Yes (for a large portion of the proof)"
       }
@@ -3738,7 +3738,7 @@ window.ERDOS_AI_DATA = {
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
         "Outcome": "🟡 Solution to one part of problem",
-        "Literature": "🟡 van Doorn (2025) [solution to one part of #367]",
+        "Literature": "🟡 van Doorn (2025) (solution to one part of [367])",
         "Literature found on": "2 Feb, 2026",
         "Similar?": "Yes"
       },
@@ -3747,7 +3747,7 @@ window.ERDOS_AI_DATA = {
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
         "Outcome": "🟡 Solution to one part of problem",
-        "Literature": "🟡 van Doorn (2025) [solution to one part of #367]",
+        "Literature": "🟡 van Doorn (2025) (solution to one part of [367])",
         "Literature found on": "2 Feb, 2026",
         "Similar?": "Yes"
       }
@@ -4950,14 +4950,14 @@ window.ERDOS_AI_DATA = {
         "Problem": "[[729]](https://www.erdosproblems.com/729)",
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "8-10 Jan, 2026",
-        "Literature": "🟡 Barreto, GPT-5.2-Pro, Aristotle (2026) [full solution to #728]",
+        "Literature": "🟡 Barreto, GPT-5.2-Pro, Aristotle (2026) (full solution to [728])",
         "Outcome": "🟢 Full solution (Lean)"
       },
       "fieldsPlain": {
         "Problem": "729",
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "8-10 Jan, 2026",
-        "Literature": "🟡 Barreto, GPT-5.2-Pro, Aristotle (2026) [full solution to #728]",
+        "Literature": "🟡 Barreto, GPT-5.2-Pro, Aristotle (2026) (full solution to [728])",
         "Outcome": "🟢 Full solution (Lean)"
       }
     },
@@ -5196,14 +5196,14 @@ window.ERDOS_AI_DATA = {
         "Problem": "[[951]](https://www.erdosproblems.com/951)",
         "AI systems": "AlphaEvolve",
         "Date": "28 Jan, 2026",
-        "Literature": "🟡 Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) [solution to one formulation of problem]",
+        "Literature": "🟡 Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) (solution to one formulation of problem)",
         "Outcome": "🟡 New solution to one formulation of problem"
       },
       "fieldsPlain": {
         "Problem": "951",
         "AI systems": "AlphaEvolve",
         "Date": "28 Jan, 2026",
-        "Literature": "🟡 Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) [solution to one formulation of problem]",
+        "Literature": "🟡 Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) (solution to one formulation of problem)",
         "Outcome": "🟡 New solution to one formulation of problem"
       }
     },
