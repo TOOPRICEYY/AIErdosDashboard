@@ -84,9 +84,10 @@ Sorted by the author's last name alphabetically.
 *Literature presence*: comparable literature unknown.<br>
 *Human involvement*: non-significant.
 
-| Problem | AI systems | Date | Outcome | 
-| ------- | ---------- | ---- | ------- | 
+| Problem | AI systems | Date | Outcome |
+| ------- | ---------- | ---- | ------- |
 | [[11]](https://www.erdosproblems.com/11) | Aristotle, GPT | 24 Jan, 2026 | 🔴 Incorrect claim made
+| [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
 | [[42]](https://www.erdosproblems.com/42) | Codex, GPT-5.2, GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Partial result (Lean)
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
 | [[64]](https://www.erdosproblems.com/64) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | No counterexample found
@@ -425,6 +426,7 @@ Sorted by the author's last name alphabetically.
 | [[26]](https://www.erdosproblems.com/26) | 🟢 Ruzsa | Aristotle | 28 Dec, 2025
 | [[31]](https://www.erdosproblems.com/31) | 🟢 Lorentz (1954), Wouter van Doorn (2025) | Aristotle, GPT | 24 Nov, 2025
 | [[34]](https://www.erdosproblems.com/34) | 🟢 Konieczny (2015) | Aristotle | 5 Feb, 2026
+| [[38]](https://www.erdosproblems.com/38) | 🟢 GPT-5.5 Pro (2026) | Aristotle | 1 May, 2026
 | [[43]](https://www.erdosproblems.com/43) | 🟡 Barreto (2025) | Aristotle, Claude | 21 Dec, 2025
 | [[56]](https://www.erdosproblems.com/56) | 🟢 Ahlswede-Khachatrian (1995) | Aristotle, GPT | 25 Nov, 2025
 | [[93]](https://www.erdosproblems.com/93) | 🟢 Altman (1963) | Aristotle, Claude Opus 4.5, Claude Opus 4.6, Gemini 3 Flash, Gemini 3 Pro, Numina Lean Agent | 17 Feb, 2026
@@ -622,7 +624,6 @@ Sorted by the author's last name alphabetically.
 
 | Problem | Correspondents | AI systems | Date | Status |
 | ------- | -------------- | ---------- | ---- | ------ |
-| [[38]](https://www.erdosproblems.com/38) | Geby Jaff, Liam Price | GPT-5.5 Pro | 25 Apr, 2026 | 1(a) 🟢 Full solution?
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[202]](https://www.erdosproblems.com/202) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[330]](https://www.erdosproblems.com/330) | David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 1(d) 🟢 Full solution?

@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-01T08:55:59.046Z",
+    "generatedAt": "2026-05-01T13:50:27.999Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 500,
+    "recordCount": 501,
     "sectionCount": 10
   },
   "sections": [
@@ -19,7 +19,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 50
+      "rowCount": 51
     },
     {
       "title": "1(b). AI alongside literature",
@@ -94,7 +94,7 @@ window.ERDOS_AI_DATA = {
         "AI systems",
         "Date"
       ],
-      "rowCount": 148
+      "rowCount": 149
     },
     {
       "title": "2(c). Artifact generation",
@@ -152,7 +152,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Status"
       ],
-      "rowCount": 30
+      "rowCount": 29
     }
   ],
   "releases": [
@@ -1039,6 +1039,45 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
       "rowOrder": 2,
+      "problemRaw": "[[38]](https://www.erdosproblems.com/38)",
+      "problemLabel": "38",
+      "problemIds": [
+        38
+      ],
+      "problemLinks": [
+        {
+          "label": "38",
+          "url": "https://www.erdosproblems.com/38"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Pro",
+      "aiSystemsLabel": "GPT-5.5 Pro",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "25 Apr, 2026",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
+      "fieldsRaw": {
+        "Problem": "[[38]](https://www.erdosproblems.com/38)",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "25 Apr, 2026",
+        "Outcome": "🟢 Full solution"
+      },
+      "fieldsPlain": {
+        "Problem": "38",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "25 Apr, 2026",
+        "Outcome": "🟢 Full solution"
+      }
+    },
+    {
+      "id": "sect-1a-003",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(a). AI standalone",
+      "subsectionAnchor": "sect-1a",
+      "subsectionOrder": 1,
+      "rowOrder": 3,
       "problemRaw": "[[42]](https://www.erdosproblems.com/42)",
       "problemLabel": "42",
       "problemIds": [
@@ -1071,13 +1110,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-003",
+      "id": "sect-1a-004",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 3,
+      "rowOrder": 4,
       "problemRaw": "[[51]](https://www.erdosproblems.com/51)",
       "problemLabel": "51",
       "problemIds": [
@@ -1110,13 +1149,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-004",
+      "id": "sect-1a-005",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 4,
+      "rowOrder": 5,
       "problemRaw": "[[64]](https://www.erdosproblems.com/64)",
       "problemLabel": "64",
       "problemIds": [
@@ -1149,13 +1188,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-005",
+      "id": "sect-1a-006",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 5,
+      "rowOrder": 6,
       "problemRaw": "[[75]](https://www.erdosproblems.com/75)",
       "problemLabel": "75",
       "problemIds": [
@@ -1188,13 +1227,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-006",
+      "id": "sect-1a-007",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 6,
+      "rowOrder": 7,
       "problemRaw": "[[124]](https://www.erdosproblems.com/124)",
       "problemLabel": "124",
       "problemIds": [
@@ -1227,13 +1266,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-007",
+      "id": "sect-1a-008",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 7,
+      "rowOrder": 8,
       "problemRaw": "[[125]](https://www.erdosproblems.com/125)",
       "problemLabel": "125",
       "problemIds": [
@@ -1266,13 +1305,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-008",
+      "id": "sect-1a-009",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 8,
+      "rowOrder": 9,
       "problemRaw": "[[125]](https://www.erdosproblems.com/125)",
       "problemLabel": "125",
       "problemIds": [
@@ -1305,13 +1344,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-009",
+      "id": "sect-1a-010",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 9,
+      "rowOrder": 10,
       "problemRaw": "[[138]](https://www.erdosproblems.com/138)",
       "problemLabel": "138",
       "problemIds": [
@@ -1344,13 +1383,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-010",
+      "id": "sect-1a-011",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 10,
+      "rowOrder": 11,
       "problemRaw": "[[205]](https://www.erdosproblems.com/205)",
       "problemLabel": "205",
       "problemIds": [
@@ -1383,13 +1422,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-011",
+      "id": "sect-1a-012",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 11,
+      "rowOrder": 12,
       "problemRaw": "[[233]](https://www.erdosproblems.com/233)",
       "problemLabel": "233",
       "problemIds": [
@@ -1422,13 +1461,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-012",
+      "id": "sect-1a-013",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 12,
+      "rowOrder": 13,
       "problemRaw": "[[251]](https://www.erdosproblems.com/251)",
       "problemLabel": "251",
       "problemIds": [
@@ -1461,13 +1500,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-013",
+      "id": "sect-1a-014",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 13,
+      "rowOrder": 14,
       "problemRaw": "[[358]](https://www.erdosproblems.com/358)",
       "problemLabel": "358",
       "problemIds": [
@@ -1500,13 +1539,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-014",
+      "id": "sect-1a-015",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 14,
+      "rowOrder": 15,
       "problemRaw": "[[457]](https://www.erdosproblems.com/457)",
       "problemLabel": "457",
       "problemIds": [
@@ -1539,13 +1578,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-015",
+      "id": "sect-1a-016",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 15,
+      "rowOrder": 16,
       "problemRaw": "[[460]](https://www.erdosproblems.com/460)",
       "problemLabel": "460",
       "problemIds": [
@@ -1578,13 +1617,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-016",
+      "id": "sect-1a-017",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 16,
+      "rowOrder": 17,
       "problemRaw": "[[477]](https://www.erdosproblems.com/477)",
       "problemLabel": "477",
       "problemIds": [
@@ -1617,13 +1656,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-017",
+      "id": "sect-1a-018",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 17,
+      "rowOrder": 18,
       "problemRaw": "[[486]](https://www.erdosproblems.com/486)",
       "problemLabel": "486",
       "problemIds": [
@@ -1656,13 +1695,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-018",
+      "id": "sect-1a-019",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 18,
+      "rowOrder": 19,
       "problemRaw": "[[493]](https://www.erdosproblems.com/493)",
       "problemLabel": "493",
       "problemIds": [
@@ -1695,13 +1734,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-019",
+      "id": "sect-1a-020",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 19,
+      "rowOrder": 20,
       "problemRaw": "[[514]](https://www.erdosproblems.com/514)",
       "problemLabel": "514",
       "problemIds": [
@@ -1734,13 +1773,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-020",
+      "id": "sect-1a-021",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 20,
+      "rowOrder": 21,
       "problemRaw": "[[563]](https://www.erdosproblems.com/563)",
       "problemLabel": "563",
       "problemIds": [
@@ -1773,13 +1812,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-021",
+      "id": "sect-1a-022",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 21,
+      "rowOrder": 22,
       "problemRaw": "[[616]](https://www.erdosproblems.com/616)",
       "problemLabel": "616",
       "problemIds": [
@@ -1812,13 +1851,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-022",
+      "id": "sect-1a-023",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 22,
+      "rowOrder": 23,
       "problemRaw": "[[647]](https://www.erdosproblems.com/647)",
       "problemLabel": "647",
       "problemIds": [
@@ -1851,13 +1890,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-023",
+      "id": "sect-1a-024",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 23,
+      "rowOrder": 24,
       "problemRaw": "[[654]](https://www.erdosproblems.com/654)",
       "problemLabel": "654",
       "problemIds": [
@@ -1890,13 +1929,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-024",
+      "id": "sect-1a-025",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 24,
+      "rowOrder": 25,
       "problemRaw": "[[665]](https://www.erdosproblems.com/665)",
       "problemLabel": "665",
       "problemIds": [
@@ -1929,13 +1968,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-025",
+      "id": "sect-1a-026",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 25,
+      "rowOrder": 26,
       "problemRaw": "[[684]](https://www.erdosproblems.com/684)",
       "problemLabel": "684",
       "problemIds": [
@@ -1968,13 +2007,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-026",
+      "id": "sect-1a-027",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 26,
+      "rowOrder": 27,
       "problemRaw": "[[741]](https://www.erdosproblems.com/741)",
       "problemLabel": "741",
       "problemIds": [
@@ -2007,13 +2046,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-027",
+      "id": "sect-1a-028",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 27,
+      "rowOrder": 28,
       "problemRaw": "[[741]](https://www.erdosproblems.com/741)",
       "problemLabel": "741",
       "problemIds": [
@@ -2046,13 +2085,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-028",
+      "id": "sect-1a-029",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 28,
+      "rowOrder": 29,
       "problemRaw": "[[741]](https://www.erdosproblems.com/741)",
       "problemLabel": "741",
       "problemIds": [
@@ -2085,13 +2124,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-029",
+      "id": "sect-1a-030",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 29,
+      "rowOrder": 30,
       "problemRaw": "[[783]](https://www.erdosproblems.com/783)",
       "problemLabel": "783",
       "problemIds": [
@@ -2124,13 +2163,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-030",
+      "id": "sect-1a-031",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 30,
+      "rowOrder": 31,
       "problemRaw": "[[850]](https://www.erdosproblems.com/850)",
       "problemLabel": "850",
       "problemIds": [
@@ -2163,13 +2202,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-031",
+      "id": "sect-1a-032",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 31,
+      "rowOrder": 32,
       "problemRaw": "[[868]](https://www.erdosproblems.com/868)",
       "problemLabel": "868",
       "problemIds": [
@@ -2202,13 +2241,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-032",
+      "id": "sect-1a-033",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 32,
+      "rowOrder": 33,
       "problemRaw": "[[872]](https://www.erdosproblems.com/872)",
       "problemLabel": "872",
       "problemIds": [
@@ -2241,13 +2280,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-033",
+      "id": "sect-1a-034",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 33,
+      "rowOrder": 34,
       "problemRaw": "[[888]](https://www.erdosproblems.com/888)",
       "problemLabel": "888",
       "problemIds": [
@@ -2280,13 +2319,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-034",
+      "id": "sect-1a-035",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 34,
+      "rowOrder": 35,
       "problemRaw": "[[949]](https://www.erdosproblems.com/949)",
       "problemLabel": "949",
       "problemIds": [
@@ -2319,13 +2358,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-035",
+      "id": "sect-1a-036",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 35,
+      "rowOrder": 36,
       "problemRaw": "[[951]](https://www.erdosproblems.com/951)",
       "problemLabel": "951",
       "problemIds": [
@@ -2358,13 +2397,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-036",
+      "id": "sect-1a-037",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 36,
+      "rowOrder": 37,
       "problemRaw": "[[960]](https://www.erdosproblems.com/960)",
       "problemLabel": "960",
       "problemIds": [
@@ -2397,13 +2436,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-037",
+      "id": "sect-1a-038",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 37,
+      "rowOrder": 38,
       "problemRaw": "[[963]](https://www.erdosproblems.com/963)",
       "problemLabel": "963",
       "problemIds": [
@@ -2436,13 +2475,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-038",
+      "id": "sect-1a-039",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 38,
+      "rowOrder": 39,
       "problemRaw": "[[987]](https://www.erdosproblems.com/987)",
       "problemLabel": "987",
       "problemIds": [
@@ -2475,13 +2514,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-039",
+      "id": "sect-1a-040",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 39,
+      "rowOrder": 40,
       "problemRaw": "[[990]](https://www.erdosproblems.com/990)",
       "problemLabel": "990",
       "problemIds": [
@@ -2514,13 +2553,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-040",
+      "id": "sect-1a-041",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 40,
+      "rowOrder": 41,
       "problemRaw": "[[1014]](https://www.erdosproblems.com/1014)",
       "problemLabel": "1014",
       "problemIds": [
@@ -2553,13 +2592,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-041",
+      "id": "sect-1a-042",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 41,
+      "rowOrder": 42,
       "problemRaw": "[[1040]](https://www.erdosproblems.com/1040)",
       "problemLabel": "1040",
       "problemIds": [
@@ -2592,13 +2631,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-042",
+      "id": "sect-1a-043",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 42,
+      "rowOrder": 43,
       "problemRaw": "[[1041]](https://www.erdosproblems.com/1041)",
       "problemLabel": "1041",
       "problemIds": [
@@ -2631,13 +2670,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-043",
+      "id": "sect-1a-044",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 43,
+      "rowOrder": 44,
       "problemRaw": "[[1044]](https://www.erdosproblems.com/1044)",
       "problemLabel": "1044",
       "problemIds": [
@@ -2670,13 +2709,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-044",
+      "id": "sect-1a-045",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 44,
+      "rowOrder": 45,
       "problemRaw": "[[1051]](https://www.erdosproblems.com/1051)",
       "problemLabel": "1051",
       "problemIds": [
@@ -2709,13 +2748,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-045",
+      "id": "sect-1a-046",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 45,
+      "rowOrder": 46,
       "problemRaw": "[[1091]](https://www.erdosproblems.com/1091)",
       "problemLabel": "1091",
       "problemIds": [
@@ -2748,13 +2787,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-046",
+      "id": "sect-1a-047",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 46,
+      "rowOrder": 47,
       "problemRaw": "[[1141]](https://www.erdosproblems.com/1141)",
       "problemLabel": "1141",
       "problemIds": [
@@ -2787,13 +2826,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-047",
+      "id": "sect-1a-048",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 47,
+      "rowOrder": 48,
       "problemRaw": "[[1194]](https://www.erdosproblems.com/1194)",
       "problemLabel": "1194",
       "problemIds": [
@@ -2826,13 +2865,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-048",
+      "id": "sect-1a-049",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 48,
+      "rowOrder": 49,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -2865,13 +2904,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-049",
+      "id": "sect-1a-050",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 49,
+      "rowOrder": 50,
       "problemRaw": "[[1202]](https://www.erdosproblems.com/1202)",
       "problemLabel": "1202",
       "problemIds": [
@@ -2904,13 +2943,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-050",
+      "id": "sect-1a-051",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 50,
+      "rowOrder": 51,
       "problemRaw": "[[1217]](https://www.erdosproblems.com/1217)",
       "problemLabel": "1217",
       "problemIds": [
@@ -12927,6 +12966,45 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
       "rowOrder": 6,
+      "problemRaw": "[[38]](https://www.erdosproblems.com/38)",
+      "problemLabel": "38",
+      "problemIds": [
+        38
+      ],
+      "problemLinks": [
+        {
+          "label": "38",
+          "url": "https://www.erdosproblems.com/38"
+        }
+      ],
+      "aiSystemsRaw": "Aristotle",
+      "aiSystemsLabel": "Aristotle",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "1 May, 2026",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[38]](https://www.erdosproblems.com/38)",
+        "Proof to formalize": "🟢 GPT-5.5 Pro (2026)",
+        "AI systems": "Aristotle",
+        "Date": "1 May, 2026"
+      },
+      "fieldsPlain": {
+        "Problem": "38",
+        "Proof to formalize": "🟢 GPT-5.5 Pro (2026)",
+        "AI systems": "Aristotle",
+        "Date": "1 May, 2026"
+      }
+    },
+    {
+      "id": "sect-2b-007",
+      "majorSection": "2. Secondary contributions",
+      "majorAnchor": "sect-2",
+      "subsection": "2(b). Formalization",
+      "subsectionAnchor": "sect-2b",
+      "subsectionOrder": 7,
+      "rowOrder": 7,
       "problemRaw": "[[43]](https://www.erdosproblems.com/43)",
       "problemLabel": "43",
       "problemIds": [
@@ -12959,13 +13037,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-007",
+      "id": "sect-2b-008",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 7,
+      "rowOrder": 8,
       "problemRaw": "[[56]](https://www.erdosproblems.com/56)",
       "problemLabel": "56",
       "problemIds": [
@@ -12998,13 +13076,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-008",
+      "id": "sect-2b-009",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 8,
+      "rowOrder": 9,
       "problemRaw": "[[93]](https://www.erdosproblems.com/93)",
       "problemLabel": "93",
       "problemIds": [
@@ -13037,13 +13115,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-009",
+      "id": "sect-2b-010",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 9,
+      "rowOrder": 10,
       "problemRaw": "[[94]](https://www.erdosproblems.com/94)",
       "problemLabel": "94",
       "problemIds": [
@@ -13076,13 +13154,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-010",
+      "id": "sect-2b-011",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 10,
+      "rowOrder": 11,
       "problemRaw": "[[105]](https://www.erdosproblems.com/105)",
       "problemLabel": "105",
       "problemIds": [
@@ -13115,13 +13193,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-011",
+      "id": "sect-2b-012",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 11,
+      "rowOrder": 12,
       "problemRaw": "[[106]](https://www.erdosproblems.com/106)",
       "problemLabel": "106",
       "problemIds": [
@@ -13154,13 +13232,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-012",
+      "id": "sect-2b-013",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 12,
+      "rowOrder": 13,
       "problemRaw": "[[115]](https://www.erdosproblems.com/115)",
       "problemLabel": "115",
       "problemIds": [
@@ -13193,13 +13271,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-013",
+      "id": "sect-2b-014",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 13,
+      "rowOrder": 14,
       "problemRaw": "[[134]](https://www.erdosproblems.com/134)",
       "problemLabel": "134",
       "problemIds": [
@@ -13232,13 +13310,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-014",
+      "id": "sect-2b-015",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 14,
+      "rowOrder": 15,
       "problemRaw": "[[150]](https://www.erdosproblems.com/150)",
       "problemLabel": "150",
       "problemIds": [
@@ -13271,13 +13349,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-015",
+      "id": "sect-2b-016",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 15,
+      "rowOrder": 16,
       "problemRaw": "[[154]](https://www.erdosproblems.com/154)",
       "problemLabel": "154",
       "problemIds": [
@@ -13310,13 +13388,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-016",
+      "id": "sect-2b-017",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 16,
+      "rowOrder": 17,
       "problemRaw": "[[178]](https://www.erdosproblems.com/178)",
       "problemLabel": "178",
       "problemIds": [
@@ -13349,13 +13427,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-017",
+      "id": "sect-2b-018",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 17,
+      "rowOrder": 18,
       "problemRaw": "[[189]](https://www.erdosproblems.com/189)",
       "problemLabel": "189",
       "problemIds": [
@@ -13388,13 +13466,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-018",
+      "id": "sect-2b-019",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 18,
+      "rowOrder": 19,
       "problemRaw": "[[194]](https://www.erdosproblems.com/194)",
       "problemLabel": "194",
       "problemIds": [
@@ -13427,13 +13505,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-019",
+      "id": "sect-2b-020",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 19,
+      "rowOrder": 20,
       "problemRaw": "[[198]](https://www.erdosproblems.com/198)",
       "problemLabel": "198",
       "problemIds": [
@@ -13466,13 +13544,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-020",
+      "id": "sect-2b-021",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 20,
+      "rowOrder": 21,
       "problemRaw": "[[199]](https://www.erdosproblems.com/199)",
       "problemLabel": "199",
       "problemIds": [
@@ -13505,13 +13583,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-021",
+      "id": "sect-2b-022",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 21,
+      "rowOrder": 22,
       "problemRaw": "[[204]](https://www.erdosproblems.com/204)",
       "problemLabel": "204",
       "problemIds": [
@@ -13544,13 +13622,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-022",
+      "id": "sect-2b-023",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 22,
+      "rowOrder": 23,
       "problemRaw": "[[206]](https://www.erdosproblems.com/206)",
       "problemLabel": "206",
       "problemIds": [
@@ -13583,13 +13661,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-023",
+      "id": "sect-2b-024",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 23,
+      "rowOrder": 24,
       "problemRaw": "[[214]](https://www.erdosproblems.com/214)",
       "problemLabel": "214",
       "problemIds": [
@@ -13622,13 +13700,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-024",
+      "id": "sect-2b-025",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 24,
+      "rowOrder": 25,
       "problemRaw": "[[221]](https://www.erdosproblems.com/221)",
       "problemLabel": "221",
       "problemIds": [
@@ -13661,13 +13739,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-025",
+      "id": "sect-2b-026",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 25,
+      "rowOrder": 26,
       "problemRaw": "[[226]](https://www.erdosproblems.com/226)",
       "problemLabel": "226",
       "problemIds": [
@@ -13700,13 +13778,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-026",
+      "id": "sect-2b-027",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 26,
+      "rowOrder": 27,
       "problemRaw": "[[229]](https://www.erdosproblems.com/229)",
       "problemLabel": "229",
       "problemIds": [
@@ -13739,13 +13817,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-027",
+      "id": "sect-2b-028",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 27,
+      "rowOrder": 28,
       "problemRaw": "[[237]](https://www.erdosproblems.com/237)",
       "problemLabel": "237",
       "problemIds": [
@@ -13778,13 +13856,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-028",
+      "id": "sect-2b-029",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 28,
+      "rowOrder": 29,
       "problemRaw": "[[246]](https://www.erdosproblems.com/246)",
       "problemLabel": "246",
       "problemIds": [
@@ -13817,13 +13895,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-029",
+      "id": "sect-2b-030",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 29,
+      "rowOrder": 30,
       "problemRaw": "[[258]](https://www.erdosproblems.com/258)",
       "problemLabel": "258",
       "problemIds": [
@@ -13856,13 +13934,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-030",
+      "id": "sect-2b-031",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 30,
+      "rowOrder": 31,
       "problemRaw": "[[259]](https://www.erdosproblems.com/259)",
       "problemLabel": "259",
       "problemIds": [
@@ -13895,13 +13973,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-031",
+      "id": "sect-2b-032",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 31,
+      "rowOrder": 32,
       "problemRaw": "[[268]](https://www.erdosproblems.com/268)",
       "problemLabel": "268",
       "problemIds": [
@@ -13934,13 +14012,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-032",
+      "id": "sect-2b-033",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 32,
+      "rowOrder": 33,
       "problemRaw": "[[275]](https://www.erdosproblems.com/275)",
       "problemLabel": "275",
       "problemIds": [
@@ -13973,13 +14051,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-033",
+      "id": "sect-2b-034",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 33,
+      "rowOrder": 34,
       "problemRaw": "[[280]](https://www.erdosproblems.com/280)",
       "problemLabel": "280",
       "problemIds": [
@@ -14012,13 +14090,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-034",
+      "id": "sect-2b-035",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 34,
+      "rowOrder": 35,
       "problemRaw": "[[281]](https://www.erdosproblems.com/281)",
       "problemLabel": "281",
       "problemIds": [
@@ -14051,13 +14129,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-035",
+      "id": "sect-2b-036",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 35,
+      "rowOrder": 36,
       "problemRaw": "[[283]](https://www.erdosproblems.com/283)",
       "problemLabel": "283",
       "problemIds": [
@@ -14090,13 +14168,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-036",
+      "id": "sect-2b-037",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 36,
+      "rowOrder": 37,
       "problemRaw": "[[290]](https://www.erdosproblems.com/290)",
       "problemLabel": "290",
       "problemIds": [
@@ -14129,13 +14207,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-037",
+      "id": "sect-2b-038",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 37,
+      "rowOrder": 38,
       "problemRaw": "[[296]](https://www.erdosproblems.com/296)",
       "problemLabel": "296",
       "problemIds": [
@@ -14168,13 +14246,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-038",
+      "id": "sect-2b-039",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 38,
+      "rowOrder": 39,
       "problemRaw": "[[303]](https://www.erdosproblems.com/303)",
       "problemLabel": "303",
       "problemIds": [
@@ -14207,13 +14285,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-039",
+      "id": "sect-2b-040",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 39,
+      "rowOrder": 40,
       "problemRaw": "[[314]](https://www.erdosproblems.com/314)",
       "problemLabel": "314",
       "problemIds": [
@@ -14246,13 +14324,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-040",
+      "id": "sect-2b-041",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 40,
+      "rowOrder": 41,
       "problemRaw": "[[315]](https://www.erdosproblems.com/315)",
       "problemLabel": "315",
       "problemIds": [
@@ -14285,13 +14363,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-041",
+      "id": "sect-2b-042",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 41,
+      "rowOrder": 42,
       "problemRaw": "[[331]](https://www.erdosproblems.com/331)",
       "problemLabel": "331",
       "problemIds": [
@@ -14324,13 +14402,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-042",
+      "id": "sect-2b-043",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 42,
+      "rowOrder": 43,
       "problemRaw": "[[337]](https://www.erdosproblems.com/337)",
       "problemLabel": "337",
       "problemIds": [
@@ -14363,13 +14441,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-043",
+      "id": "sect-2b-044",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 43,
+      "rowOrder": 44,
       "problemRaw": "[[350]](https://www.erdosproblems.com/350)",
       "problemLabel": "350",
       "problemIds": [
@@ -14402,13 +14480,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-044",
+      "id": "sect-2b-045",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 44,
+      "rowOrder": 45,
       "problemRaw": "[[355]](https://www.erdosproblems.com/355)",
       "problemLabel": "355",
       "problemIds": [
@@ -14441,13 +14519,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-045",
+      "id": "sect-2b-046",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 45,
+      "rowOrder": 46,
       "problemRaw": "[[363]](https://www.erdosproblems.com/363)",
       "problemLabel": "363",
       "problemIds": [
@@ -14480,13 +14558,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-046",
+      "id": "sect-2b-047",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 46,
+      "rowOrder": 47,
       "problemRaw": "[[367]](https://www.erdosproblems.com/367)",
       "problemLabel": "367",
       "problemIds": [
@@ -14519,13 +14597,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-047",
+      "id": "sect-2b-048",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 47,
+      "rowOrder": 48,
       "problemRaw": "[[368]](https://www.erdosproblems.com/368)",
       "problemLabel": "368",
       "problemIds": [
@@ -14558,13 +14636,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-048",
+      "id": "sect-2b-049",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 48,
+      "rowOrder": 49,
       "problemRaw": "[[369]](https://www.erdosproblems.com/369)",
       "problemLabel": "369",
       "problemIds": [
@@ -14597,13 +14675,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-049",
+      "id": "sect-2b-050",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 49,
+      "rowOrder": 50,
       "problemRaw": "[[370]](https://www.erdosproblems.com/370)",
       "problemLabel": "370",
       "problemIds": [
@@ -14636,13 +14714,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-050",
+      "id": "sect-2b-051",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 50,
+      "rowOrder": 51,
       "problemRaw": "[[392]](https://www.erdosproblems.com/392)",
       "problemLabel": "392",
       "problemIds": [
@@ -14675,13 +14753,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-051",
+      "id": "sect-2b-052",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 51,
+      "rowOrder": 52,
       "problemRaw": "[[399]](https://www.erdosproblems.com/399)",
       "problemLabel": "399",
       "problemIds": [
@@ -14714,13 +14792,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-052",
+      "id": "sect-2b-053",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 52,
+      "rowOrder": 53,
       "problemRaw": "[[418]](https://www.erdosproblems.com/418)",
       "problemLabel": "418",
       "problemIds": [
@@ -14753,13 +14831,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-053",
+      "id": "sect-2b-054",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 53,
+      "rowOrder": 54,
       "problemRaw": "[[419]](https://www.erdosproblems.com/419)",
       "problemLabel": "419",
       "problemIds": [
@@ -14792,13 +14870,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-054",
+      "id": "sect-2b-055",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 54,
+      "rowOrder": 55,
       "problemRaw": "[[426]](https://www.erdosproblems.com/426)",
       "problemLabel": "426",
       "problemIds": [
@@ -14831,13 +14909,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-055",
+      "id": "sect-2b-056",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 55,
+      "rowOrder": 56,
       "problemRaw": "[[427]](https://www.erdosproblems.com/427)",
       "problemLabel": "427",
       "problemIds": [
@@ -14870,13 +14948,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-056",
+      "id": "sect-2b-057",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 56,
+      "rowOrder": 57,
       "problemRaw": "[[429]](https://www.erdosproblems.com/429)",
       "problemLabel": "429",
       "problemIds": [
@@ -14909,13 +14987,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-057",
+      "id": "sect-2b-058",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 57,
+      "rowOrder": 58,
       "problemRaw": "[[433]](https://www.erdosproblems.com/433)",
       "problemLabel": "433",
       "problemIds": [
@@ -14948,13 +15026,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-058",
+      "id": "sect-2b-059",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 58,
+      "rowOrder": 59,
       "problemRaw": "[[434]](https://www.erdosproblems.com/434)",
       "problemLabel": "434",
       "problemIds": [
@@ -14987,13 +15065,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-059",
+      "id": "sect-2b-060",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 59,
+      "rowOrder": 60,
       "problemRaw": "[[435]](https://www.erdosproblems.com/435)",
       "problemLabel": "435",
       "problemIds": [
@@ -15026,13 +15104,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-060",
+      "id": "sect-2b-061",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 60,
+      "rowOrder": 61,
       "problemRaw": "[[443]](https://www.erdosproblems.com/443)",
       "problemLabel": "443",
       "problemIds": [
@@ -15065,13 +15143,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-061",
+      "id": "sect-2b-062",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 61,
+      "rowOrder": 62,
       "problemRaw": "[[447]](https://www.erdosproblems.com/447)",
       "problemLabel": "447",
       "problemIds": [
@@ -15104,13 +15182,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-062",
+      "id": "sect-2b-063",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 62,
+      "rowOrder": 63,
       "problemRaw": "[[453]](https://www.erdosproblems.com/453)",
       "problemLabel": "453",
       "problemIds": [
@@ -15143,13 +15221,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-063",
+      "id": "sect-2b-064",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 63,
+      "rowOrder": 64,
       "problemRaw": "[[459]](https://www.erdosproblems.com/459)",
       "problemLabel": "459",
       "problemIds": [
@@ -15182,13 +15260,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-064",
+      "id": "sect-2b-065",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 64,
+      "rowOrder": 65,
       "problemRaw": "[[476]](https://www.erdosproblems.com/476)",
       "problemLabel": "476",
       "problemIds": [
@@ -15221,13 +15299,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-065",
+      "id": "sect-2b-066",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 65,
+      "rowOrder": 66,
       "problemRaw": "[[480]](https://www.erdosproblems.com/480)",
       "problemLabel": "480",
       "problemIds": [
@@ -15260,13 +15338,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-066",
+      "id": "sect-2b-067",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 66,
+      "rowOrder": 67,
       "problemRaw": "[[481]](https://www.erdosproblems.com/481)",
       "problemLabel": "481",
       "problemIds": [
@@ -15299,13 +15377,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-067",
+      "id": "sect-2b-068",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 67,
+      "rowOrder": 68,
       "problemRaw": "[[484]](https://www.erdosproblems.com/484)",
       "problemLabel": "484",
       "problemIds": [
@@ -15338,13 +15416,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-068",
+      "id": "sect-2b-069",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 68,
+      "rowOrder": 69,
       "problemRaw": "[[487]](https://www.erdosproblems.com/487)",
       "problemLabel": "487",
       "problemIds": [
@@ -15377,13 +15455,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-069",
+      "id": "sect-2b-070",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 69,
+      "rowOrder": 70,
       "problemRaw": "[[497]](https://www.erdosproblems.com/497)",
       "problemLabel": "497",
       "problemIds": [
@@ -15416,13 +15494,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-070",
+      "id": "sect-2b-071",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 70,
+      "rowOrder": 71,
       "problemRaw": "[[498]](https://www.erdosproblems.com/498)",
       "problemLabel": "498",
       "problemIds": [
@@ -15455,13 +15533,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-071",
+      "id": "sect-2b-072",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 71,
+      "rowOrder": 72,
       "problemRaw": "[[499]](https://www.erdosproblems.com/499)",
       "problemLabel": "499",
       "problemIds": [
@@ -15494,13 +15572,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-072",
+      "id": "sect-2b-073",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 72,
+      "rowOrder": 73,
       "problemRaw": "[[502]](https://www.erdosproblems.com/502)",
       "problemLabel": "502",
       "problemIds": [
@@ -15533,13 +15611,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-073",
+      "id": "sect-2b-074",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 73,
+      "rowOrder": 74,
       "problemRaw": "[[505]](https://www.erdosproblems.com/505)",
       "problemLabel": "505",
       "problemIds": [
@@ -15572,13 +15650,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-074",
+      "id": "sect-2b-075",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 74,
+      "rowOrder": 75,
       "problemRaw": "[[519]](https://www.erdosproblems.com/519)",
       "problemLabel": "519",
       "problemIds": [
@@ -15611,13 +15689,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-075",
+      "id": "sect-2b-076",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 75,
+      "rowOrder": 76,
       "problemRaw": "[[537]](https://www.erdosproblems.com/537)",
       "problemLabel": "537",
       "problemIds": [
@@ -15650,13 +15728,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-076",
+      "id": "sect-2b-077",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 76,
+      "rowOrder": 77,
       "problemRaw": "[[540]](https://www.erdosproblems.com/540)",
       "problemLabel": "540",
       "problemIds": [
@@ -15689,13 +15767,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-077",
+      "id": "sect-2b-078",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 77,
+      "rowOrder": 78,
       "problemRaw": "[[541]](https://www.erdosproblems.com/541)",
       "problemLabel": "541",
       "problemIds": [
@@ -15728,13 +15806,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-078",
+      "id": "sect-2b-079",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 78,
+      "rowOrder": 79,
       "problemRaw": "[[582]](https://www.erdosproblems.com/582)",
       "problemLabel": "582",
       "problemIds": [
@@ -15767,13 +15845,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-079",
+      "id": "sect-2b-080",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 79,
+      "rowOrder": 80,
       "problemRaw": "[[613]](https://www.erdosproblems.com/613)",
       "problemLabel": "613",
       "problemIds": [
@@ -15806,13 +15884,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-080",
+      "id": "sect-2b-081",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 80,
+      "rowOrder": 81,
       "problemRaw": "[[618]](https://www.erdosproblems.com/618)",
       "problemLabel": "618",
       "problemIds": [
@@ -15845,13 +15923,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-081",
+      "id": "sect-2b-082",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 81,
+      "rowOrder": 82,
       "problemRaw": "[[621]](https://www.erdosproblems.com/621)",
       "problemLabel": "621",
       "problemIds": [
@@ -15884,13 +15962,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-082",
+      "id": "sect-2b-083",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 82,
+      "rowOrder": 83,
       "problemRaw": "[[645]](https://www.erdosproblems.com/645)",
       "problemLabel": "645",
       "problemIds": [
@@ -15923,13 +16001,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-083",
+      "id": "sect-2b-084",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 83,
+      "rowOrder": 84,
       "problemRaw": "[[646]](https://www.erdosproblems.com/646)",
       "problemLabel": "646",
       "problemIds": [
@@ -15962,13 +16040,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-084",
+      "id": "sect-2b-085",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 84,
+      "rowOrder": 85,
       "problemRaw": "[[648]](https://www.erdosproblems.com/648)",
       "problemLabel": "648",
       "problemIds": [
@@ -16001,13 +16079,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-085",
+      "id": "sect-2b-086",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 85,
+      "rowOrder": 86,
       "problemRaw": "[[649]](https://www.erdosproblems.com/649)",
       "problemLabel": "649",
       "problemIds": [
@@ -16040,13 +16118,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-086",
+      "id": "sect-2b-087",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 86,
+      "rowOrder": 87,
       "problemRaw": "[[650]](https://www.erdosproblems.com/650)",
       "problemLabel": "650",
       "problemIds": [
@@ -16079,13 +16157,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-087",
+      "id": "sect-2b-088",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 87,
+      "rowOrder": 88,
       "problemRaw": "[[658]](https://www.erdosproblems.com/658)",
       "problemLabel": "658",
       "problemIds": [
@@ -16118,13 +16196,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-088",
+      "id": "sect-2b-089",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 88,
+      "rowOrder": 89,
       "problemRaw": "[[659]](https://www.erdosproblems.com/659)",
       "problemLabel": "659",
       "problemIds": [
@@ -16157,13 +16235,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-089",
+      "id": "sect-2b-090",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 89,
+      "rowOrder": 90,
       "problemRaw": "[[666]](https://www.erdosproblems.com/666)",
       "problemLabel": "666",
       "problemIds": [
@@ -16196,13 +16274,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-090",
+      "id": "sect-2b-091",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 90,
+      "rowOrder": 91,
       "problemRaw": "[[678]](https://www.erdosproblems.com/678)",
       "problemLabel": "678",
       "problemIds": [
@@ -16235,13 +16313,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-091",
+      "id": "sect-2b-092",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 91,
+      "rowOrder": 92,
       "problemRaw": "[[692]](https://www.erdosproblems.com/692)",
       "problemLabel": "692",
       "problemIds": [
@@ -16274,13 +16352,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-092",
+      "id": "sect-2b-093",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 92,
+      "rowOrder": 93,
       "problemRaw": "[[698]](https://www.erdosproblems.com/698)",
       "problemLabel": "698",
       "problemIds": [
@@ -16313,13 +16391,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-093",
+      "id": "sect-2b-094",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 93,
+      "rowOrder": 94,
       "problemRaw": "[[707]](https://www.erdosproblems.com/707)",
       "problemLabel": "707",
       "problemIds": [
@@ -16352,13 +16430,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-094",
+      "id": "sect-2b-095",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 94,
+      "rowOrder": 95,
       "problemRaw": "[[728]](https://www.erdosproblems.com/728)",
       "problemLabel": "728",
       "problemIds": [
@@ -16391,13 +16469,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-095",
+      "id": "sect-2b-096",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 95,
+      "rowOrder": 96,
       "problemRaw": "[[751]](https://www.erdosproblems.com/751)",
       "problemLabel": "751",
       "problemIds": [
@@ -16430,13 +16508,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-096",
+      "id": "sect-2b-097",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 96,
+      "rowOrder": 97,
       "problemRaw": "[[753]](https://www.erdosproblems.com/753)",
       "problemLabel": "753",
       "problemIds": [
@@ -16469,13 +16547,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-097",
+      "id": "sect-2b-098",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 97,
+      "rowOrder": 98,
       "problemRaw": "[[756]](https://www.erdosproblems.com/756)",
       "problemLabel": "756",
       "problemIds": [
@@ -16508,13 +16586,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-098",
+      "id": "sect-2b-099",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 98,
+      "rowOrder": 99,
       "problemRaw": "[[760]](https://www.erdosproblems.com/760)",
       "problemLabel": "760",
       "problemIds": [
@@ -16547,13 +16625,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-099",
+      "id": "sect-2b-100",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 99,
+      "rowOrder": 100,
       "problemRaw": "[[762]](https://www.erdosproblems.com/762)",
       "problemLabel": "762",
       "problemIds": [
@@ -16586,13 +16664,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-100",
+      "id": "sect-2b-101",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 100,
+      "rowOrder": 101,
       "problemRaw": "[[775]](https://www.erdosproblems.com/775)",
       "problemLabel": "775",
       "problemIds": [
@@ -16625,13 +16703,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-101",
+      "id": "sect-2b-102",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 101,
+      "rowOrder": 102,
       "problemRaw": "[[785]](https://www.erdosproblems.com/785)",
       "problemLabel": "785",
       "problemIds": [
@@ -16664,13 +16742,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-102",
+      "id": "sect-2b-103",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 102,
+      "rowOrder": 103,
       "problemRaw": "[[788]](https://www.erdosproblems.com/788)",
       "problemLabel": "788",
       "problemIds": [
@@ -16703,13 +16781,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-103",
+      "id": "sect-2b-104",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 103,
+      "rowOrder": 104,
       "problemRaw": "[[794]](https://www.erdosproblems.com/794)",
       "problemLabel": "794",
       "problemIds": [
@@ -16742,13 +16820,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-104",
+      "id": "sect-2b-105",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 104,
+      "rowOrder": 105,
       "problemRaw": "[[818]](https://www.erdosproblems.com/818)",
       "problemLabel": "818",
       "problemIds": [
@@ -16781,13 +16859,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-105",
+      "id": "sect-2b-106",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 105,
+      "rowOrder": 106,
       "problemRaw": "[[835]](https://www.erdosproblems.com/835)",
       "problemLabel": "835",
       "problemIds": [
@@ -16820,13 +16898,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-106",
+      "id": "sect-2b-107",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 106,
+      "rowOrder": 107,
       "problemRaw": "[[844]](https://www.erdosproblems.com/844)",
       "problemLabel": "844",
       "problemIds": [
@@ -16859,13 +16937,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-107",
+      "id": "sect-2b-108",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 107,
+      "rowOrder": 108,
       "problemRaw": "[[845]](https://www.erdosproblems.com/845)",
       "problemLabel": "845",
       "problemIds": [
@@ -16898,13 +16976,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-108",
+      "id": "sect-2b-109",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 108,
+      "rowOrder": 109,
       "problemRaw": "[[848]](https://www.erdosproblems.com/848)",
       "problemLabel": "848",
       "problemIds": [
@@ -16937,13 +17015,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-109",
+      "id": "sect-2b-110",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 109,
+      "rowOrder": 110,
       "problemRaw": "[[862]](https://www.erdosproblems.com/862)",
       "problemLabel": "862",
       "problemIds": [
@@ -16976,13 +17054,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-110",
+      "id": "sect-2b-111",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 110,
+      "rowOrder": 111,
       "problemRaw": "[[867]](https://www.erdosproblems.com/867)",
       "problemLabel": "867",
       "problemIds": [
@@ -17015,13 +17093,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-111",
+      "id": "sect-2b-112",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 111,
+      "rowOrder": 112,
       "problemRaw": "[[897]](https://www.erdosproblems.com/897)",
       "problemLabel": "897",
       "problemIds": [
@@ -17054,13 +17132,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-112",
+      "id": "sect-2b-113",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 112,
+      "rowOrder": 113,
       "problemRaw": "[[898]](https://www.erdosproblems.com/898)",
       "problemLabel": "898",
       "problemIds": [
@@ -17093,13 +17171,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-113",
+      "id": "sect-2b-114",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 113,
+      "rowOrder": 114,
       "problemRaw": "[[904]](https://www.erdosproblems.com/904)",
       "problemLabel": "904",
       "problemIds": [
@@ -17132,13 +17210,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-114",
+      "id": "sect-2b-115",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 114,
+      "rowOrder": 115,
       "problemRaw": "[[905]](https://www.erdosproblems.com/905)",
       "problemLabel": "905",
       "problemIds": [
@@ -17171,13 +17249,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-115",
+      "id": "sect-2b-116",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 115,
+      "rowOrder": 116,
       "problemRaw": "[[907]](https://www.erdosproblems.com/907)",
       "problemLabel": "907",
       "problemIds": [
@@ -17210,13 +17288,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-116",
+      "id": "sect-2b-117",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 116,
+      "rowOrder": 117,
       "problemRaw": "[[914]](https://www.erdosproblems.com/914)",
       "problemLabel": "914",
       "problemIds": [
@@ -17249,13 +17327,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-117",
+      "id": "sect-2b-118",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 117,
+      "rowOrder": 118,
       "problemRaw": "[[923]](https://www.erdosproblems.com/923)",
       "problemLabel": "923",
       "problemIds": [
@@ -17288,13 +17366,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-118",
+      "id": "sect-2b-119",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 118,
+      "rowOrder": 119,
       "problemRaw": "[[947]](https://www.erdosproblems.com/947)",
       "problemLabel": "947",
       "problemIds": [
@@ -17327,13 +17405,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-119",
+      "id": "sect-2b-120",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 119,
+      "rowOrder": 120,
       "problemRaw": "[[958]](https://www.erdosproblems.com/958)",
       "problemLabel": "958",
       "problemIds": [
@@ -17366,13 +17444,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-120",
+      "id": "sect-2b-121",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 120,
+      "rowOrder": 121,
       "problemRaw": "[[964]](https://www.erdosproblems.com/964)",
       "problemLabel": "964",
       "problemIds": [
@@ -17405,13 +17483,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-121",
+      "id": "sect-2b-122",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 121,
+      "rowOrder": 122,
       "problemRaw": "[[967]](https://www.erdosproblems.com/967)",
       "problemLabel": "967",
       "problemIds": [
@@ -17444,13 +17522,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-122",
+      "id": "sect-2b-123",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 122,
+      "rowOrder": 123,
       "problemRaw": "[[974]](https://www.erdosproblems.com/974)",
       "problemLabel": "974",
       "problemIds": [
@@ -17483,13 +17561,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-123",
+      "id": "sect-2b-124",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 123,
+      "rowOrder": 124,
       "problemRaw": "[[990]](https://www.erdosproblems.com/990)",
       "problemLabel": "990",
       "problemIds": [
@@ -17522,13 +17600,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-124",
+      "id": "sect-2b-125",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 124,
+      "rowOrder": 125,
       "problemRaw": "[[997]](https://www.erdosproblems.com/997)",
       "problemLabel": "997",
       "problemIds": [
@@ -17561,13 +17639,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-125",
+      "id": "sect-2b-126",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 125,
+      "rowOrder": 126,
       "problemRaw": "[[1000]](https://www.erdosproblems.com/1000)",
       "problemLabel": "1000",
       "problemIds": [
@@ -17600,13 +17678,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-126",
+      "id": "sect-2b-127",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 126,
+      "rowOrder": 127,
       "problemRaw": "[[1007]](https://www.erdosproblems.com/1007)",
       "problemLabel": "1007",
       "problemIds": [
@@ -17639,13 +17717,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-127",
+      "id": "sect-2b-128",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 127,
+      "rowOrder": 128,
       "problemRaw": "[[1008]](https://www.erdosproblems.com/1008)",
       "problemLabel": "1008",
       "problemIds": [
@@ -17678,13 +17756,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-128",
+      "id": "sect-2b-129",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 128,
+      "rowOrder": 129,
       "problemRaw": "[[1022]](https://www.erdosproblems.com/1022)",
       "problemLabel": "1022",
       "problemIds": [
@@ -17717,13 +17795,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-129",
+      "id": "sect-2b-130",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 129,
+      "rowOrder": 130,
       "problemRaw": "[[1023]](https://www.erdosproblems.com/1023)",
       "problemLabel": "1023",
       "problemIds": [
@@ -17756,13 +17834,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-130",
+      "id": "sect-2b-131",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 130,
+      "rowOrder": 131,
       "problemRaw": "[[1028]](https://www.erdosproblems.com/1028)",
       "problemLabel": "1028",
       "problemIds": [
@@ -17795,13 +17873,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-131",
+      "id": "sect-2b-132",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 131,
+      "rowOrder": 132,
       "problemRaw": "[[1034]](https://www.erdosproblems.com/1034)",
       "problemLabel": "1034",
       "problemIds": [
@@ -17834,13 +17912,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-132",
+      "id": "sect-2b-133",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 132,
+      "rowOrder": 133,
       "problemRaw": "[[1036]](https://www.erdosproblems.com/1036)",
       "problemLabel": "1036",
       "problemIds": [
@@ -17873,13 +17951,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-133",
+      "id": "sect-2b-134",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 133,
+      "rowOrder": 134,
       "problemRaw": "[[1037]](https://www.erdosproblems.com/1037)",
       "problemLabel": "1037",
       "problemIds": [
@@ -17912,13 +17990,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-134",
+      "id": "sect-2b-135",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 134,
+      "rowOrder": 135,
       "problemRaw": "[[1044]](https://www.erdosproblems.com/1044)",
       "problemLabel": "1044",
       "problemIds": [
@@ -17951,13 +18029,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-135",
+      "id": "sect-2b-136",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 135,
+      "rowOrder": 136,
       "problemRaw": "[[1048]](https://www.erdosproblems.com/1048)",
       "problemLabel": "1048",
       "problemIds": [
@@ -17990,13 +18068,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-136",
+      "id": "sect-2b-137",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 136,
+      "rowOrder": 137,
       "problemRaw": "[[1067]](https://www.erdosproblems.com/1067)",
       "problemLabel": "1067",
       "problemIds": [
@@ -18029,13 +18107,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-137",
+      "id": "sect-2b-138",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 137,
+      "rowOrder": 138,
       "problemRaw": "[[1071]](https://www.erdosproblems.com/1071)",
       "problemLabel": "1071",
       "problemIds": [
@@ -18068,13 +18146,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-138",
+      "id": "sect-2b-139",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 138,
+      "rowOrder": 139,
       "problemRaw": "[[1080]](https://www.erdosproblems.com/1080)",
       "problemLabel": "1080",
       "problemIds": [
@@ -18107,13 +18185,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-139",
+      "id": "sect-2b-140",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 139,
+      "rowOrder": 140,
       "problemRaw": "[[1098]](https://www.erdosproblems.com/1098)",
       "problemLabel": "1098",
       "problemIds": [
@@ -18146,13 +18224,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-140",
+      "id": "sect-2b-141",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 140,
+      "rowOrder": 141,
       "problemRaw": "[[1102]](https://www.erdosproblems.com/1102)",
       "problemLabel": "1102",
       "problemIds": [
@@ -18185,13 +18263,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-141",
+      "id": "sect-2b-142",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 141,
+      "rowOrder": 142,
       "problemRaw": "[[1121]](https://www.erdosproblems.com/1121)",
       "problemLabel": "1121",
       "problemIds": [
@@ -18224,13 +18302,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-142",
+      "id": "sect-2b-143",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 142,
+      "rowOrder": 143,
       "problemRaw": "[[1125]](https://www.erdosproblems.com/1125)",
       "problemLabel": "1125",
       "problemIds": [
@@ -18263,13 +18341,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-143",
+      "id": "sect-2b-144",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 143,
+      "rowOrder": 144,
       "problemRaw": "[[1126]](https://www.erdosproblems.com/1126)",
       "problemLabel": "1126",
       "problemIds": [
@@ -18302,13 +18380,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-144",
+      "id": "sect-2b-145",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 144,
+      "rowOrder": 145,
       "problemRaw": "[[1136]](https://www.erdosproblems.com/1136)",
       "problemLabel": "1136",
       "problemIds": [
@@ -18341,13 +18419,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-145",
+      "id": "sect-2b-146",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 145,
+      "rowOrder": 146,
       "problemRaw": "[[1141]](https://www.erdosproblems.com/1141)",
       "problemLabel": "1141",
       "problemIds": [
@@ -18380,13 +18458,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-146",
+      "id": "sect-2b-147",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 146,
+      "rowOrder": 147,
       "problemRaw": "[[1148]](https://www.erdosproblems.com/1148)",
       "problemLabel": "1148",
       "problemIds": [
@@ -18419,13 +18497,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-147",
+      "id": "sect-2b-148",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 147,
+      "rowOrder": 148,
       "problemRaw": "[[1193]](https://www.erdosproblems.com/1193)",
       "problemLabel": "1193",
       "problemIds": [
@@ -18458,13 +18536,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-148",
+      "id": "sect-2b-149",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 148,
+      "rowOrder": 149,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -19688,15 +19766,15 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 1,
-      "problemRaw": "[[38]](https://www.erdosproblems.com/38)",
-      "problemLabel": "38",
+      "problemRaw": "[[202]](https://www.erdosproblems.com/202)",
+      "problemLabel": "202",
       "problemIds": [
-        38
+        202
       ],
       "problemLinks": [
         {
-          "label": "38",
-          "url": "https://www.erdosproblems.com/38"
+          "label": "202",
+          "url": "https://www.erdosproblems.com/202"
         }
       ],
       "aiSystemsRaw": "",
@@ -19707,7 +19785,7 @@ window.ERDOS_AI_DATA = {
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
-        "Problem": "[[38]](https://www.erdosproblems.com/38)",
+        "Problem": "[[202]](https://www.erdosproblems.com/202)",
         "Humans": "",
         "AI systems": "",
         "Date": "",
@@ -19716,7 +19794,7 @@ window.ERDOS_AI_DATA = {
         "F": ""
       },
       "fieldsPlain": {
-        "Problem": "38",
+        "Problem": "202",
         "Humans": "",
         "AI systems": "",
         "Date": "",
@@ -19778,51 +19856,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 3,
-      "problemRaw": "[[202]](https://www.erdosproblems.com/202)",
-      "problemLabel": "202",
-      "problemIds": [
-        202
-      ],
-      "problemLinks": [
-        {
-          "label": "202",
-          "url": "https://www.erdosproblems.com/202"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[202]](https://www.erdosproblems.com/202)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "202",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-004",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 11,
-      "rowOrder": 4,
       "problemRaw": "[[330]](https://www.erdosproblems.com/330)",
       "problemLabel": "330",
       "problemIds": [
@@ -19861,13 +19894,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-005",
+      "id": "sect-3-004",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 5,
+      "rowOrder": 4,
       "problemRaw": "[[451]](https://www.erdosproblems.com/451)",
       "problemLabel": "451",
       "problemIds": [
@@ -19906,13 +19939,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-006",
+      "id": "sect-3-005",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 6,
+      "rowOrder": 5,
       "problemRaw": "[[503]](https://www.erdosproblems.com/503)",
       "problemLabel": "503",
       "problemIds": [
@@ -19951,13 +19984,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-007",
+      "id": "sect-3-006",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 7,
+      "rowOrder": 6,
       "problemRaw": "[[514]](https://www.erdosproblems.com/514)",
       "problemLabel": "514",
       "problemIds": [
@@ -19996,13 +20029,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-008",
+      "id": "sect-3-007",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 8,
+      "rowOrder": 7,
       "problemRaw": "[[598]](https://www.erdosproblems.com/598)",
       "problemLabel": "598",
       "problemIds": [
@@ -20041,13 +20074,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-009",
+      "id": "sect-3-008",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 9,
+      "rowOrder": 8,
       "problemRaw": "[[696]](https://www.erdosproblems.com/696)",
       "problemLabel": "696",
       "problemIds": [
@@ -20086,13 +20119,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-010",
+      "id": "sect-3-009",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 10,
+      "rowOrder": 9,
       "problemRaw": "[[836]](https://www.erdosproblems.com/836)",
       "problemLabel": "836",
       "problemIds": [
@@ -20131,13 +20164,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-011",
+      "id": "sect-3-010",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 11,
+      "rowOrder": 10,
       "problemRaw": "[[852]](https://www.erdosproblems.com/852)",
       "problemLabel": "852",
       "problemIds": [
@@ -20176,13 +20209,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-012",
+      "id": "sect-3-011",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 12,
+      "rowOrder": 11,
       "problemRaw": "[[856]](https://www.erdosproblems.com/856)",
       "problemLabel": "856",
       "problemIds": [
@@ -20221,13 +20254,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-013",
+      "id": "sect-3-012",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 13,
+      "rowOrder": 12,
       "problemRaw": "[[870]](https://www.erdosproblems.com/870)",
       "problemLabel": "870",
       "problemIds": [
@@ -20266,13 +20299,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-014",
+      "id": "sect-3-013",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 14,
+      "rowOrder": 13,
       "problemRaw": "[[872]](https://www.erdosproblems.com/872)",
       "problemLabel": "872",
       "problemIds": [
@@ -20302,6 +20335,51 @@ window.ERDOS_AI_DATA = {
       },
       "fieldsPlain": {
         "Problem": "872",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-014",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 11,
+      "rowOrder": 14,
+      "problemRaw": "[[873]](https://www.erdosproblems.com/873)",
+      "problemLabel": "873",
+      "problemIds": [
+        873
+      ],
+      "problemLinks": [
+        {
+          "label": "873",
+          "url": "https://www.erdosproblems.com/873"
+        }
+      ],
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[873]](https://www.erdosproblems.com/873)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "873",
         "Humans": "",
         "AI systems": "",
         "Date": "",
@@ -20363,51 +20441,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 16,
-      "problemRaw": "[[873]](https://www.erdosproblems.com/873)",
-      "problemLabel": "873",
-      "problemIds": [
-        873
-      ],
-      "problemLinks": [
-        {
-          "label": "873",
-          "url": "https://www.erdosproblems.com/873"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[873]](https://www.erdosproblems.com/873)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "873",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-017",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 11,
-      "rowOrder": 17,
       "problemRaw": "[[888]](https://www.erdosproblems.com/888)",
       "problemLabel": "888",
       "problemIds": [
@@ -20446,13 +20479,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-018",
+      "id": "sect-3-017",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 18,
+      "rowOrder": 17,
       "problemRaw": "[[896]](https://www.erdosproblems.com/896)",
       "problemLabel": "896",
       "problemIds": [
@@ -20491,13 +20524,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-019",
+      "id": "sect-3-018",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 19,
+      "rowOrder": 18,
       "problemRaw": "[[906]](https://www.erdosproblems.com/906)",
       "problemLabel": "906",
       "problemIds": [
@@ -20536,13 +20569,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-020",
+      "id": "sect-3-019",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 20,
+      "rowOrder": 19,
       "problemRaw": "[[953]](https://www.erdosproblems.com/953)",
       "problemLabel": "953",
       "problemIds": [
@@ -20581,13 +20614,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-021",
+      "id": "sect-3-020",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 21,
+      "rowOrder": 20,
       "problemRaw": "[[956]](https://www.erdosproblems.com/956)",
       "problemLabel": "956",
       "problemIds": [
@@ -20626,13 +20659,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-022",
+      "id": "sect-3-021",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 22,
+      "rowOrder": 21,
       "problemRaw": "[[983]](https://www.erdosproblems.com/983)",
       "problemLabel": "983",
       "problemIds": [
@@ -20671,13 +20704,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-023",
+      "id": "sect-3-022",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 23,
+      "rowOrder": 22,
       "problemRaw": "[[1092]](https://www.erdosproblems.com/1092)",
       "problemLabel": "1092",
       "problemIds": [
@@ -20716,13 +20749,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-024",
+      "id": "sect-3-023",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 24,
+      "rowOrder": 23,
       "problemRaw": "[[1101]](https://www.erdosproblems.com/1101)",
       "problemLabel": "1101",
       "problemIds": [
@@ -20761,13 +20794,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-025",
+      "id": "sect-3-024",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 25,
+      "rowOrder": 24,
       "problemRaw": "[[1131]](https://www.erdosproblems.com/1131)",
       "problemLabel": "1131",
       "problemIds": [
@@ -20806,13 +20839,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-026",
+      "id": "sect-3-025",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 26,
+      "rowOrder": 25,
       "problemRaw": "[[1133]](https://www.erdosproblems.com/1133)",
       "problemLabel": "1133",
       "problemIds": [
@@ -20851,13 +20884,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-027",
+      "id": "sect-3-026",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
-      "rowOrder": 27,
+      "rowOrder": 26,
       "problemRaw": "[[1151]](https://www.erdosproblems.com/1151)",
       "problemLabel": "1151",
       "problemIds": [
@@ -20887,6 +20920,51 @@ window.ERDOS_AI_DATA = {
       },
       "fieldsPlain": {
         "Problem": "1151",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-027",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 11,
+      "rowOrder": 27,
+      "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
+      "problemLabel": "1190",
+      "problemIds": [
+        1190
+      ],
+      "problemLinks": [
+        {
+          "label": "1190",
+          "url": "https://www.erdosproblems.com/1190"
+        }
+      ],
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[1190]](https://www.erdosproblems.com/1190)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "1190",
         "Humans": "",
         "AI systems": "",
         "Date": "",
@@ -20948,51 +21026,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 11,
       "rowOrder": 29,
-      "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
-      "problemLabel": "1190",
-      "problemIds": [
-        1190
-      ],
-      "problemLinks": [
-        {
-          "label": "1190",
-          "url": "https://www.erdosproblems.com/1190"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[1190]](https://www.erdosproblems.com/1190)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "1190",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-030",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 11,
-      "rowOrder": 30,
       "problemRaw": "[[1201]](https://www.erdosproblems.com/1201)",
       "problemLabel": "1201",
       "problemIds": [
