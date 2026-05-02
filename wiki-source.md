@@ -112,6 +112,7 @@ Sorted by the author's last name alphabetically.
 | [[654]](https://www.erdosproblems.com/654) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one formulation of problem
 | [[665]](https://www.erdosproblems.com/665) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[684]](https://www.erdosproblems.com/684) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result
+| [[694]](https://www.erdosproblems.com/694) | GPT-5.5 Pro | 1 May, 2026 | 🟢 Full solution
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 31 Mar, 2026 | 🟡 Partial result (Lean) (solution to variant of first part; solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result (solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution (Lean)
@@ -260,7 +261,7 @@ Sorted by the author's last name alphabetically.
 | [[684]](https://www.erdosproblems.com/684) | Quanyu Tang | GPT-5.2 Thinking | 19 Jan, 2026 | 🟡 Partial result
 | [[684]](https://www.erdosproblems.com/684) | Nat Sothanaphan | GPT-5.4 Thinking | 2 Apr, 2026 | 🟡 Partial result
 | [[686]](https://www.erdosproblems.com/686) | Adenwalla, Stijn Cambie, Wouter van Doorn, Vjeko Kovac, MalekZ, Miklos, Nat Sothanaphan, Quanyu Tang, Terence Tao, vilc | AlphaProof, Claude, Gemini Deep Think, GPT-5.2 Thinking, GPT-5.4 Thinking, Seed 2.0 Pro | 9 Aug, 2025-15 Mar, 2026 | 🟡 Various partial results
-| [[696]](https://www.erdosproblems.com/696) | David Turturean | Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-May 1, 2026 | 🟢 Full solution (Lean)
+| [[696]](https://www.erdosproblems.com/696) | David Turturean | Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-1 May, 2026 | 🟢 Full solution (Lean)
 | [[749]](https://www.erdosproblems.com/749) | Aron Bhalla | GPT-5.4 Thinking | 4-6 Apr, 2026 | 🟡 Partial result; 🟡 Solution to variant problem
 | [[776]](https://www.erdosproblems.com/776) | Yixin He, Quanyu Tang | GPT-5.2 Thinking | 11 Feb, 2026 | 🟡 Partial result
 | [[848]](https://www.erdosproblems.com/848) | MalekZ | Claude Opus 4.6, GPT-5.4 | 12-15 Mar, 2026 | 🔴 Incorrect proof found
