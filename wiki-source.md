@@ -193,19 +193,19 @@ Sorted by the author's last name alphabetically.
 | [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Thinking | 1 Mar, 2026 | 🟡 He and Tang (2026) | 🟡 Slight improvement to past construction
 | [[524]](https://www.erdosproblems.com/524) | Gemini, GPT-5.2, Grok | 30 Jan, 2026 | 🟡 Sawhney (2025) | 🟡 Improved partial result
 | [[679]](https://www.erdosproblems.com/679) | Aristotle | 12 Jan, 2026 | 🟡 DottedCalculator (2025) | 🟡 Improved proof by reducing dependence on prime number theorem
-| [[729]](https://www.erdosproblems.com/729) | Aristotle, GPT-5.2 Pro | 8-10 Jan, 2026 | 🟡 Barreto, GPT-5.2-Pro, Aristotle (2026) (full solution to [728]) | 🟢 Full solution (Lean)
+| [[729]](https://www.erdosproblems.com/729) | Aristotle, GPT-5.2 Pro | 8-10 Jan, 2026 | 🟡 Aristotle, Barreto, and GPT-5.2 Pro (2026) (full solution to [728]) | 🟢 Full solution (Lean)
 | [[788]](https://www.erdosproblems.com/788) | GPT-5.2 Pro | 20 Jan, 2026 | 🟡 Hunter (2025) | 🟡 New partial result
 | [[848]](https://www.erdosproblems.com/848) | Gemini 3.1 Pro, GPT-5.2 Thinking, GPT-5.4 Thinking | 5-23 Mar, 2026 | 🟢 Sawhney (2025) | 🟢 Derived explicit bound; 🟡 Partial result of variant problem
 | [[868]](https://www.erdosproblems.com/868) | GPT-5.2 multi-agent system | 13 Jan, 2026 | 🟡 Erdős and Nathanson (1989) | 🟡 New partial result
 | [[871]](https://www.erdosproblems.com/871) | Claude Opus 4.5, Gemini 3 Pro | 5 Jan, 2026 | 🟡 Erdős and Nathanson (1989) | 🟢 Existing partial result upgraded to full solution (Lean)
 | [[942]](https://www.erdosproblems.com/942) | Gemini | 23 Nov, 2025 | 🟡 Erdős (unpublished, 1976) | 🟡 New proof found
-| [[951]](https://www.erdosproblems.com/951) | AlphaEvolve | 28 Jan, 2026 | 🟡 Barreto, GPT-5.2 Pro, Leeham (2026) + GPT-5.2 Thinking, Sothanaphan (2026) (solution to one formulation of problem) | 🟡 New solution to one formulation of problem
+| [[951]](https://www.erdosproblems.com/951) | AlphaEvolve | 28 Jan, 2026 | 🟡 Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to one formulation of problem) | 🟡 New solution to one formulation of problem
 | [[958]](https://www.erdosproblems.com/958) | Aristotle | 27 Dec, 2025 | 🟢 Clemen, Dumitrescu, and Liu (2025) | 🟢 New proof found (Lean)
 | [[966]](https://www.erdosproblems.com/966) | Aristotle | 25 Feb, 2026 | 🟢 Spencer (unpublished) | 🟢 Full solution (Lean)
 | [[1004]](https://www.erdosproblems.com/1004) | GPT-5.5 Pro | 29 Apr, 2026 | 🟡 Pollack, Pomerance, and Treviño (2013) | 🟡 Partial result (implicit in literature)
 | [[1007]](https://www.erdosproblems.com/1007) | Aristotle | 19 Jan, 2026 | 🟢 House (2013); 🟢 Chaffee and Noble (2016) | 🟢 New proof found (Lean)
 | [[1043]](https://www.erdosproblems.com/1043) | Aristotle | 28 Dec, 2025 | 🟢 Pommerenke (1961) | 🟢 New proof found (Lean)
-| [[1043]](https://www.erdosproblems.com/1043) | GPT | 30 Dec, 2025 | 🟢 Pommerenke (1961), Aristotle | 🟢 New proof found
+| [[1043]](https://www.erdosproblems.com/1043) | GPT | 30 Dec, 2025 | 🟢 Pommerenke (1961); Aristotle | 🟢 New proof found
 | [[1047]](https://www.erdosproblems.com/1047) | Aristotle | 21 Jan, 2026 | 🟢 Goodman (1966) | 🟢 New proof found (Lean)
 | [[1048]](https://www.erdosproblems.com/1048) | Aristotle | 28 Jan, 2026 | 🟢 Pommerenke (1961) | 🟢 Proof found (Lean), which is a specific case of Pommerenke
 | [[1090]](https://www.erdosproblems.com/1090) | Aristotle, Gemini 3 Flash | 27 Feb, 2026 | 🟢 Graham and Selfridge (unpublished, ~1975) | 🟢 Proof found (Lean)
@@ -235,7 +235,7 @@ Sorted by the author's last name alphabetically.
 | [[388]](https://www.erdosproblems.com/388) | MalekZ | Claude, Gemini, GPT-5.4 | 12-15 Mar, 2026 | 🔴 Incorrect proof found
 | [[396]](https://www.erdosproblems.com/396) | MalekZ | Claude, Codex, GPT | 15 Mar, 2026 | 🟡 Partial result
 | [[396]](https://www.erdosproblems.com/396) | Justin Dehorty, Nat Sothanaphan | GPT-5.4 Pro, GPT-5.4 Thinking | 5-7 Apr, 2026 | 🟡 Related result
-| [[401]](https://www.erdosproblems.com/401) | Boris Alexeev, Kevin Barreto, Leeham, Nat Sothanaphan | Aristotle, GPT-5.2 Pro | 10-11 Jan, 2026 | 🟢 Counterexample to alternate formulation; full solution to revised formulation (Lean)
+| [[401]](https://www.erdosproblems.com/401) | Boris Alexeev, Kevin Barreto, Liam Price, Nat Sothanaphan | Aristotle, GPT-5.2 Pro | 10-11 Jan, 2026 | 🟢 Counterexample to alternate formulation; full solution to revised formulation (Lean)
 | [[411]](https://www.erdosproblems.com/411) | hoodieuser | Claude | 3 Apr, 2026 | 🔴 Incorrect proof found
 | [[415]](https://www.erdosproblems.com/415) | Przemek Chojecki | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result
 | [[423]](https://www.erdosproblems.com/423) | Quanyu Tang, Nat Sothanaphan | GPT-5.2 Thinking, GPT-5.4 Thinking | 11-12 Mar, 2026 | 🟡 Partial result
@@ -390,7 +390,7 @@ Sorted by the author's last name alphabetically.
 | [[34]](https://www.erdosproblems.com/34) | 🟢 Konieczny (2015) | Aristotle | 5 Feb, 2026
 | [[38]](https://www.erdosproblems.com/38) | 🟢 GPT-5.5 Pro (2026) | Aristotle | 1 May, 2026
 | [[43]](https://www.erdosproblems.com/43) | 🟡 Barreto (2025) | Aristotle, Claude | 21 Dec, 2025
-| [[56]](https://www.erdosproblems.com/56) | 🟢 Ahlswede-Khachatrian (1995) | Aristotle, GPT | 25 Nov, 2025
+| [[56]](https://www.erdosproblems.com/56) | 🟢 Ahlswede and Khachatrian (1995) | Aristotle, GPT | 25 Nov, 2025
 | [[93]](https://www.erdosproblems.com/93) | 🟢 Altman (1963) | Aristotle, Claude Opus 4.5, Claude Opus 4.6, Gemini 3 Flash, Gemini 3 Pro, Numina Lean Agent | 17 Feb, 2026
 | [[94]](https://www.erdosproblems.com/94) | 🟢 Lefmann and Thiele (1995) | Codex, GPT-5.2 Thinking; Seed Prover | 15 Jan, 2026
 | [[105]](https://www.erdosproblems.com/105) | 🟢 Xichuan (2025) | Aristotle, GPT Pro | 17 Nov, 2025
@@ -431,7 +431,7 @@ Sorted by the author's last name alphabetically.
 | [[363]](https://www.erdosproblems.com/363) | 🟢 Ulas (2005) | Aristotle | 10 Mar, 2026
 | [[367]](https://www.erdosproblems.com/367) | 🟡 van Doorn and Tao (2025) | Aristotle | 22 Nov, 2025
 | [[368]](https://www.erdosproblems.com/368) | 🟡 Pólya (1918) | Aristotle | 17 Feb, 2026
-| [[369]](https://www.erdosproblems.com/369) | 🟢 Yang and GPT (2026) | Aristotle | 27 Mar, 2026
+| [[369]](https://www.erdosproblems.com/369) | 🟢 GPT and Yang (2026) | Aristotle | 27 Mar, 2026
 | [[370]](https://www.erdosproblems.com/370) | 🟢 Steinerberger (2025) | Aristotle, GPT | 24 Nov, 2025
 | [[392]](https://www.erdosproblems.com/392) | 🟢 Tao (2026) | Various | 6 Jan-23 Feb, 2026
 | [[399]](https://www.erdosproblems.com/399) | 🟢 Barfield (2025) | Codex | Feb 2026
@@ -472,7 +472,7 @@ Sorted by the author's last name alphabetically.
 | [[649]](https://www.erdosproblems.com/649) | 🟢 Tong; Sampaio | Aristotle, GPT | 7 Feb, 2026
 | [[650]](https://www.erdosproblems.com/650) | 🟢 He, Li and Tang (2026) | Aristotle | 6-8 Mar, 2026
 | [[658]](https://www.erdosproblems.com/658) | 🟢 Solymosi (2004) | Aristotle | 20 Apr, 2026
-| [[659]](https://www.erdosproblems.com/659) | 🟢 Grayzel, Gemini (2026) | Aristotle | 14 Jan, 2026
+| [[659]](https://www.erdosproblems.com/659) | 🟢 Gemini and Grayzel (2026) | Aristotle | 14 Jan, 2026
 | [[666]](https://www.erdosproblems.com/666) | 🟢 Chung (1992), Brouwer, Dejter, and Thomassen (1993) | Aristotle | 6 Feb, 2026
 | [[678]](https://www.erdosproblems.com/678) | 🟢 Cambie (2025) | Aristotle | 7 Jan, 2026
 | [[692]](https://www.erdosproblems.com/692) | 🟢 Cambie (2025) | Aristotle | 2 Apr, 2026
@@ -516,7 +516,7 @@ Sorted by the author's last name alphabetically.
 | [[1022]](https://www.erdosproblems.com/1022) | 🟢 KoishiChan (2025) | Aristotle | 22 Jan, 2026
 | [[1023]](https://www.erdosproblems.com/1023) | 🟢 Kleitman (1971) | Aristotle | 10 Feb, 2026
 | [[1028]](https://www.erdosproblems.com/1028) | 🟢 Erdős (1963); Erdős and Spencer (1971) | Aristotle | 19 Jan, 2026
-| [[1034]](https://www.erdosproblems.com/1034) | 🟢 Ma-Tang (2025) | Aristotle | 4 Dec, 2025
+| [[1034]](https://www.erdosproblems.com/1034) | 🟢 Ma and Tang (2025) | Aristotle | 4 Dec, 2025
 | [[1036]](https://www.erdosproblems.com/1036) | 🟢 Shelah (1998) | Aristotle | 20 Jan, 2026
 | [[1037]](https://www.erdosproblems.com/1037) | 🟢 Cambie, Chan, and Hunter (2025) | Aristotle | 19 Jan, 2026
 | [[1044]](https://www.erdosproblems.com/1044) | 🟢 Tang (2026) | Aristotle | 28 Apr, 2026
@@ -590,8 +590,10 @@ Sorted by the author's last name alphabetically.
 | ------- | -------------- | ---------- | ---- | ------ |
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[202]](https://www.erdosproblems.com/202) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | 1(d) 🟢 Full solution?
+| [[283]](https://www.erdosproblems.com/283) | Kevin Barreto, Liam Price | GPT-5.5 Pro | 3 May, 2026 | 1(d) 🟢 Full solution?
 | [[288]](https://www.erdosproblems.com/288) | Ritvik Nayak | GPT-5.5 Thinking | 3 May, 2026 | 1(d) 🟡 Partial result?
 | [[330]](https://www.erdosproblems.com/330) | David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 1(d) 🟢 Full solution?
+| [[351]](https://www.erdosproblems.com/351) | Kevin Barreto, Liam Price | GPT-5.5 Pro | 3 May, 2026 | 1(d) 🟢 Full solution?
 | [[390]](https://www.erdosproblems.com/390) | Samuel Mausberg | GPT-5.5 Pro | 2 May, 2026 | 1(d) 🟡 Partial result?
 | [[451]](https://www.erdosproblems.com/451) | Quanyu Tang | GPT-5.5 Pro | 26 Apr, 2026 | 1(d) 🟡 Partial result?
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 1(d) 🟡 Partial result?
