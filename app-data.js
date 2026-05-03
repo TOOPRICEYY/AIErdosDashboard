@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-03T13:48:17.493Z",
+    "generatedAt": "2026-05-03T16:31:08.351Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 507,
+    "recordCount": 466,
     "sectionCount": 10
   },
   "sections": [
@@ -19,7 +19,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 52
+      "rowCount": 49
     },
     {
       "title": "1(b). AI alongside literature",
@@ -51,7 +51,7 @@ window.ERDOS_AI_DATA = {
         "Literature",
         "Outcome"
       ],
-      "rowCount": 42
+      "rowCount": 36
     },
     {
       "title": "1(d). AI collaborating with humans",
@@ -80,7 +80,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 116
+      "rowCount": 84
     },
     {
       "title": "2(b). Formalization",
@@ -1200,45 +1200,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
       "rowOrder": 5,
-      "problemRaw": "[[64]](https://www.erdosproblems.com/64)",
-      "problemLabel": "64",
-      "problemIds": [
-        64
-      ],
-      "problemLinks": [
-        {
-          "label": "64",
-          "url": "https://www.erdosproblems.com/64"
-        }
-      ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-      "aiSystemsLabel": "AlphaEvolve",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "No counterexample found",
-      "descriptionLabel": "No counterexample found",
-      "fieldsRaw": {
-        "Problem": "[[64]](https://www.erdosproblems.com/64)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-        "Date": "3 Nov, 2025",
-        "Outcome": "No counterexample found"
-      },
-      "fieldsPlain": {
-        "Problem": "64",
-        "AI systems": "AlphaEvolve",
-        "Date": "3 Nov, 2025",
-        "Outcome": "No counterexample found"
-      }
-    },
-    {
-      "id": "sect-1a-006",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(a). AI standalone",
-      "subsectionAnchor": "sect-1a",
-      "subsectionOrder": 1,
-      "rowOrder": 6,
       "problemRaw": "[[75]](https://www.erdosproblems.com/75)",
       "problemLabel": "75",
       "problemIds": [
@@ -1271,13 +1232,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-007",
+      "id": "sect-1a-006",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 7,
+      "rowOrder": 6,
       "problemRaw": "[[124]](https://www.erdosproblems.com/124)",
       "problemLabel": "124",
       "problemIds": [
@@ -1310,13 +1271,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-008",
+      "id": "sect-1a-007",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 8,
+      "rowOrder": 7,
       "problemRaw": "[[125]](https://www.erdosproblems.com/125)",
       "problemLabel": "125",
       "problemIds": [
@@ -1349,13 +1310,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-009",
+      "id": "sect-1a-008",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 9,
+      "rowOrder": 8,
       "problemRaw": "[[125]](https://www.erdosproblems.com/125)",
       "problemLabel": "125",
       "problemIds": [
@@ -1388,13 +1349,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-010",
+      "id": "sect-1a-009",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 10,
+      "rowOrder": 9,
       "problemRaw": "[[138]](https://www.erdosproblems.com/138)",
       "problemLabel": "138",
       "problemIds": [
@@ -1427,13 +1388,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-011",
+      "id": "sect-1a-010",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 11,
+      "rowOrder": 10,
       "problemRaw": "[[205]](https://www.erdosproblems.com/205)",
       "problemLabel": "205",
       "problemIds": [
@@ -1466,13 +1427,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-012",
+      "id": "sect-1a-011",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 12,
+      "rowOrder": 11,
       "problemRaw": "[[233]](https://www.erdosproblems.com/233)",
       "problemLabel": "233",
       "problemIds": [
@@ -1505,13 +1466,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-013",
+      "id": "sect-1a-012",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 13,
+      "rowOrder": 12,
       "problemRaw": "[[251]](https://www.erdosproblems.com/251)",
       "problemLabel": "251",
       "problemIds": [
@@ -1544,13 +1505,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-014",
+      "id": "sect-1a-013",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 14,
+      "rowOrder": 13,
       "problemRaw": "[[358]](https://www.erdosproblems.com/358)",
       "problemLabel": "358",
       "problemIds": [
@@ -1583,13 +1544,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-015",
+      "id": "sect-1a-014",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 15,
+      "rowOrder": 14,
       "problemRaw": "[[457]](https://www.erdosproblems.com/457)",
       "problemLabel": "457",
       "problemIds": [
@@ -1622,13 +1583,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-016",
+      "id": "sect-1a-015",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 16,
+      "rowOrder": 15,
       "problemRaw": "[[460]](https://www.erdosproblems.com/460)",
       "problemLabel": "460",
       "problemIds": [
@@ -1661,13 +1622,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-017",
+      "id": "sect-1a-016",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 17,
+      "rowOrder": 16,
       "problemRaw": "[[477]](https://www.erdosproblems.com/477)",
       "problemLabel": "477",
       "problemIds": [
@@ -1700,13 +1661,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-018",
+      "id": "sect-1a-017",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 18,
+      "rowOrder": 17,
       "problemRaw": "[[486]](https://www.erdosproblems.com/486)",
       "problemLabel": "486",
       "problemIds": [
@@ -1739,52 +1700,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-019",
+      "id": "sect-1a-018",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 19,
-      "problemRaw": "[[493]](https://www.erdosproblems.com/493)",
-      "problemLabel": "493",
-      "problemIds": [
-        493
-      ],
-      "problemLinks": [
-        {
-          "label": "493",
-          "url": "https://www.erdosproblems.com/493"
-        }
-      ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-      "aiSystemsLabel": "AlphaEvolve",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "No counterexample found",
-      "descriptionLabel": "No counterexample found",
-      "fieldsRaw": {
-        "Problem": "[[493]](https://www.erdosproblems.com/493)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-        "Date": "3 Nov, 2025",
-        "Outcome": "No counterexample found"
-      },
-      "fieldsPlain": {
-        "Problem": "493",
-        "AI systems": "AlphaEvolve",
-        "Date": "3 Nov, 2025",
-        "Outcome": "No counterexample found"
-      }
-    },
-    {
-      "id": "sect-1a-020",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(a). AI standalone",
-      "subsectionAnchor": "sect-1a",
-      "subsectionOrder": 1,
-      "rowOrder": 20,
+      "rowOrder": 18,
       "problemRaw": "[[514]](https://www.erdosproblems.com/514)",
       "problemLabel": "514",
       "problemIds": [
@@ -1817,13 +1739,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-021",
+      "id": "sect-1a-019",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 21,
+      "rowOrder": 19,
       "problemRaw": "[[563]](https://www.erdosproblems.com/563)",
       "problemLabel": "563",
       "problemIds": [
@@ -1856,13 +1778,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-022",
+      "id": "sect-1a-020",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 22,
+      "rowOrder": 20,
       "problemRaw": "[[616]](https://www.erdosproblems.com/616)",
       "problemLabel": "616",
       "problemIds": [
@@ -1895,13 +1817,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-023",
+      "id": "sect-1a-021",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 23,
+      "rowOrder": 21,
       "problemRaw": "[[647]](https://www.erdosproblems.com/647)",
       "problemLabel": "647",
       "problemIds": [
@@ -1934,13 +1856,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-024",
+      "id": "sect-1a-022",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 24,
+      "rowOrder": 22,
       "problemRaw": "[[654]](https://www.erdosproblems.com/654)",
       "problemLabel": "654",
       "problemIds": [
@@ -1973,13 +1895,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-025",
+      "id": "sect-1a-023",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 25,
+      "rowOrder": 23,
       "problemRaw": "[[665]](https://www.erdosproblems.com/665)",
       "problemLabel": "665",
       "problemIds": [
@@ -2012,13 +1934,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-026",
+      "id": "sect-1a-024",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 26,
+      "rowOrder": 24,
       "problemRaw": "[[684]](https://www.erdosproblems.com/684)",
       "problemLabel": "684",
       "problemIds": [
@@ -2051,13 +1973,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-027",
+      "id": "sect-1a-025",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 27,
+      "rowOrder": 25,
       "problemRaw": "[[694]](https://www.erdosproblems.com/694)",
       "problemLabel": "694",
       "problemIds": [
@@ -2090,13 +2012,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-028",
+      "id": "sect-1a-026",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 28,
+      "rowOrder": 26,
       "problemRaw": "[[741]](https://www.erdosproblems.com/741)",
       "problemLabel": "741",
       "problemIds": [
@@ -2129,13 +2051,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-029",
+      "id": "sect-1a-027",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 29,
+      "rowOrder": 27,
       "problemRaw": "[[741]](https://www.erdosproblems.com/741)",
       "problemLabel": "741",
       "problemIds": [
@@ -2168,13 +2090,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-030",
+      "id": "sect-1a-028",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 30,
+      "rowOrder": 28,
       "problemRaw": "[[741]](https://www.erdosproblems.com/741)",
       "problemLabel": "741",
       "problemIds": [
@@ -2207,13 +2129,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-031",
+      "id": "sect-1a-029",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 31,
+      "rowOrder": 29,
       "problemRaw": "[[783]](https://www.erdosproblems.com/783)",
       "problemLabel": "783",
       "problemIds": [
@@ -2246,13 +2168,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-032",
+      "id": "sect-1a-030",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 32,
+      "rowOrder": 30,
       "problemRaw": "[[850]](https://www.erdosproblems.com/850)",
       "problemLabel": "850",
       "problemIds": [
@@ -2285,52 +2207,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-033",
+      "id": "sect-1a-031",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 33,
-      "problemRaw": "[[868]](https://www.erdosproblems.com/868)",
-      "problemLabel": "868",
-      "problemIds": [
-        868
-      ],
-      "problemLinks": [
-        {
-          "label": "868",
-          "url": "https://www.erdosproblems.com/868"
-        }
-      ],
-      "aiSystemsRaw": "GPT-5.2 multi-agent system",
-      "aiSystemsLabel": "GPT-5.2 multi-agent system",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "13 Jan, 2026",
-      "descriptionRaw": "Did not find viable approach",
-      "descriptionLabel": "Did not find viable approach",
-      "fieldsRaw": {
-        "Problem": "[[868]](https://www.erdosproblems.com/868)",
-        "AI systems": "GPT-5.2 multi-agent system",
-        "Date": "13 Jan, 2026",
-        "Outcome": "Did not find viable approach"
-      },
-      "fieldsPlain": {
-        "Problem": "868",
-        "AI systems": "GPT-5.2 multi-agent system",
-        "Date": "13 Jan, 2026",
-        "Outcome": "Did not find viable approach"
-      }
-    },
-    {
-      "id": "sect-1a-034",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(a). AI standalone",
-      "subsectionAnchor": "sect-1a",
-      "subsectionOrder": 1,
-      "rowOrder": 34,
+      "rowOrder": 31,
       "problemRaw": "[[872]](https://www.erdosproblems.com/872)",
       "problemLabel": "872",
       "problemIds": [
@@ -2363,13 +2246,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-035",
+      "id": "sect-1a-032",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 35,
+      "rowOrder": 32,
       "problemRaw": "[[888]](https://www.erdosproblems.com/888)",
       "problemLabel": "888",
       "problemIds": [
@@ -2402,13 +2285,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-036",
+      "id": "sect-1a-033",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 36,
+      "rowOrder": 33,
       "problemRaw": "[[949]](https://www.erdosproblems.com/949)",
       "problemLabel": "949",
       "problemIds": [
@@ -2441,13 +2324,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-037",
+      "id": "sect-1a-034",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 37,
+      "rowOrder": 34,
       "problemRaw": "[[951]](https://www.erdosproblems.com/951)",
       "problemLabel": "951",
       "problemIds": [
@@ -2480,13 +2363,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-038",
+      "id": "sect-1a-035",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 38,
+      "rowOrder": 35,
       "problemRaw": "[[960]](https://www.erdosproblems.com/960)",
       "problemLabel": "960",
       "problemIds": [
@@ -2519,13 +2402,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-039",
+      "id": "sect-1a-036",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 39,
+      "rowOrder": 36,
       "problemRaw": "[[963]](https://www.erdosproblems.com/963)",
       "problemLabel": "963",
       "problemIds": [
@@ -2558,13 +2441,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-040",
+      "id": "sect-1a-037",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 40,
+      "rowOrder": 37,
       "problemRaw": "[[987]](https://www.erdosproblems.com/987)",
       "problemLabel": "987",
       "problemIds": [
@@ -2597,13 +2480,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-041",
+      "id": "sect-1a-038",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 41,
+      "rowOrder": 38,
       "problemRaw": "[[990]](https://www.erdosproblems.com/990)",
       "problemLabel": "990",
       "problemIds": [
@@ -2636,13 +2519,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-042",
+      "id": "sect-1a-039",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 42,
+      "rowOrder": 39,
       "problemRaw": "[[1014]](https://www.erdosproblems.com/1014)",
       "problemLabel": "1014",
       "problemIds": [
@@ -2675,13 +2558,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-043",
+      "id": "sect-1a-040",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 43,
+      "rowOrder": 40,
       "problemRaw": "[[1040]](https://www.erdosproblems.com/1040)",
       "problemLabel": "1040",
       "problemIds": [
@@ -2714,13 +2597,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-044",
+      "id": "sect-1a-041",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 44,
+      "rowOrder": 41,
       "problemRaw": "[[1041]](https://www.erdosproblems.com/1041)",
       "problemLabel": "1041",
       "problemIds": [
@@ -2753,13 +2636,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-045",
+      "id": "sect-1a-042",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 45,
+      "rowOrder": 42,
       "problemRaw": "[[1044]](https://www.erdosproblems.com/1044)",
       "problemLabel": "1044",
       "problemIds": [
@@ -2792,13 +2675,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-046",
+      "id": "sect-1a-043",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 46,
+      "rowOrder": 43,
       "problemRaw": "[[1051]](https://www.erdosproblems.com/1051)",
       "problemLabel": "1051",
       "problemIds": [
@@ -2831,13 +2714,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-047",
+      "id": "sect-1a-044",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 47,
+      "rowOrder": 44,
       "problemRaw": "[[1091]](https://www.erdosproblems.com/1091)",
       "problemLabel": "1091",
       "problemIds": [
@@ -2870,13 +2753,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-048",
+      "id": "sect-1a-045",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 48,
+      "rowOrder": 45,
       "problemRaw": "[[1141]](https://www.erdosproblems.com/1141)",
       "problemLabel": "1141",
       "problemIds": [
@@ -2909,13 +2792,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-049",
+      "id": "sect-1a-046",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 49,
+      "rowOrder": 46,
       "problemRaw": "[[1194]](https://www.erdosproblems.com/1194)",
       "problemLabel": "1194",
       "problemIds": [
@@ -2948,13 +2831,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-050",
+      "id": "sect-1a-047",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 50,
+      "rowOrder": 47,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -2987,13 +2870,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-051",
+      "id": "sect-1a-048",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 51,
+      "rowOrder": 48,
       "problemRaw": "[[1202]](https://www.erdosproblems.com/1202)",
       "problemLabel": "1202",
       "problemIds": [
@@ -3026,13 +2909,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1a-052",
+      "id": "sect-1a-049",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(a). AI standalone",
       "subsectionAnchor": "sect-1a",
       "subsectionOrder": 1,
-      "rowOrder": 52,
+      "rowOrder": 49,
       "problemRaw": "[[1217]](https://www.erdosproblems.com/1217)",
       "problemLabel": "1217",
       "problemIds": [
@@ -3365,18 +3248,18 @@ window.ERDOS_AI_DATA = {
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "10 Jan, 2026",
         "Outcome": "🟢 Full solution (Lean)",
-        "Literature": "🟡 Elkies (2013); 🟢 China TST competition (2012)",
-        "Literature found on": "10 Jan, 2026; 14 Jan, 2026",
-        "Similar?": "No (Elkies); Yes (TST)"
+        "Literature": "🟢 China TST competition (2012)",
+        "Literature found on": "14 Jan, 2026",
+        "Similar?": "Yes"
       },
       "fieldsPlain": {
         "Problem": "397",
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "10 Jan, 2026",
         "Outcome": "🟢 Full solution (Lean)",
-        "Literature": "🟡 Elkies (2013); 🟢 China TST competition (2012)",
-        "Literature found on": "10 Jan, 2026; 14 Jan, 2026",
-        "Similar?": "No (Elkies); Yes (TST)"
+        "Literature": "🟢 China TST competition (2012)",
+        "Literature found on": "14 Jan, 2026",
+        "Similar?": "Yes"
       }
     },
     {
@@ -3403,25 +3286,25 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "2 Feb, 2026",
-      "descriptionRaw": "🟢 Full solution (Lean)",
-      "descriptionLabel": "🟢 Full solution (Lean)",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
       "fieldsRaw": {
         "Problem": "[[397]](https://www.erdosproblems.com/397)",
         "AI systems": "Aletheia",
         "Date": "2 Feb, 2026",
-        "Outcome": "🟢 Full solution (Lean)",
-        "Literature": "🟡 Elkies (2013); 🟢 China TST competition (2012)",
-        "Literature found on": "10 Jan, 2026; 14 Jan, 2026",
-        "Similar?": "No (Elkies); Yes (TST)"
+        "Outcome": "🟢 Full solution",
+        "Literature": "🟢 China TST competition (2012)",
+        "Literature found on": "2 Feb, 2026",
+        "Similar?": "Yes"
       },
       "fieldsPlain": {
         "Problem": "397",
         "AI systems": "Aletheia",
         "Date": "2 Feb, 2026",
-        "Outcome": "🟢 Full solution (Lean)",
-        "Literature": "🟡 Elkies (2013); 🟢 China TST competition (2012)",
-        "Literature found on": "10 Jan, 2026; 14 Jan, 2026",
-        "Similar?": "No (Elkies); Yes (TST)"
+        "Outcome": "🟢 Full solution",
+        "Literature": "🟢 China TST competition (2012)",
+        "Literature found on": "2 Feb, 2026",
+        "Similar?": "Yes"
       }
     },
     {
@@ -4271,88 +4154,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
       "rowOrder": 5,
-      "problemRaw": "[[52]](https://www.erdosproblems.com/52)",
-      "problemLabel": "52",
-      "problemIds": [
-        52
-      ],
-      "problemLinks": [
-        {
-          "label": "52",
-          "url": "https://www.erdosproblems.com/52"
-        }
-      ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-      "aiSystemsLabel": "AlphaEvolve",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "Did not match past constructions",
-      "descriptionLabel": "Did not match past constructions",
-      "fieldsRaw": {
-        "Problem": "[[52]](https://www.erdosproblems.com/52)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟡 Bloom (2025)",
-        "Outcome": "Did not match past constructions"
-      },
-      "fieldsPlain": {
-        "Problem": "52",
-        "AI systems": "AlphaEvolve",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟡 Bloom (2025)",
-        "Outcome": "Did not match past constructions"
-      }
-    },
-    {
-      "id": "sect-1c-006",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(c). AI building on literature",
-      "subsectionAnchor": "sect-1c",
-      "subsectionOrder": 3,
-      "rowOrder": 6,
-      "problemRaw": "[[67]](https://www.erdosproblems.com/67)",
-      "problemLabel": "67",
-      "problemIds": [
-        67
-      ],
-      "problemLinks": [
-        {
-          "label": "67",
-          "url": "https://www.erdosproblems.com/67"
-        }
-      ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-      "aiSystemsLabel": "AlphaEvolve",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "Did not match past constructions",
-      "descriptionLabel": "Did not match past constructions",
-      "fieldsRaw": {
-        "Problem": "[[67]](https://www.erdosproblems.com/67)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟡 Konev and Lisitsa (2015)",
-        "Outcome": "Did not match past constructions"
-      },
-      "fieldsPlain": {
-        "Problem": "67",
-        "AI systems": "AlphaEvolve",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟡 Konev and Lisitsa (2015)",
-        "Outcome": "Did not match past constructions"
-      }
-    },
-    {
-      "id": "sect-1c-007",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(c). AI building on literature",
-      "subsectionAnchor": "sect-1c",
-      "subsectionOrder": 3,
-      "rowOrder": 7,
       "problemRaw": "[[75]](https://www.erdosproblems.com/75)",
       "problemLabel": "75",
       "problemIds": [
@@ -4387,95 +4188,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-008",
+      "id": "sect-1c-006",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 8,
-      "problemRaw": "[[106]](https://www.erdosproblems.com/106)",
-      "problemLabel": "106",
-      "problemIds": [
-        106
-      ],
-      "problemLinks": [
-        {
-          "label": "106",
-          "url": "https://www.erdosproblems.com/106"
-        }
-      ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-      "aiSystemsLabel": "AlphaEvolve",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "Matched past construction",
-      "descriptionLabel": "Matched past construction",
-      "fieldsRaw": {
-        "Problem": "[[106]](https://www.erdosproblems.com/106)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟡 Halász (1984)",
-        "Outcome": "Matched past construction"
-      },
-      "fieldsPlain": {
-        "Problem": "106",
-        "AI systems": "AlphaEvolve",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟡 Halász (1984)",
-        "Outcome": "Matched past construction"
-      }
-    },
-    {
-      "id": "sect-1c-009",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(c). AI building on literature",
-      "subsectionAnchor": "sect-1c",
-      "subsectionOrder": 3,
-      "rowOrder": 9,
-      "problemRaw": "[[124]](https://www.erdosproblems.com/124)",
-      "problemLabel": "124",
-      "problemIds": [
-        124
-      ],
-      "problemLinks": [
-        {
-          "label": "124",
-          "url": "https://www.erdosproblems.com/124"
-        }
-      ],
-      "aiSystemsRaw": "Gemini Deep Think",
-      "aiSystemsLabel": "Gemini Deep Think",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "30 Nov, 2025",
-      "descriptionRaw": "Did not reproduce a known partial result despite hints",
-      "descriptionLabel": "Did not reproduce a known partial result despite hints",
-      "fieldsRaw": {
-        "Problem": "[[124]](https://www.erdosproblems.com/124)",
-        "AI systems": "Gemini Deep Think",
-        "Date": "30 Nov, 2025",
-        "Literature": "🟡 Aristotle (2025)",
-        "Outcome": "Did not reproduce a known partial result despite hints"
-      },
-      "fieldsPlain": {
-        "Problem": "124",
-        "AI systems": "Gemini Deep Think",
-        "Date": "30 Nov, 2025",
-        "Literature": "🟡 Aristotle (2025)",
-        "Outcome": "Did not reproduce a known partial result despite hints"
-      }
-    },
-    {
-      "id": "sect-1c-010",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(c). AI building on literature",
-      "subsectionAnchor": "sect-1c",
-      "subsectionOrder": 3,
-      "rowOrder": 10,
+      "rowOrder": 6,
       "problemRaw": "[[198]](https://www.erdosproblems.com/198)",
       "problemLabel": "198",
       "problemIds": [
@@ -4510,13 +4229,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-011",
+      "id": "sect-1c-007",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 11,
+      "rowOrder": 7,
       "problemRaw": "[[224]](https://www.erdosproblems.com/224)",
       "problemLabel": "224",
       "problemIds": [
@@ -4551,13 +4270,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-012",
+      "id": "sect-1c-008",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 12,
+      "rowOrder": 8,
       "problemRaw": "[[258]](https://www.erdosproblems.com/258)",
       "problemLabel": "258",
       "problemIds": [
@@ -4592,13 +4311,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-013",
+      "id": "sect-1c-009",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 13,
+      "rowOrder": 9,
       "problemRaw": "[[264]](https://www.erdosproblems.com/264)",
       "problemLabel": "264",
       "problemIds": [
@@ -4633,13 +4352,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-014",
+      "id": "sect-1c-010",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 14,
+      "rowOrder": 10,
       "problemRaw": "[[349]](https://www.erdosproblems.com/349)",
       "problemLabel": "349",
       "problemIds": [
@@ -4674,13 +4393,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-015",
+      "id": "sect-1c-011",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 15,
+      "rowOrder": 11,
       "problemRaw": "[[379]](https://www.erdosproblems.com/379)",
       "problemLabel": "379",
       "problemIds": [
@@ -4715,95 +4434,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-016",
+      "id": "sect-1c-012",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 16,
-      "problemRaw": "[[391]](https://www.erdosproblems.com/391)",
-      "problemLabel": "391",
-      "problemIds": [
-        391
-      ],
-      "problemLinks": [
-        {
-          "label": "391",
-          "url": "https://www.erdosproblems.com/391"
-        }
-      ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-      "aiSystemsLabel": "AlphaEvolve",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "Did not match past constructions",
-      "descriptionLabel": "Did not match past constructions",
-      "fieldsRaw": {
-        "Problem": "[[391]](https://www.erdosproblems.com/391)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟢 Alexeev, Conway, Rosenfeld, Sutherland, Tao, Uhr, and Ventello (2025)",
-        "Outcome": "Did not match past constructions"
-      },
-      "fieldsPlain": {
-        "Problem": "391",
-        "AI systems": "AlphaEvolve",
-        "Date": "3 Nov, 2025",
-        "Literature": "🟢 Alexeev, Conway, Rosenfeld, Sutherland, Tao, Uhr, and Ventello (2025)",
-        "Outcome": "Did not match past constructions"
-      }
-    },
-    {
-      "id": "sect-1c-017",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(c). AI building on literature",
-      "subsectionAnchor": "sect-1c",
-      "subsectionOrder": 3,
-      "rowOrder": 17,
-      "problemRaw": "[[392]](https://www.erdosproblems.com/392)",
-      "problemLabel": "392",
-      "problemIds": [
-        392
-      ],
-      "problemLinks": [
-        {
-          "label": "392",
-          "url": "https://www.erdosproblems.com/392"
-        }
-      ],
-      "aiSystemsRaw": "Aristotle, GPT-5.2 Pro",
-      "aiSystemsLabel": "Aristotle, GPT-5.2 Pro",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "31 Dec, 2025",
-      "descriptionRaw": "Unable to reconstruct unpublished proof (which is now believed to be incomplete)",
-      "descriptionLabel": "Unable to reconstruct unpublished proof (which is now believed to be incomplete)",
-      "fieldsRaw": {
-        "Problem": "[[392]](https://www.erdosproblems.com/392)",
-        "AI systems": "Aristotle, GPT-5.2 Pro",
-        "Date": "31 Dec, 2025",
-        "Literature": "🟡 Erdős and Graham (unpublished, 1980) + Cambie (2025)",
-        "Outcome": "Unable to reconstruct unpublished proof (which is now believed to be incomplete)"
-      },
-      "fieldsPlain": {
-        "Problem": "392",
-        "AI systems": "Aristotle, GPT-5.2 Pro",
-        "Date": "31 Dec, 2025",
-        "Literature": "🟡 Erdős and Graham (unpublished, 1980) + Cambie (2025)",
-        "Outcome": "Unable to reconstruct unpublished proof (which is now believed to be incomplete)"
-      }
-    },
-    {
-      "id": "sect-1c-018",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(c). AI building on literature",
-      "subsectionAnchor": "sect-1c",
-      "subsectionOrder": 3,
-      "rowOrder": 18,
+      "rowOrder": 12,
       "problemRaw": "[[488]](https://www.erdosproblems.com/488)",
       "problemLabel": "488",
       "problemIds": [
@@ -4838,13 +4475,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-019",
+      "id": "sect-1c-013",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 19,
+      "rowOrder": 13,
       "problemRaw": "[[493]](https://www.erdosproblems.com/493)",
       "problemLabel": "493",
       "problemIds": [
@@ -4879,13 +4516,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-020",
+      "id": "sect-1c-014",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 20,
+      "rowOrder": 14,
       "problemRaw": "[[507]](https://www.erdosproblems.com/507)",
       "problemLabel": "507",
       "problemIds": [
@@ -4920,13 +4557,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-021",
+      "id": "sect-1c-015",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 21,
+      "rowOrder": 15,
       "problemRaw": "[[513]](https://www.erdosproblems.com/513)",
       "problemLabel": "513",
       "problemIds": [
@@ -4961,13 +4598,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-022",
+      "id": "sect-1c-016",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 22,
+      "rowOrder": 16,
       "problemRaw": "[[524]](https://www.erdosproblems.com/524)",
       "problemLabel": "524",
       "problemIds": [
@@ -5002,13 +4639,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-023",
+      "id": "sect-1c-017",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 23,
+      "rowOrder": 17,
       "problemRaw": "[[679]](https://www.erdosproblems.com/679)",
       "problemLabel": "679",
       "problemIds": [
@@ -5043,13 +4680,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-024",
+      "id": "sect-1c-018",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 24,
+      "rowOrder": 18,
       "problemRaw": "[[729]](https://www.erdosproblems.com/729)",
       "problemLabel": "729",
       "problemIds": [
@@ -5084,13 +4721,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-025",
+      "id": "sect-1c-019",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 25,
+      "rowOrder": 19,
       "problemRaw": "[[788]](https://www.erdosproblems.com/788)",
       "problemLabel": "788",
       "problemIds": [
@@ -5125,13 +4762,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-026",
+      "id": "sect-1c-020",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 26,
+      "rowOrder": 20,
       "problemRaw": "[[848]](https://www.erdosproblems.com/848)",
       "problemLabel": "848",
       "problemIds": [
@@ -5166,13 +4803,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-027",
+      "id": "sect-1c-021",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 27,
+      "rowOrder": 21,
       "problemRaw": "[[868]](https://www.erdosproblems.com/868)",
       "problemLabel": "868",
       "problemIds": [
@@ -5207,13 +4844,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-028",
+      "id": "sect-1c-022",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 28,
+      "rowOrder": 22,
       "problemRaw": "[[871]](https://www.erdosproblems.com/871)",
       "problemLabel": "871",
       "problemIds": [
@@ -5248,13 +4885,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-029",
+      "id": "sect-1c-023",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 29,
+      "rowOrder": 23,
       "problemRaw": "[[942]](https://www.erdosproblems.com/942)",
       "problemLabel": "942",
       "problemIds": [
@@ -5289,13 +4926,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-030",
+      "id": "sect-1c-024",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 30,
+      "rowOrder": 24,
       "problemRaw": "[[951]](https://www.erdosproblems.com/951)",
       "problemLabel": "951",
       "problemIds": [
@@ -5330,13 +4967,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-031",
+      "id": "sect-1c-025",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 31,
+      "rowOrder": 25,
       "problemRaw": "[[958]](https://www.erdosproblems.com/958)",
       "problemLabel": "958",
       "problemIds": [
@@ -5371,13 +5008,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-032",
+      "id": "sect-1c-026",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 32,
+      "rowOrder": 26,
       "problemRaw": "[[966]](https://www.erdosproblems.com/966)",
       "problemLabel": "966",
       "problemIds": [
@@ -5412,13 +5049,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-033",
+      "id": "sect-1c-027",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 33,
+      "rowOrder": 27,
       "problemRaw": "[[1004]](https://www.erdosproblems.com/1004)",
       "problemLabel": "1004",
       "problemIds": [
@@ -5453,13 +5090,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-034",
+      "id": "sect-1c-028",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 34,
+      "rowOrder": 28,
       "problemRaw": "[[1007]](https://www.erdosproblems.com/1007)",
       "problemLabel": "1007",
       "problemIds": [
@@ -5494,13 +5131,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-035",
+      "id": "sect-1c-029",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 35,
+      "rowOrder": 29,
       "problemRaw": "[[1043]](https://www.erdosproblems.com/1043)",
       "problemLabel": "1043",
       "problemIds": [
@@ -5535,13 +5172,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-036",
+      "id": "sect-1c-030",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 36,
+      "rowOrder": 30,
       "problemRaw": "[[1043]](https://www.erdosproblems.com/1043)",
       "problemLabel": "1043",
       "problemIds": [
@@ -5576,13 +5213,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-037",
+      "id": "sect-1c-031",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 37,
+      "rowOrder": 31,
       "problemRaw": "[[1047]](https://www.erdosproblems.com/1047)",
       "problemLabel": "1047",
       "problemIds": [
@@ -5617,13 +5254,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-038",
+      "id": "sect-1c-032",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 38,
+      "rowOrder": 32,
       "problemRaw": "[[1048]](https://www.erdosproblems.com/1048)",
       "problemLabel": "1048",
       "problemIds": [
@@ -5658,13 +5295,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-039",
+      "id": "sect-1c-033",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 39,
+      "rowOrder": 33,
       "problemRaw": "[[1090]](https://www.erdosproblems.com/1090)",
       "problemLabel": "1090",
       "problemIds": [
@@ -5699,13 +5336,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-040",
+      "id": "sect-1c-034",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 40,
+      "rowOrder": 34,
       "problemRaw": "[[1095]](https://www.erdosproblems.com/1095)",
       "problemLabel": "1095",
       "problemIds": [
@@ -5722,31 +5359,31 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "30 Dec, 2025",
-      "descriptionRaw": "🟡 New proof of (slightly weaker) partial result (Lean); no progress on remaining open problems",
-      "descriptionLabel": "🟡 New proof of (slightly weaker) partial result (Lean); no progress on remaining open problems",
+      "descriptionRaw": "🟡 New proof of (slightly weaker) partial result (Lean)",
+      "descriptionLabel": "🟡 New proof of (slightly weaker) partial result (Lean)",
       "fieldsRaw": {
         "Problem": "[[1095]](https://www.erdosproblems.com/1095)",
         "AI systems": "Aristotle",
         "Date": "30 Dec, 2025",
         "Literature": "🟡 Ecklund, Erdős, and Selfridge (1975)",
-        "Outcome": "🟡 New proof of (slightly weaker) partial result (Lean); no progress on remaining open problems"
+        "Outcome": "🟡 New proof of (slightly weaker) partial result (Lean)"
       },
       "fieldsPlain": {
         "Problem": "1095",
         "AI systems": "Aristotle",
         "Date": "30 Dec, 2025",
         "Literature": "🟡 Ecklund, Erdős, and Selfridge (1975)",
-        "Outcome": "🟡 New proof of (slightly weaker) partial result (Lean); no progress on remaining open problems"
+        "Outcome": "🟡 New proof of (slightly weaker) partial result (Lean)"
       }
     },
     {
-      "id": "sect-1c-041",
+      "id": "sect-1c-035",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 41,
+      "rowOrder": 35,
       "problemRaw": "[[1097]](https://www.erdosproblems.com/1097)",
       "problemLabel": "1097",
       "problemIds": [
@@ -5781,13 +5418,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1c-042",
+      "id": "sect-1c-036",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(c). AI building on literature",
       "subsectionAnchor": "sect-1c",
       "subsectionOrder": 3,
-      "rowOrder": 42,
+      "rowOrder": 36,
       "problemRaw": "[[1197]](https://www.erdosproblems.com/1197)",
       "problemLabel": "1197",
       "problemIds": [
@@ -6173,21 +5810,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Sky Yang",
       "humansLabel": "Sky Yang",
       "dateRaw": "26 Mar, 2026",
-      "descriptionRaw": "🟢 Full solution (Lean)",
-      "descriptionLabel": "🟢 Full solution (Lean)",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
       "fieldsRaw": {
         "Problem": "[[369]](https://www.erdosproblems.com/369)",
         "Humans": "Sky Yang",
         "AI systems": "GPT",
         "Date": "26 Mar, 2026",
-        "Outcome": "🟢 Full solution (Lean)"
+        "Outcome": "🟢 Full solution"
       },
       "fieldsPlain": {
         "Problem": "369",
         "Humans": "Sky Yang",
         "AI systems": "GPT",
         "Date": "26 Mar, 2026",
-        "Outcome": "🟢 Full solution (Lean)"
+        "Outcome": "🟢 Full solution"
       }
     },
     {
@@ -6911,21 +6548,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Benjamin Grayzel",
       "humansLabel": "Benjamin Grayzel",
       "dateRaw": "13 Jan, 2026",
-      "descriptionRaw": "🟢 Full solution (Lean)",
-      "descriptionLabel": "🟢 Full solution (Lean)",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
       "fieldsRaw": {
         "Problem": "[[659]](https://www.erdosproblems.com/659)",
         "Humans": "Benjamin Grayzel",
         "AI systems": "Gemini 3",
         "Date": "13 Jan, 2026",
-        "Outcome": "🟢 Full solution (Lean)"
+        "Outcome": "🟢 Full solution"
       },
       "fieldsPlain": {
         "Problem": "659",
         "Humans": "Benjamin Grayzel",
         "AI systems": "Gemini 3",
         "Date": "13 Jan, 2026",
-        "Outcome": "🟢 Full solution (Lean)"
+        "Outcome": "🟢 Full solution"
       }
     },
     {
@@ -8529,45 +8166,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
       "rowOrder": 4,
-      "problemRaw": "[[96]](https://www.erdosproblems.com/96)",
-      "problemLabel": "96",
-      "problemIds": [
-        96
-      ],
-      "problemLinks": [
-        {
-          "label": "96",
-          "url": "https://www.erdosproblems.com/96"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "12 Jan, 2026",
-      "descriptionRaw": "No new results found",
-      "descriptionLabel": "No new results found",
-      "fieldsRaw": {
-        "Problem": "[[96]](https://www.erdosproblems.com/96)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "12 Jan, 2026",
-        "Outcome": "No new results found"
-      },
-      "fieldsPlain": {
-        "Problem": "96",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "12 Jan, 2026",
-        "Outcome": "No new results found"
-      }
-    },
-    {
-      "id": "sect-2a-005",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 5,
       "problemRaw": "[[120]](https://www.erdosproblems.com/120)",
       "problemLabel": "120",
       "problemIds": [
@@ -8600,52 +8198,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-006",
+      "id": "sect-2a-005",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 6,
-      "problemRaw": "[[124]](https://www.erdosproblems.com/124)",
-      "problemLabel": "124",
-      "problemIds": [
-        124
-      ],
-      "problemLinks": [
-        {
-          "label": "124",
-          "url": "https://www.erdosproblems.com/124"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "30 Nov, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[124]](https://www.erdosproblems.com/124)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "30 Nov, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "124",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "30 Nov, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-007",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 7,
+      "rowOrder": 5,
       "problemRaw": "[[167]](https://www.erdosproblems.com/167)",
       "problemLabel": "167",
       "problemIds": [
@@ -8678,13 +8237,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-008",
+      "id": "sect-2a-006",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 8,
+      "rowOrder": 6,
       "problemRaw": "[[188]](https://www.erdosproblems.com/188)",
       "problemLabel": "188",
       "problemIds": [
@@ -8717,91 +8276,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-009",
+      "id": "sect-2a-007",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 9,
-      "problemRaw": "[[203]](https://www.erdosproblems.com/203)",
-      "problemLabel": "203",
-      "problemIds": [
-        203
-      ],
-      "problemLinks": [
-        {
-          "label": "203",
-          "url": "https://www.erdosproblems.com/203"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "19 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[203]](https://www.erdosproblems.com/203)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "19 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "203",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "19 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-010",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 10,
-      "problemRaw": "[[205]](https://www.erdosproblems.com/205)",
-      "problemLabel": "205",
-      "problemIds": [
-        205
-      ],
-      "problemLinks": [
-        {
-          "label": "205",
-          "url": "https://www.erdosproblems.com/205"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "10 Jan, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[205]](https://www.erdosproblems.com/205)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "10 Jan, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "205",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "10 Jan, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-011",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 11,
+      "rowOrder": 7,
       "problemRaw": "[[214]](https://www.erdosproblems.com/214)",
       "problemLabel": "214",
       "problemIds": [
@@ -8834,13 +8315,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-012",
+      "id": "sect-2a-008",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 12,
+      "rowOrder": 8,
       "problemRaw": "[[223]](https://www.erdosproblems.com/223)",
       "problemLabel": "223",
       "problemIds": [
@@ -8873,130 +8354,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-013",
+      "id": "sect-2a-009",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 13,
-      "problemRaw": "[[248]](https://www.erdosproblems.com/248)",
-      "problemLabel": "248",
-      "problemIds": [
-        248
-      ],
-      "problemLinks": [
-        {
-          "label": "248",
-          "url": "https://www.erdosproblems.com/248"
-        }
-      ],
-      "aiSystemsRaw": "Gemini Deep Research",
-      "aiSystemsLabel": "Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "19 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[248]](https://www.erdosproblems.com/248)",
-        "AI systems": "Gemini Deep Research",
-        "Date": "19 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "248",
-        "AI systems": "Gemini Deep Research",
-        "Date": "19 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-014",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 14,
-      "problemRaw": "[[281]](https://www.erdosproblems.com/281)",
-      "problemLabel": "281",
-      "problemIds": [
-        281
-      ],
-      "problemLinks": [
-        {
-          "label": "281",
-          "url": "https://www.erdosproblems.com/281"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Claude, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Claude, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "17 Jan, 2026",
-      "descriptionRaw": "Failed to find the two literature results which, when combined, solve the problem",
-      "descriptionLabel": "Failed to find the two literature results which, when combined, solve the problem",
-      "fieldsRaw": {
-        "Problem": "[[281]](https://www.erdosproblems.com/281)",
-        "AI systems": "ChatGPT Deep research, Claude, Gemini Deep Research",
-        "Date": "17 Jan, 2026",
-        "Outcome": "Failed to find the two literature results which, when combined, solve the problem"
-      },
-      "fieldsPlain": {
-        "Problem": "281",
-        "AI systems": "ChatGPT Deep research, Claude, Gemini Deep Research",
-        "Date": "17 Jan, 2026",
-        "Outcome": "Failed to find the two literature results which, when combined, solve the problem"
-      }
-    },
-    {
-      "id": "sect-2a-015",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 15,
-      "problemRaw": "[[288]](https://www.erdosproblems.com/288)",
-      "problemLabel": "288",
-      "problemIds": [
-        288
-      ],
-      "problemLinks": [
-        {
-          "label": "288",
-          "url": "https://www.erdosproblems.com/288"
-        }
-      ],
-      "aiSystemsRaw": "Claude",
-      "aiSystemsLabel": "Claude",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "2 Feb, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[288]](https://www.erdosproblems.com/288)",
-        "AI systems": "Claude",
-        "Date": "2 Feb, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "288",
-        "AI systems": "Claude",
-        "Date": "2 Feb, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-016",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 16,
+      "rowOrder": 9,
       "problemRaw": "[[306]](https://www.erdosproblems.com/306)",
       "problemLabel": "306",
       "problemIds": [
@@ -9029,13 +8393,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-017",
+      "id": "sect-2a-010",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 17,
+      "rowOrder": 10,
       "problemRaw": "[[325]](https://www.erdosproblems.com/325)",
       "problemLabel": "325",
       "problemIds": [
@@ -9068,13 +8432,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-018",
+      "id": "sect-2a-011",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 18,
+      "rowOrder": 11,
       "problemRaw": "[[330]](https://www.erdosproblems.com/330)",
       "problemLabel": "330",
       "problemIds": [
@@ -9107,13 +8471,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-019",
+      "id": "sect-2a-012",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 19,
+      "rowOrder": 12,
       "problemRaw": "[[333]](https://www.erdosproblems.com/333)",
       "problemLabel": "333",
       "problemIds": [
@@ -9146,13 +8510,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-020",
+      "id": "sect-2a-013",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 20,
+      "rowOrder": 13,
       "problemRaw": "[[333]](https://www.erdosproblems.com/333)",
       "problemLabel": "333",
       "problemIds": [
@@ -9185,52 +8549,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-021",
+      "id": "sect-2a-014",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 21,
-      "problemRaw": "[[334]](https://www.erdosproblems.com/334)",
-      "problemLabel": "334",
-      "problemIds": [
-        334
-      ],
-      "problemLinks": [
-        {
-          "label": "334",
-          "url": "https://www.erdosproblems.com/334"
-        }
-      ],
-      "aiSystemsRaw": "Gemini Deep Research",
-      "aiSystemsLabel": "Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "19 Nov, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[334]](https://www.erdosproblems.com/334)",
-        "AI systems": "Gemini Deep Research",
-        "Date": "19 Nov, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "334",
-        "AI systems": "Gemini Deep Research",
-        "Date": "19 Nov, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-022",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 22,
+      "rowOrder": 14,
       "problemRaw": "[[339]](https://www.erdosproblems.com/339)",
       "problemLabel": "339",
       "problemIds": [
@@ -9263,13 +8588,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-023",
+      "id": "sect-2a-015",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 23,
+      "rowOrder": 15,
       "problemRaw": "[[347]](https://www.erdosproblems.com/347)",
       "problemLabel": "347",
       "problemIds": [
@@ -9302,13 +8627,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-024",
+      "id": "sect-2a-016",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 24,
+      "rowOrder": 16,
       "problemRaw": "[[354]](https://www.erdosproblems.com/354)",
       "problemLabel": "354",
       "problemIds": [
@@ -9341,52 +8666,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-025",
+      "id": "sect-2a-017",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 25,
-      "problemRaw": "[[367]](https://www.erdosproblems.com/367)",
-      "problemLabel": "367",
-      "problemIds": [
-        367
-      ],
-      "problemLinks": [
-        {
-          "label": "367",
-          "url": "https://www.erdosproblems.com/367"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "22 Nov, 2025",
-      "descriptionRaw": "No significant results found; did not find Erdős problems community proof",
-      "descriptionLabel": "No significant results found; did not find Erdős problems community proof",
-      "fieldsRaw": {
-        "Problem": "[[367]](https://www.erdosproblems.com/367)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "22 Nov, 2025",
-        "Outcome": "No significant results found; did not find Erdős problems community proof"
-      },
-      "fieldsPlain": {
-        "Problem": "367",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "22 Nov, 2025",
-        "Outcome": "No significant results found; did not find Erdős problems community proof"
-      }
-    },
-    {
-      "id": "sect-2a-026",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 26,
+      "rowOrder": 17,
       "problemRaw": "[[370]](https://www.erdosproblems.com/370)",
       "problemLabel": "370",
       "problemIds": [
@@ -9419,13 +8705,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-027",
+      "id": "sect-2a-018",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 27,
+      "rowOrder": 18,
       "problemRaw": "[[387]](https://www.erdosproblems.com/387)",
       "problemLabel": "387",
       "problemIds": [
@@ -9458,13 +8744,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-028",
+      "id": "sect-2a-019",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 28,
+      "rowOrder": 19,
       "problemRaw": "[[397]](https://www.erdosproblems.com/397)",
       "problemLabel": "397",
       "problemIds": [
@@ -9497,130 +8783,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-029",
+      "id": "sect-2a-020",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 29,
-      "problemRaw": "[[401]](https://www.erdosproblems.com/401)",
-      "problemLabel": "401",
-      "problemIds": [
-        401
-      ],
-      "problemLinks": [
-        {
-          "label": "401",
-          "url": "https://www.erdosproblems.com/401"
-        }
-      ],
-      "aiSystemsRaw": "Claude",
-      "aiSystemsLabel": "Claude",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "Jan 10, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[401]](https://www.erdosproblems.com/401)",
-        "AI systems": "Claude",
-        "Date": "Jan 10, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "401",
-        "AI systems": "Claude",
-        "Date": "Jan 10, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-030",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 30,
-      "problemRaw": "[[421]](https://www.erdosproblems.com/421)",
-      "problemLabel": "421",
-      "problemIds": [
-        421
-      ],
-      "problemLinks": [
-        {
-          "label": "421",
-          "url": "https://www.erdosproblems.com/421"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "18 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[421]](https://www.erdosproblems.com/421)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "18 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "421",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "18 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-031",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 31,
-      "problemRaw": "[[434]](https://www.erdosproblems.com/434)",
-      "problemLabel": "434",
-      "problemIds": [
-        434
-      ],
-      "problemLinks": [
-        {
-          "label": "434",
-          "url": "https://www.erdosproblems.com/434"
-        }
-      ],
-      "aiSystemsRaw": "GPT-5",
-      "aiSystemsLabel": "GPT-5",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "29 Oct, 2025",
-      "descriptionRaw": "Literature proof not found",
-      "descriptionLabel": "Literature proof not found",
-      "fieldsRaw": {
-        "Problem": "[[434]](https://www.erdosproblems.com/434)",
-        "AI systems": "GPT-5",
-        "Date": "29 Oct, 2025",
-        "Outcome": "Literature proof not found"
-      },
-      "fieldsPlain": {
-        "Problem": "434",
-        "AI systems": "GPT-5",
-        "Date": "29 Oct, 2025",
-        "Outcome": "Literature proof not found"
-      }
-    },
-    {
-      "id": "sect-2a-032",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 32,
+      "rowOrder": 20,
       "problemRaw": "[[481]](https://www.erdosproblems.com/481)",
       "problemLabel": "481",
       "problemIds": [
@@ -9653,13 +8822,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-033",
+      "id": "sect-2a-021",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 33,
+      "rowOrder": 21,
       "problemRaw": "[[481]](https://www.erdosproblems.com/481)",
       "problemLabel": "481",
       "problemIds": [
@@ -9692,13 +8861,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-034",
+      "id": "sect-2a-022",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 34,
+      "rowOrder": 22,
       "problemRaw": "[[494]](https://www.erdosproblems.com/494)",
       "problemLabel": "494",
       "problemIds": [
@@ -9731,13 +8900,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-035",
+      "id": "sect-2a-023",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 35,
+      "rowOrder": 23,
       "problemRaw": "[[515]](https://www.erdosproblems.com/515)",
       "problemLabel": "515",
       "problemIds": [
@@ -9770,13 +8939,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-036",
+      "id": "sect-2a-024",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 36,
+      "rowOrder": 24,
       "problemRaw": "[[516]](https://www.erdosproblems.com/516)",
       "problemLabel": "516",
       "problemIds": [
@@ -9809,52 +8978,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-037",
+      "id": "sect-2a-025",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 37,
-      "problemRaw": "[[519]](https://www.erdosproblems.com/519)",
-      "problemLabel": "519",
-      "problemIds": [
-        519
-      ],
-      "problemLinks": [
-        {
-          "label": "519",
-          "url": "https://www.erdosproblems.com/519"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "31 Jan, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[519]](https://www.erdosproblems.com/519)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "31 Jan, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "519",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "31 Jan, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-038",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 38,
+      "rowOrder": 25,
       "problemRaw": "[[524]](https://www.erdosproblems.com/524)",
       "problemLabel": "524",
       "problemIds": [
@@ -9887,13 +9017,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-039",
+      "id": "sect-2a-026",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 39,
+      "rowOrder": 26,
       "problemRaw": "[[533]](https://www.erdosproblems.com/533)",
       "problemLabel": "533",
       "problemIds": [
@@ -9926,52 +9056,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-040",
+      "id": "sect-2a-027",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 40,
-      "problemRaw": "[[543]](https://www.erdosproblems.com/543)",
-      "problemLabel": "543",
-      "problemIds": [
-        543
-      ],
-      "problemLinks": [
-        {
-          "label": "543",
-          "url": "https://www.erdosproblems.com/543"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Claude, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Claude, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "21 Jan, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[543]](https://www.erdosproblems.com/543)",
-        "AI systems": "ChatGPT Deep research, Claude, Gemini Deep Research",
-        "Date": "21 Jan, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "543",
-        "AI systems": "ChatGPT Deep research, Claude, Gemini Deep Research",
-        "Date": "21 Jan, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-041",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 41,
+      "rowOrder": 27,
       "problemRaw": "[[559]](https://www.erdosproblems.com/559)",
       "problemLabel": "559",
       "problemIds": [
@@ -10004,13 +9095,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-042",
+      "id": "sect-2a-028",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 42,
+      "rowOrder": 28,
       "problemRaw": "[[574]](https://www.erdosproblems.com/574)",
       "problemLabel": "574",
       "problemIds": [
@@ -10043,13 +9134,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-043",
+      "id": "sect-2a-029",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 43,
+      "rowOrder": 29,
       "problemRaw": "[[575]](https://www.erdosproblems.com/575)",
       "problemLabel": "575",
       "problemIds": [
@@ -10082,13 +9173,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-044",
+      "id": "sect-2a-030",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 44,
+      "rowOrder": 30,
       "problemRaw": "[[591]](https://www.erdosproblems.com/591)",
       "problemLabel": "591",
       "problemIds": [
@@ -10121,13 +9212,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-045",
+      "id": "sect-2a-031",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 45,
+      "rowOrder": 31,
       "problemRaw": "[[591]](https://www.erdosproblems.com/591)",
       "problemLabel": "591",
       "problemIds": [
@@ -10160,13 +9251,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-046",
+      "id": "sect-2a-032",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 46,
+      "rowOrder": 32,
       "problemRaw": "[[602]](https://www.erdosproblems.com/602)",
       "problemLabel": "602",
       "problemIds": [
@@ -10199,13 +9290,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-047",
+      "id": "sect-2a-033",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 47,
+      "rowOrder": 33,
       "problemRaw": "[[621]](https://www.erdosproblems.com/621)",
       "problemLabel": "621",
       "problemIds": [
@@ -10238,13 +9329,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-048",
+      "id": "sect-2a-034",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 48,
+      "rowOrder": 34,
       "problemRaw": "[[645]](https://www.erdosproblems.com/645)",
       "problemLabel": "645",
       "problemIds": [
@@ -10277,13 +9368,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-049",
+      "id": "sect-2a-035",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 49,
+      "rowOrder": 35,
       "problemRaw": "[[650]](https://www.erdosproblems.com/650)",
       "problemLabel": "650",
       "problemIds": [
@@ -10316,13 +9407,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-050",
+      "id": "sect-2a-036",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 50,
+      "rowOrder": 36,
       "problemRaw": "[[652]](https://www.erdosproblems.com/652)",
       "problemLabel": "652",
       "problemIds": [
@@ -10355,52 +9446,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-051",
+      "id": "sect-2a-037",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 51,
-      "problemRaw": "[[652]](https://www.erdosproblems.com/652)",
-      "problemLabel": "652",
-      "problemIds": [
-        652
-      ],
-      "problemLinks": [
-        {
-          "label": "652",
-          "url": "https://www.erdosproblems.com/652"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "17 Jan, 2026",
-      "descriptionRaw": "Failed to find the literature result that essentially solves the problem",
-      "descriptionLabel": "Failed to find the literature result that essentially solves the problem",
-      "fieldsRaw": {
-        "Problem": "[[652]](https://www.erdosproblems.com/652)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "17 Jan, 2026",
-        "Outcome": "Failed to find the literature result that essentially solves the problem"
-      },
-      "fieldsPlain": {
-        "Problem": "652",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "17 Jan, 2026",
-        "Outcome": "Failed to find the literature result that essentially solves the problem"
-      }
-    },
-    {
-      "id": "sect-2a-052",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 52,
+      "rowOrder": 37,
       "problemRaw": "[[652]](https://www.erdosproblems.com/652)",
       "problemLabel": "652",
       "problemIds": [
@@ -10433,13 +9485,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-053",
+      "id": "sect-2a-038",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 53,
+      "rowOrder": 38,
       "problemRaw": "[[659]](https://www.erdosproblems.com/659)",
       "problemLabel": "659",
       "problemIds": [
@@ -10472,91 +9524,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-054",
+      "id": "sect-2a-039",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 54,
-      "problemRaw": "[[686]](https://www.erdosproblems.com/686)",
-      "problemLabel": "686",
-      "problemIds": [
-        686
-      ],
-      "problemLinks": [
-        {
-          "label": "686",
-          "url": "https://www.erdosproblems.com/686"
-        }
-      ],
-      "aiSystemsRaw": "Gemini Deep Research, Gemini Deep Think, GPT",
-      "aiSystemsLabel": "Gemini Deep Research, Gemini Deep Think, GPT",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "18 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[686]](https://www.erdosproblems.com/686)",
-        "AI systems": "Gemini Deep Research, Gemini Deep Think, GPT",
-        "Date": "18 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "686",
-        "AI systems": "Gemini Deep Research, Gemini Deep Think, GPT",
-        "Date": "18 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-055",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 55,
-      "problemRaw": "[[689]](https://www.erdosproblems.com/689)",
-      "problemLabel": "689",
-      "problemIds": [
-        689
-      ],
-      "problemLinks": [
-        {
-          "label": "689",
-          "url": "https://www.erdosproblems.com/689"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "29 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[689]](https://www.erdosproblems.com/689)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "29 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "689",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "29 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-056",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 56,
+      "rowOrder": 39,
       "problemRaw": "[[672]](https://www.erdosproblems.com/672)",
       "problemLabel": "672",
       "problemIds": [
@@ -10589,52 +9563,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-057",
+      "id": "sect-2a-040",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 57,
-      "problemRaw": "[[700]](https://www.erdosproblems.com/700)",
-      "problemLabel": "700",
-      "problemIds": [
-        700
-      ],
-      "problemLinks": [
-        {
-          "label": "700",
-          "url": "https://www.erdosproblems.com/700"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "17 Dec, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[700]](https://www.erdosproblems.com/700)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "17 Dec, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "700",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "17 Dec, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-058",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 58,
+      "rowOrder": 40,
       "problemRaw": "[[705]](https://www.erdosproblems.com/705)",
       "problemLabel": "705",
       "problemIds": [
@@ -10667,13 +9602,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-059",
+      "id": "sect-2a-041",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 59,
+      "rowOrder": 41,
       "problemRaw": "[[705]](https://www.erdosproblems.com/705)",
       "problemLabel": "705",
       "problemIds": [
@@ -10706,91 +9641,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-060",
+      "id": "sect-2a-042",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 60,
-      "problemRaw": "[[707]](https://www.erdosproblems.com/707)",
-      "problemLabel": "707",
-      "problemIds": [
-        707
-      ],
-      "problemLinks": [
-        {
-          "label": "707",
-          "url": "https://www.erdosproblems.com/707"
-        }
-      ],
-      "aiSystemsRaw": "GPT",
-      "aiSystemsLabel": "GPT",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "22 Oct, 2025",
-      "descriptionRaw": "Literature proof not found",
-      "descriptionLabel": "Literature proof not found",
-      "fieldsRaw": {
-        "Problem": "[[707]](https://www.erdosproblems.com/707)",
-        "AI systems": "GPT",
-        "Date": "22 Oct, 2025",
-        "Outcome": "Literature proof not found"
-      },
-      "fieldsPlain": {
-        "Problem": "707",
-        "AI systems": "GPT",
-        "Date": "22 Oct, 2025",
-        "Outcome": "Literature proof not found"
-      }
-    },
-    {
-      "id": "sect-2a-061",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 61,
-      "problemRaw": "[[728]](https://www.erdosproblems.com/728)",
-      "problemLabel": "728",
-      "problemIds": [
-        728
-      ],
-      "problemLinks": [
-        {
-          "label": "728",
-          "url": "https://www.erdosproblems.com/728"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "15 Dec, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[728]](https://www.erdosproblems.com/728)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "15 Dec, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "728",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "15 Dec, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-062",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 62,
+      "rowOrder": 42,
       "problemRaw": "[[729]](https://www.erdosproblems.com/729)",
       "problemLabel": "729",
       "problemIds": [
@@ -10823,13 +9680,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-063",
+      "id": "sect-2a-043",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 63,
+      "rowOrder": 43,
       "problemRaw": "[[737]](https://www.erdosproblems.com/737)",
       "problemLabel": "737",
       "problemIds": [
@@ -10862,13 +9719,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-064",
+      "id": "sect-2a-044",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 64,
+      "rowOrder": 44,
       "problemRaw": "[[749]](https://www.erdosproblems.com/749)",
       "problemLabel": "749",
       "problemIds": [
@@ -10901,13 +9758,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-065",
+      "id": "sect-2a-045",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 65,
+      "rowOrder": 45,
       "problemRaw": "[[750]](https://www.erdosproblems.com/750)",
       "problemLabel": "750",
       "problemIds": [
@@ -10940,52 +9797,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-066",
+      "id": "sect-2a-046",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 66,
-      "problemRaw": "[[786]](https://www.erdosproblems.com/786)",
-      "problemLabel": "786",
-      "problemIds": [
-        786
-      ],
-      "problemLinks": [
-        {
-          "label": "786",
-          "url": "https://www.erdosproblems.com/786"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "18 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[786]](https://www.erdosproblems.com/786)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "18 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "786",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "18 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-067",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 67,
+      "rowOrder": 46,
       "problemRaw": "[[788]](https://www.erdosproblems.com/788)",
       "problemLabel": "788",
       "problemIds": [
@@ -11018,13 +9836,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-068",
+      "id": "sect-2a-047",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 68,
+      "rowOrder": 47,
       "problemRaw": "[[793]](https://www.erdosproblems.com/793)",
       "problemLabel": "793",
       "problemIds": [
@@ -11057,13 +9875,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-069",
+      "id": "sect-2a-048",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 69,
+      "rowOrder": 48,
       "problemRaw": "[[811]](https://www.erdosproblems.com/811)",
       "problemLabel": "811",
       "problemIds": [
@@ -11096,13 +9914,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-070",
+      "id": "sect-2a-049",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 70,
+      "rowOrder": 49,
       "problemRaw": "[[822]](https://www.erdosproblems.com/822)",
       "problemLabel": "822",
       "problemIds": [
@@ -11135,13 +9953,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-071",
+      "id": "sect-2a-050",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 71,
+      "rowOrder": 50,
       "problemRaw": "[[827]](https://www.erdosproblems.com/827)",
       "problemLabel": "827",
       "problemIds": [
@@ -11174,13 +9992,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-072",
+      "id": "sect-2a-051",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 72,
+      "rowOrder": 51,
       "problemRaw": "[[829]](https://www.erdosproblems.com/829)",
       "problemLabel": "829",
       "problemIds": [
@@ -11213,13 +10031,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-073",
+      "id": "sect-2a-052",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 73,
+      "rowOrder": 52,
       "problemRaw": "[[847]](https://www.erdosproblems.com/847)",
       "problemLabel": "847",
       "problemIds": [
@@ -11252,13 +10070,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-074",
+      "id": "sect-2a-053",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 74,
+      "rowOrder": 53,
       "problemRaw": "[[851]](https://www.erdosproblems.com/851)",
       "problemLabel": "851",
       "problemIds": [
@@ -11291,13 +10109,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-075",
+      "id": "sect-2a-054",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 75,
+      "rowOrder": 54,
       "problemRaw": "[[871]](https://www.erdosproblems.com/871)",
       "problemLabel": "871",
       "problemIds": [
@@ -11330,13 +10148,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-076",
+      "id": "sect-2a-055",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 76,
+      "rowOrder": 55,
       "problemRaw": "[[903]](https://www.erdosproblems.com/903)",
       "problemLabel": "903",
       "problemIds": [
@@ -11369,52 +10187,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-077",
+      "id": "sect-2a-056",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 77,
-      "problemRaw": "[[906]](https://www.erdosproblems.com/906)",
-      "problemLabel": "906",
-      "problemIds": [
-        906
-      ],
-      "problemLinks": [
-        {
-          "label": "906",
-          "url": "https://www.erdosproblems.com/906"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "17 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[906]](https://www.erdosproblems.com/906)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "17 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "906",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "17 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-078",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 78,
+      "rowOrder": 56,
       "problemRaw": "[[915]](https://www.erdosproblems.com/915)",
       "problemLabel": "915",
       "problemIds": [
@@ -11447,52 +10226,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-079",
+      "id": "sect-2a-057",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 79,
-      "problemRaw": "[[940]](https://www.erdosproblems.com/940)",
-      "problemLabel": "940",
-      "problemIds": [
-        940
-      ],
-      "problemLinks": [
-        {
-          "label": "940",
-          "url": "https://www.erdosproblems.com/940"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "24 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[940]](https://www.erdosproblems.com/940)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "24 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "940",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "24 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-080",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 80,
+      "rowOrder": 57,
       "problemRaw": "[[942]](https://www.erdosproblems.com/942)",
       "problemLabel": "942",
       "problemIds": [
@@ -11525,13 +10265,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-081",
+      "id": "sect-2a-058",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 81,
+      "rowOrder": 58,
       "problemRaw": "[[965]](https://www.erdosproblems.com/965)",
       "problemLabel": "965",
       "problemIds": [
@@ -11564,52 +10304,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-082",
+      "id": "sect-2a-059",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 82,
-      "problemRaw": "[[967]](https://www.erdosproblems.com/967)",
-      "problemLabel": "967",
-      "problemIds": [
-        967
-      ],
-      "problemLinks": [
-        {
-          "label": "967",
-          "url": "https://www.erdosproblems.com/967"
-        }
-      ],
-      "aiSystemsRaw": "GPT-5",
-      "aiSystemsLabel": "GPT-5",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "29 Oct, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[967]](https://www.erdosproblems.com/967)",
-        "AI systems": "GPT-5",
-        "Date": "29 Oct, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "967",
-        "AI systems": "GPT-5",
-        "Date": "29 Oct, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-083",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 83,
+      "rowOrder": 59,
       "problemRaw": "[[971]](https://www.erdosproblems.com/971)",
       "problemLabel": "971",
       "problemIds": [
@@ -11642,13 +10343,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-084",
+      "id": "sect-2a-060",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 84,
+      "rowOrder": 60,
       "problemRaw": "[[985]](https://www.erdosproblems.com/985)",
       "problemLabel": "985",
       "problemIds": [
@@ -11681,13 +10382,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-085",
+      "id": "sect-2a-061",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 85,
+      "rowOrder": 61,
       "problemRaw": "[[990]](https://www.erdosproblems.com/990)",
       "problemLabel": "990",
       "problemIds": [
@@ -11720,13 +10421,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-086",
+      "id": "sect-2a-062",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 86,
+      "rowOrder": 62,
       "problemRaw": "[[992]](https://www.erdosproblems.com/992)",
       "problemLabel": "992",
       "problemIds": [
@@ -11759,52 +10460,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-087",
+      "id": "sect-2a-063",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 87,
-      "problemRaw": "[[1002]](https://www.erdosproblems.com/1002)",
-      "problemLabel": "1002",
-      "problemIds": [
-        1002
-      ],
-      "problemLinks": [
-        {
-          "label": "1002",
-          "url": "https://www.erdosproblems.com/1002"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Nov, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1002]](https://www.erdosproblems.com/1002)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "3 Nov, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1002",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "3 Nov, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-088",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 88,
+      "rowOrder": 63,
       "problemRaw": "[[1008]](https://www.erdosproblems.com/1008)",
       "problemLabel": "1008",
       "problemIds": [
@@ -11837,13 +10499,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-089",
+      "id": "sect-2a-064",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 89,
+      "rowOrder": 64,
       "problemRaw": "[[1011]](https://www.erdosproblems.com/1011)",
       "problemLabel": "1011",
       "problemIds": [
@@ -11876,13 +10538,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-090",
+      "id": "sect-2a-065",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 90,
+      "rowOrder": 65,
       "problemRaw": "[[1016]](https://www.erdosproblems.com/1016)",
       "problemLabel": "1016",
       "problemIds": [
@@ -11915,13 +10577,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-091",
+      "id": "sect-2a-066",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 91,
+      "rowOrder": 66,
       "problemRaw": "[[1019]](https://www.erdosproblems.com/1019)",
       "problemLabel": "1019",
       "problemIds": [
@@ -11954,13 +10616,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-092",
+      "id": "sect-2a-067",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 92,
+      "rowOrder": 67,
       "problemRaw": "[[1021]](https://www.erdosproblems.com/1021)",
       "problemLabel": "1021",
       "problemIds": [
@@ -11993,130 +10655,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-093",
+      "id": "sect-2a-068",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 93,
-      "problemRaw": "[[1022]](https://www.erdosproblems.com/1028)",
-      "problemLabel": "1022",
-      "problemIds": [
-        1022
-      ],
-      "problemLinks": [
-        {
-          "label": "1022",
-          "url": "https://www.erdosproblems.com/1028"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research, Gemini Deep Research",
-      "aiSystemsLabel": "ChatGPT Deep research, Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "4 Dec, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1022]](https://www.erdosproblems.com/1028)",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "4 Dec, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1022",
-        "AI systems": "ChatGPT Deep research, Gemini Deep Research",
-        "Date": "4 Dec, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-094",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 94,
-      "problemRaw": "[[1038]](https://www.erdosproblems.com/1038)",
-      "problemLabel": "1038",
-      "problemIds": [
-        1038
-      ],
-      "problemLinks": [
-        {
-          "label": "1038",
-          "url": "https://www.erdosproblems.com/1038"
-        }
-      ],
-      "aiSystemsRaw": "Gemini Deep Research",
-      "aiSystemsLabel": "Gemini Deep Research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "16 Nov, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1038]](https://www.erdosproblems.com/1038)",
-        "AI systems": "Gemini Deep Research",
-        "Date": "16 Nov, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1038",
-        "AI systems": "Gemini Deep Research",
-        "Date": "16 Nov, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-095",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 95,
-      "problemRaw": "[[1041]](https://www.erdosproblems.com/1041)",
-      "problemLabel": "1041",
-      "problemIds": [
-        1041
-      ],
-      "problemLinks": [
-        {
-          "label": "1041",
-          "url": "https://www.erdosproblems.com/1041"
-        }
-      ],
-      "aiSystemsRaw": "GPT-5",
-      "aiSystemsLabel": "GPT-5",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "16 Nov, 2025",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1041]](https://www.erdosproblems.com/1041)",
-        "AI systems": "GPT-5",
-        "Date": "16 Nov, 2025",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1041",
-        "AI systems": "GPT-5",
-        "Date": "16 Nov, 2025",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-096",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 96,
+      "rowOrder": 68,
       "problemRaw": "[[1043]](https://www.erdosproblems.com/1043)",
       "problemLabel": "1043",
       "problemIds": [
@@ -12149,52 +10694,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-097",
+      "id": "sect-2a-069",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 97,
-      "problemRaw": "[[1044]](https://www.erdosproblems.com/1044)",
-      "problemLabel": "1044",
-      "problemIds": [
-        1044
-      ],
-      "problemLinks": [
-        {
-          "label": "1044",
-          "url": "https://www.erdosproblems.com/1044"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "14 Jan, 2026",
-      "descriptionRaw": "No new significant results found",
-      "descriptionLabel": "No new significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1044]](https://www.erdosproblems.com/1044)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "14 Jan, 2026",
-        "Outcome": "No new significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1044",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "14 Jan, 2026",
-        "Outcome": "No new significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-098",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 98,
+      "rowOrder": 69,
       "problemRaw": "[[1079]](https://www.erdosproblems.com/1079)",
       "problemLabel": "1079",
       "problemIds": [
@@ -12227,13 +10733,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-099",
+      "id": "sect-2a-070",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 99,
+      "rowOrder": 70,
       "problemRaw": "[[1084]](https://www.erdosproblems.com/1084)",
       "problemLabel": "1084",
       "problemIds": [
@@ -12266,13 +10772,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-100",
+      "id": "sect-2a-071",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 100,
+      "rowOrder": 71,
       "problemRaw": "[[1099]](https://www.erdosproblems.com/1099)",
       "problemLabel": "1099",
       "problemIds": [
@@ -12305,13 +10811,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-101",
+      "id": "sect-2a-072",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 101,
+      "rowOrder": 72,
       "problemRaw": "[[1105]](https://www.erdosproblems.com/1105)",
       "problemLabel": "1105",
       "problemIds": [
@@ -12344,13 +10850,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-102",
+      "id": "sect-2a-073",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 102,
+      "rowOrder": 73,
       "problemRaw": "[[1105]](https://www.erdosproblems.com/1105)",
       "problemLabel": "1105",
       "problemIds": [
@@ -12383,13 +10889,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-103",
+      "id": "sect-2a-074",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 103,
+      "rowOrder": 74,
       "problemRaw": "[[1123]](https://www.erdosproblems.com/1123)",
       "problemLabel": "1123",
       "problemIds": [
@@ -12422,13 +10928,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-104",
+      "id": "sect-2a-075",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 104,
+      "rowOrder": 75,
       "problemRaw": "[[1124]](https://www.erdosproblems.com/1124)",
       "problemLabel": "1124",
       "problemIds": [
@@ -12461,13 +10967,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-105",
+      "id": "sect-2a-076",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 105,
+      "rowOrder": 76,
       "problemRaw": "[[1129]](https://www.erdosproblems.com/1129)",
       "problemLabel": "1129",
       "problemIds": [
@@ -12500,13 +11006,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-106",
+      "id": "sect-2a-077",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 106,
+      "rowOrder": 77,
       "problemRaw": "[[1130]](https://www.erdosproblems.com/1130)",
       "problemLabel": "1130",
       "problemIds": [
@@ -12539,52 +11045,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-107",
+      "id": "sect-2a-078",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 107,
-      "problemRaw": "[[1139]](https://www.erdosproblems.com/1139)",
-      "problemLabel": "1139",
-      "problemIds": [
-        1139
-      ],
-      "problemLinks": [
-        {
-          "label": "1139",
-          "url": "https://www.erdosproblems.com/1139"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "24 Jan, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1139]](https://www.erdosproblems.com/1139)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "24 Jan, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1139",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "24 Jan, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-108",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 108,
+      "rowOrder": 78,
       "problemRaw": "[[1147]](https://www.erdosproblems.com/1147)",
       "problemLabel": "1147",
       "problemIds": [
@@ -12617,52 +11084,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-109",
+      "id": "sect-2a-079",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 109,
-      "problemRaw": "[[1148]](https://www.erdosproblems.com/1148)",
-      "problemLabel": "1148",
-      "problemIds": [
-        1148
-      ],
-      "problemLinks": [
-        {
-          "label": "1148",
-          "url": "https://www.erdosproblems.com/1148"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "24 Jan, 2026",
-      "descriptionRaw": "No significant results found",
-      "descriptionLabel": "No significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1148]](https://www.erdosproblems.com/1148)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "24 Jan, 2026",
-        "Outcome": "No significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1148",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "24 Jan, 2026",
-        "Outcome": "No significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-110",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 110,
+      "rowOrder": 79,
       "problemRaw": "[[1150]](https://www.erdosproblems.com/1150)",
       "problemLabel": "1150",
       "problemIds": [
@@ -12695,52 +11123,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-111",
+      "id": "sect-2a-080",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 111,
-      "problemRaw": "[[1153]](https://www.erdosproblems.com/1153)",
-      "problemLabel": "1153",
-      "problemIds": [
-        1153
-      ],
-      "problemLinks": [
-        {
-          "label": "1153",
-          "url": "https://www.erdosproblems.com/1153"
-        }
-      ],
-      "aiSystemsRaw": "ChatGPT Deep research",
-      "aiSystemsLabel": "ChatGPT Deep research",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "1 Feb, 2026",
-      "descriptionRaw": "No new significant results found",
-      "descriptionLabel": "No new significant results found",
-      "fieldsRaw": {
-        "Problem": "[[1153]](https://www.erdosproblems.com/1153)",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "1 Feb, 2026",
-        "Outcome": "No new significant results found"
-      },
-      "fieldsPlain": {
-        "Problem": "1153",
-        "AI systems": "ChatGPT Deep research",
-        "Date": "1 Feb, 2026",
-        "Outcome": "No new significant results found"
-      }
-    },
-    {
-      "id": "sect-2a-112",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(a). Literature search",
-      "subsectionAnchor": "sect-2a",
-      "subsectionOrder": 6,
-      "rowOrder": 112,
+      "rowOrder": 80,
       "problemRaw": "[[1154]](https://www.erdosproblems.com/1154)",
       "problemLabel": "1154",
       "problemIds": [
@@ -12773,13 +11162,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-113",
+      "id": "sect-2a-081",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 113,
+      "rowOrder": 81,
       "problemRaw": "[[1161]](https://www.erdosproblems.com/1161)",
       "problemLabel": "1161",
       "problemIds": [
@@ -12812,13 +11201,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-114",
+      "id": "sect-2a-082",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 114,
+      "rowOrder": 82,
       "problemRaw": "[[1198]](https://www.erdosproblems.com/1198)",
       "problemLabel": "1198",
       "problemIds": [
@@ -12851,13 +11240,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-115",
+      "id": "sect-2a-083",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 115,
+      "rowOrder": 83,
       "problemRaw": "[[1216]](https://www.erdosproblems.com/1216)",
       "problemLabel": "1216",
       "problemIds": [
@@ -12890,13 +11279,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2a-116",
+      "id": "sect-2a-084",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(a). Literature search",
       "subsectionAnchor": "sect-2a",
       "subsectionOrder": 6,
-      "rowOrder": 116,
+      "rowOrder": 84,
       "problemRaw": "[[1216]](https://www.erdosproblems.com/1216)",
       "problemLabel": "1216",
       "problemIds": [

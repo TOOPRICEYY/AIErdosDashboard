@@ -90,7 +90,6 @@ Sorted by the author's last name alphabetically.
 | [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
 | [[42]](https://www.erdosproblems.com/42) | Codex, GPT-5.2, GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Partial result (Lean)
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
-| [[64]](https://www.erdosproblems.com/64) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | No counterexample found
 | [[75]](https://www.erdosproblems.com/75) | Aletheia | 1 Feb, 2026 | 🟡 Solution (using prior literature) to previous formulation of problem
 | [[124]](https://www.erdosproblems.com/124) | Aristotle | 29 Nov, 2025 | 🟡 Partial result (Lean)
 | [[125]](https://www.erdosproblems.com/125) | DeepMind prover agent | 21 Feb, 2026 | 🟡 Solution to variant problem (Lean)
@@ -104,7 +103,6 @@ Sorted by the author's last name alphabetically.
 | [[460]](https://www.erdosproblems.com/460) | GPT-5.2 Thinking | 14 Jan, 2026 | 🟡 Cheap solution to previous formulation of problem
 | [[477]](https://www.erdosproblems.com/477) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
 | [[486]](https://www.erdosproblems.com/486) | GPT-5.2 | 11 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
-| [[493]](https://www.erdosproblems.com/493) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | No counterexample found
 | [[514]](https://www.erdosproblems.com/514) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[563]](https://www.erdosproblems.com/563) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[616]](https://www.erdosproblems.com/616) | Claude Sonnet 4.5, Gemini 3 Pro, GPT-5.2 Pro | 18 Jan, 2026 | 🔴 Incorrect proof found
@@ -118,7 +116,6 @@ Sorted by the author's last name alphabetically.
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution (Lean)
 | [[783]](https://www.erdosproblems.com/783) | GPT-5.2 | 23 Jan, 2026 | 🟡 Partial result
 | [[850]](https://www.erdosproblems.com/850) | GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
-| [[868]](https://www.erdosproblems.com/868) | GPT-5.2 multi-agent system | 13 Jan, 2026 | Did not find viable approach
 | [[872]](https://www.erdosproblems.com/872) | GPT-5.2 Pro | 16 Feb, 2026 | 🟡 Partial result
 | [[888]](https://www.erdosproblems.com/888) | Claude Opus 4.5, Gemini 3 Pro, GPT-5.2 Thinking | 18 Jan, 2026 | 🔴 Incorrect proof found
 | [[949]](https://www.erdosproblems.com/949) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
@@ -153,8 +150,8 @@ Sorted by the author's last name alphabetically.
 | [[281]](https://www.erdosproblems.com/281) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution | 🟢 Davenport and Erdős (1936) + Rogers (in Halberstam-Roth (1966)) | 18 Jan, 2026 | No
 | [[333]](https://www.erdosproblems.com/333) | Claude Opus 4.5, GPT-5.2 Pro | 25 Dec, 2025 | 🟢 Full solution (Lean) | 🟢 Erdős and Newman (1977) | 25 Dec, 2025 | Yes
 | [[366]](https://www.erdosproblems.com/366) | Automated research pipeline | 14 Apr, 2026 | 🟡 Conditional partial result | 🟡 Aktaş and Murty (2017) | 15 Apr, 2026 | Yes
-| [[397]](https://www.erdosproblems.com/397) | Aristotle, GPT-5.2 Pro | 10 Jan, 2026 | 🟢 Full solution (Lean) | 🟡 Elkies (2013); 🟢 China TST competition (2012) | 10 Jan, 2026; 14 Jan, 2026 | No (Elkies); Yes (TST)
-| [[397]](https://www.erdosproblems.com/397) | Aletheia | 2 Feb, 2026 | 🟢 Full solution (Lean) | 🟡 Elkies (2013); 🟢 China TST competition (2012) | 10 Jan, 2026; 14 Jan, 2026 | No (Elkies); Yes (TST)
+| [[397]](https://www.erdosproblems.com/397) | Aristotle, GPT-5.2 Pro | 10 Jan, 2026 | 🟢 Full solution (Lean) | 🟢 China TST competition (2012) | 14 Jan, 2026 | Yes
+| [[397]](https://www.erdosproblems.com/397) | Aletheia | 2 Feb, 2026 | 🟢 Full solution | 🟢 China TST competition (2012) | 2 Feb, 2026 | Yes
 | [[543]](https://www.erdosproblems.com/543) | GPT-5.2 Pro | 21 Jan, 2026 | 🟢 Full solution | 🟡 Erdős and Hall (1977) | 26 Jan, 2026 | Yes
 | [[629]](https://www.erdosproblems.com/629) | Gemini 3.1 Pro, GPT-5.4 Thinking | 4 Apr, 2026 | 🟡 Partial result | 🟡 Erdős (1964) + Erdős, Rubin, and Taylor (1980) | 4 Apr, 2026 | Yes
 | [[635]](https://www.erdosproblems.com/635) | Aristotle, GPT-5.2 Pro | 30 Jan, 2026 | 🟡 Solution to one part of problem (Lean) | 🟡 Elliott (1979) (reduces one part of problem to a much simpler one) | 30 Jan, 2026 | Yes (for a large portion of the proof)
@@ -183,19 +180,13 @@ Sorted by the author's last name alphabetically.
 | [[26]](https://www.erdosproblems.com/26) | DeepMind prover agent | 6 Apr, 2026 | 🟢 Ruzsa | 🟢 Solution to stronger problem
 | [[36]](https://www.erdosproblems.com/36) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Haugland (2016) | 🟡 Slight improvement to past construction
 | [[43]](https://www.erdosproblems.com/43) | Aristotle | 4 Dec, 2025 | 🟡 Barreto (2025) | 🟡 New proof of partial result (Lean)
-| [[52]](https://www.erdosproblems.com/52) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Bloom (2025) | Did not match past constructions
-| [[67]](https://www.erdosproblems.com/67) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Konev and Lisitsa (2015) | Did not match past constructions
 | [[75]](https://www.erdosproblems.com/75) | GPT-5.4 Pro | 12 Apr, 2026 | 🟡 Erdős, Hajnal, and Szemerédi (1982) | 🟡 Partial result
-| [[106]](https://www.erdosproblems.com/106) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Halász (1984) | Matched past construction
-| [[124]](https://www.erdosproblems.com/124) | Gemini Deep Think | 30 Nov, 2025 | 🟡 Aristotle (2025) | Did not reproduce a known partial result despite hints
 | [[198]](https://www.erdosproblems.com/198) | AlphaProof | 2025 | 🟢 Baumgartner (1975) | 🟢 New proof found
 | [[224]](https://www.erdosproblems.com/224) | Codex, GPT-5.2 Thinking | 14 Jan, 2026 | 🟢 Danzer and Grünbaum (1962) | 🟢 New proof found (Lean)
 | [[258]](https://www.erdosproblems.com/258) | GPT-5.4 Pro | 14 Apr, 2026 | 🟡 Tao and Teräväinen (2025) | 🟢 Full solution
 | [[264]](https://www.erdosproblems.com/264) | Aristotle | 18 Dec, 2025 | 🟡 Kovač and Tao (2024) | 🟡 New proof of partial result (Lean); no progress on remaining open problems
 | [[349]](https://www.erdosproblems.com/349) | GPT-5.2 Thinking | 9 Mar, 2026 | 🟡 van Doorn (2026) | 🟡 Improved partial result
 | [[379]](https://www.erdosproblems.com/379) | Seed Prover 1.5 | 21 Dec, 2025 | 🟢 Cambie, Kovač, and Tao (2025) | 🟢 New proof found
-| [[391]](https://www.erdosproblems.com/391) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟢 Alexeev, Conway, Rosenfeld, Sutherland, Tao, Uhr, and Ventello (2025) | Did not match past constructions
-| [[392]](https://www.erdosproblems.com/392) | Aristotle, GPT-5.2 Pro | 31 Dec, 2025 | 🟡 Erdős and Graham (unpublished, 1980) + Cambie (2025) | Unable to reconstruct unpublished proof (which is now believed to be incomplete)
 | [[488]](https://www.erdosproblems.com/488) | Aristotle | 27 Nov, 2025 | 🟡 Cambie (2025) | 🟡 New solution to variant problem (Lean)
 | [[493]](https://www.erdosproblems.com/493) | Aristotle, GPT, Seed Prover | 2025 | 🟢 Seamans (2025) | 🟢 New or existing proof found (Lean)
 | [[507]](https://www.erdosproblems.com/507) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Friedman (2015) | 🟡 Surpassed some past constructions
@@ -218,7 +209,7 @@ Sorted by the author's last name alphabetically.
 | [[1047]](https://www.erdosproblems.com/1047) | Aristotle | 21 Jan, 2026 | 🟢 Goodman (1966) | 🟢 New proof found (Lean)
 | [[1048]](https://www.erdosproblems.com/1048) | Aristotle | 28 Jan, 2026 | 🟢 Pommerenke (1961) | 🟢 Proof found (Lean), which is a specific case of Pommerenke
 | [[1090]](https://www.erdosproblems.com/1090) | Aristotle, Gemini 3 Flash | 27 Feb, 2026 | 🟢 Graham and Selfridge (unpublished, ~1975) | 🟢 Proof found (Lean)
-| [[1095]](https://www.erdosproblems.com/1095) | Aristotle | 30 Dec, 2025 | 🟡 Ecklund, Erdős, and Selfridge (1975) | 🟡 New proof of (slightly weaker) partial result (Lean); no progress on remaining open problems
+| [[1095]](https://www.erdosproblems.com/1095) | Aristotle | 30 Dec, 2025 | 🟡 Ecklund, Erdős, and Selfridge (1975) | 🟡 New proof of (slightly weaker) partial result (Lean)
 | [[1097]](https://www.erdosproblems.com/1097) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Lemm (2015) | 🟡 Slight improvement to past construction
 | [[1197]](https://www.erdosproblems.com/1197) | Aristotle, GPT-5.4 Pro | 13 Apr, 2026 | 🟡 Buczolich and Mauldin (1999) | 🟢 Full solution (Lean)
 
@@ -238,7 +229,7 @@ Sorted by the author's last name alphabetically.
 | [[347]](https://www.erdosproblems.com/347) | Enrique Barschkis, Wouter van Doorn, jbbaehr22, Bartosz Naskrecki, Terence Tao | Aristotle, Claude Opus, Codex, GPT | 25 Oct, 2025-4 Feb, 2026 | 🟢 Full solution (Lean)
 | [[358]](https://www.erdosproblems.com/358) | Nat Sothanaphan | GPT-5.2 Thinking | 13-20 Feb, 2026 | 🔴 Argument with major gaps made
 | [[367]](https://www.erdosproblems.com/367) | Boris Alexeev, Wouter van Doorn, Terence Tao | Aristotle, Gemini Deep Think | 20-22 Nov, 2025 | 🟡 Partial result
-| [[369]](https://www.erdosproblems.com/369) | Sky Yang | GPT | 26 Mar, 2026 | 🟢 Full solution (Lean)
+| [[369]](https://www.erdosproblems.com/369) | Sky Yang | GPT | 26 Mar, 2026 | 🟢 Full solution
 | [[374]](https://www.erdosproblems.com/374) | Terence Tao | GPT-5.4 Pro | 31 Mar, 2026 | 🟡 Partial result
 | [[380]](https://www.erdosproblems.com/380) | Terence Tao | GPT-5.4 Pro | 31 Mar, 2026 | 🟢 Full solution
 | [[388]](https://www.erdosproblems.com/388) | MalekZ | Claude, Gemini, GPT-5.4 | 12-15 Mar, 2026 | 🔴 Incorrect proof found
@@ -256,7 +247,7 @@ Sorted by the author's last name alphabetically.
 | [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | 🟡 Partial result (implicit in literature)
 | [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
 | [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean)
-| [[659]](https://www.erdosproblems.com/659) | Benjamin Grayzel | Gemini 3 | 13 Jan, 2026 | 🟢 Full solution (Lean)
+| [[659]](https://www.erdosproblems.com/659) | Benjamin Grayzel | Gemini 3 | 13 Jan, 2026 | 🟢 Full solution
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result
 | [[684]](https://www.erdosproblems.com/684) | Quanyu Tang | GPT-5.2 Thinking | 19 Jan, 2026 | 🟡 Partial result
 | [[684]](https://www.erdosproblems.com/684) | Nat Sothanaphan | GPT-5.4 Thinking | 2 Apr, 2026 | 🟡 Partial result
@@ -305,43 +296,29 @@ Sorted by the author's last name alphabetically.
 | [[35]](https://www.erdosproblems.com/35) | GPT-5 | 13 Oct, 2025 | 🟡 Partial results found
 | [[66]](https://www.erdosproblems.com/66) | GPT-5 | 13 Oct, 2025 | 🟡 Partial results found
 | [[94]](https://www.erdosproblems.com/94) | GPT-5 | 2 Nov, 2025 | 🟢 Full solution found
-| [[96]](https://www.erdosproblems.com/96) | ChatGPT Deep research | 12 Jan, 2026 | No new results found
 | [[120]](https://www.erdosproblems.com/120) | GPT-5.4 Thinking | 14 Mar, 2026 | 🟢 Solution to variant problem found
-| [[124]](https://www.erdosproblems.com/124) | ChatGPT Deep research, Gemini Deep Research | 30 Nov, 2025 | No significant results found
 | [[167]](https://www.erdosproblems.com/167) | GPT-5 | 12 Oct, 2025 | 🟡 Partial results found
 | [[188]](https://www.erdosproblems.com/188) | GPT-5 | 13 Oct, 2025 | 🟡 Partial results found
-| [[203]](https://www.erdosproblems.com/203) | ChatGPT Deep research, Gemini Deep Research | 19 Oct, 2025 | No significant results found
-| [[205]](https://www.erdosproblems.com/205) | ChatGPT Deep research | 10 Jan, 2026 | No significant results found
 | [[214]](https://www.erdosproblems.com/214) | ChatGPT Deep research, Gemini Deep Research | 20 Feb, 2026 | 🟡 Partial results found
 | [[223]](https://www.erdosproblems.com/223) | GPT-5 | 13 Oct, 2025 | 🟢 Full solution found
-| [[248]](https://www.erdosproblems.com/248) | Gemini Deep Research | 19 Oct, 2025 | No significant results found
-| [[281]](https://www.erdosproblems.com/281) | ChatGPT Deep research, Claude, Gemini Deep Research | 17 Jan, 2026 | Failed to find the two literature results which, when combined, solve the problem
-| [[288]](https://www.erdosproblems.com/288) | Claude | 2 Feb, 2026 | No significant results found
 | [[306]](https://www.erdosproblems.com/306) | GPT-5.2 Thinking | 25 Feb, 2026 | 🟡 Partial results found
 | [[325]](https://www.erdosproblems.com/325) | ChatGPT Deep research | 9 Mar, 2026 | 🟡 Partial results found
 | [[330]](https://www.erdosproblems.com/330) | ChatGPT Deep research, Claude, Gemini Deep Research | 19 Dec, 2025 | 🔴 Partial results found with inaccuracies; literature proof not found
 | [[333]](https://www.erdosproblems.com/333) | GPT-5.2 Pro | 25 Dec, 2025 | 🔴 Incorrect proof claimed; literature proof not found
 | [[333]](https://www.erdosproblems.com/333) | Aletheia | 1 Feb, 2026 | 🟢 Full solution found
-| [[334]](https://www.erdosproblems.com/334) | Gemini Deep Research | 19 Nov, 2025 | No significant results found
 | [[339]](https://www.erdosproblems.com/339) | GPT-5 | 11 Oct, 2025 | 🟢 Full solution found
 | [[347]](https://www.erdosproblems.com/347) | ChatGPT Deep research | 25 Oct, 2025 | 🟡 Partial results found
 | [[354]](https://www.erdosproblems.com/354) | ChatGPT Deep research | 19 Oct, 2025 | 🟡 Partial results found |
-| [[367]](https://www.erdosproblems.com/367) | ChatGPT Deep research, Gemini Deep Research | 22 Nov, 2025 | No significant results found; did not find Erdős problems community proof |
 | [[370]](https://www.erdosproblems.com/370) | ChatGPT Deep research, Gemini, Gemini Deep Research | 17 Oct, 2025 | 🟡 Problem found to be misstated; solutions to variant problems found |
 | [[387]](https://www.erdosproblems.com/387) | ChatGPT Deep research | 1 Nov, 2025 | 🟡 Partial results found
 | [[397]](https://www.erdosproblems.com/397) | ChatGPT Deep research | 10 Jan, 2026 | 🟢 Full solution found
-| [[401]](https://www.erdosproblems.com/401) | Claude | Jan 10, 2026 | No significant results found
-| [[421]](https://www.erdosproblems.com/421) | ChatGPT Deep research, Gemini Deep Research | 18 Oct, 2025 | No significant results found
-| [[434]](https://www.erdosproblems.com/434) | GPT-5 | 29 Oct, 2025 | Literature proof not found
 | [[481]](https://www.erdosproblems.com/481) | ChatGPT Deep research, Gemini Deep Research | 1 Dec, 2025 | 🟡 Unwittingly reproduced existing proof
 | [[481]](https://www.erdosproblems.com/481) | GPT | 3 Dec, 2025 | 🟢 Full solution found
 | [[494]](https://www.erdosproblems.com/494) | GPT-5 | 13 Oct, 2025 | 🟢 Full solution found
 | [[515]](https://www.erdosproblems.com/515) | GPT-5 | 15 Oct, 2025 | 🟢 Full solution found
 | [[516]](https://www.erdosproblems.com/516) | ChatGPT Deep research, Claude, Gemini Deep Research | 28 Dec, 2025 | 🟢 Problem found to be misstated; full solution to actual problem found
-| [[519]](https://www.erdosproblems.com/519) | ChatGPT Deep research | 31 Jan, 2026 | No significant results found
 | [[524]](https://www.erdosproblems.com/524) | GPT-5.2 Pro | 27 Dec, 2025 | 🟡 Partial results found
 | [[533]](https://www.erdosproblems.com/533) | GPT | 26 Jan, 2026 | 🟢 Full solution found
-| [[543]](https://www.erdosproblems.com/543) | ChatGPT Deep research, Claude, Gemini Deep Research | 21 Jan, 2026 | No significant results found
 | [[559]](https://www.erdosproblems.com/559) | ChatGPT Deep research, Gemini Deep Research | 26 Oct, 2025 | 🟡 Partial results found
 | [[574]](https://www.erdosproblems.com/574) | GPT-5.4 Pro | 28 Mar, 2026 | 🟢 Full solution found
 | [[575]](https://www.erdosproblems.com/575) | GPT | 14 Jan, 2026 | 🟡 Paper identifying a misstatement to the problem found
@@ -352,22 +329,15 @@ Sorted by the author's last name alphabetically.
 | [[645]](https://www.erdosproblems.com/645) | GPT-5 | 20 Oct, 2025 | 🟢 Full solution found
 | [[650]](https://www.erdosproblems.com/650) | ChatGPT Deep research | 6 Mar, 2026 | 🟢 Full solution found
 | [[652]](https://www.erdosproblems.com/652) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution by applying literature results
-| [[652]](https://www.erdosproblems.com/652) | ChatGPT Deep research | 17 Jan, 2026 | Failed to find the literature result that essentially solves the problem
 | [[652]](https://www.erdosproblems.com/652) | Aletheia | 2 Feb, 2026 | 🟢 Full solution by applying literature results
 | [[659]](https://www.erdosproblems.com/659) | Gemini Deep Research | 13 Jan, 2026 | 🟡 Partial results, upgradeable to full solution, found
-| [[686]](https://www.erdosproblems.com/686) | Gemini Deep Research, Gemini Deep Think, GPT | 18 Oct, 2025 | No significant results found 
-| [[689]](https://www.erdosproblems.com/689) | ChatGPT Deep research, Gemini Deep Research | 29 Oct, 2025 | No significant results found
 | [[672]](https://www.erdosproblems.com/672) | GPT | 7 Jan, 2026 | 🟡 Partial results found
-| [[700]](https://www.erdosproblems.com/700) | ChatGPT Deep research | 17 Dec, 2025 | No significant results found
 | [[705]](https://www.erdosproblems.com/705) | GPT | 26 Jan, 2026 | 🟢 Full solution found
 | [[705]](https://www.erdosproblems.com/705) | Aletheia | 1 Feb, 2026 | 🟢 Full solution found
-| [[707]](https://www.erdosproblems.com/707) | GPT | 22 Oct, 2025 | Literature proof not found
-| [[728]](https://www.erdosproblems.com/728) | ChatGPT Deep research | 15 Dec, 2025 | No significant results found
 | [[729]](https://www.erdosproblems.com/729) | ChatGPT Deep research | Jan 10, 2026 | 🟡 Related results found
 | [[737]](https://www.erdosproblems.com/737) | GPT-5 | 30 Sep, 2025 | 🟢 Full solution found
 | [[749]](https://www.erdosproblems.com/749) | GPT-5.4 Thinking | 3 Apr, 2026 | 🟡 Partial results found
 | [[750]](https://www.erdosproblems.com/750) | GPT-5 | 13 Oct, 2025 | 🟡 Partial results found
-| [[786]](https://www.erdosproblems.com/786) | ChatGPT Deep research, Gemini Deep Research | 18 Oct, 2025 | No significant results found
 | [[788]](https://www.erdosproblems.com/788) | GPT-5 | 14 Oct, 2025 | 🟡 Partial results found
 | [[793]](https://www.erdosproblems.com/793) | ChatGPT Deep research | 30 Nov, 2025 | 🟡 Partial results found
 | [[811]](https://www.erdosproblems.com/811) | GPT-5 | 13 Oct, 2025 | 🟡 Partial results found
@@ -378,27 +348,19 @@ Sorted by the author's last name alphabetically.
 | [[851]](https://www.erdosproblems.com/851) | ChatGPT Deep research, Claude, Gemini Deep Research | 5 Feb, 2026 | 🔴🔴 Confused with another problem; 🟡 Partial results found
 | [[871]](https://www.erdosproblems.com/871) | ChatGPT Deep research | 6 Dec, 2025 | 🟡 Partial results found
 | [[903]](https://www.erdosproblems.com/903) | GPT-5 | 14 Oct, 2025 | 🟢 Full solution found
-| [[906]](https://www.erdosproblems.com/906) | ChatGPT Deep research, Gemini Deep Research | 17 Oct, 2025 | No significant results found
 | [[915]](https://www.erdosproblems.com/915) | ChatGPT Deep research | 26 Oct, 2025 | 🟡 Partial results found
-| [[940]](https://www.erdosproblems.com/940) | ChatGPT Deep research | 24 Oct, 2025 | No significant results found
 | [[942]](https://www.erdosproblems.com/942) | ChatGPT Deep research | 23 Nov, 2025 | 🟡 Partial results found
 | [[965]](https://www.erdosproblems.com/965) | GPT | 2 Jan, 2026 | 🟢 Full solution found
-| [[967]](https://www.erdosproblems.com/967) | GPT-5 | 29 Oct, 2025 | No significant results found
 | [[971]](https://www.erdosproblems.com/971) | Claude | 31 Jan, 2026 | 🟡 Partial results found
 | [[985]](https://www.erdosproblems.com/985) | GPT-5.4 Thinking | 6 Mar, 2026 | 🟡 Partial results found
 | [[990]](https://www.erdosproblems.com/990) | ChatGPT Deep research, Gemini Deep Research | 20 Oct, 2025 | 🟡 Partial results found
 | [[992]](https://www.erdosproblems.com/992) | Aletheia | 1 Feb, 2026 | 🟢 Full solution found
-| [[1002]](https://www.erdosproblems.com/1002) | ChatGPT Deep research, Gemini Deep Research | 3 Nov, 2025 | No significant results found
 | [[1008]](https://www.erdosproblems.com/1008) | GPT-5 | 29 Sep, 2025 | 🟢 Full solution found
 | [[1011]](https://www.erdosproblems.com/1011) | GPT-5 | 13 Oct, 2025 | 🟡 Partial results found
 | [[1016]](https://www.erdosproblems.com/1016) | ChatGPT Deep research, Gemini Deep Research | 18 Oct, 2025 | 🟡 Partial results found
 | [[1019]](https://www.erdosproblems.com/1019) | ChatGPT Deep research, Gemini Deep Research | 18 Oct, 2025 | 🟡 Solution claim found, but precise citation not found
 | [[1021]](https://www.erdosproblems.com/1021) | GPT | 21 Jan, 2026 | 🟢 Full solution (which was previously noted) found
-| [[1022]](https://www.erdosproblems.com/1028) | ChatGPT Deep research, Gemini Deep Research | 4 Dec, 2025 | No significant results found
-| [[1038]](https://www.erdosproblems.com/1038) | Gemini Deep Research | 16 Nov, 2025 | No significant results found
-| [[1041]](https://www.erdosproblems.com/1041) | GPT-5 | 16 Nov, 2025 | No significant results found
 | [[1043]](https://www.erdosproblems.com/1043) | GPT-5 | 12 Oct, 2025 | 🟢 Full solution found
-| [[1044]](https://www.erdosproblems.com/1044) | ChatGPT Deep research | 14 Jan, 2026 | No new significant results found
 | [[1079]](https://www.erdosproblems.com/1079) | GPT-5 | 13 Oct, 2025 | 🟢 Full solution found
 | [[1084]](https://www.erdosproblems.com/1084) | GPT | 21 Jan, 2026 | 🟡 Partial results found
 | [[1099]](https://www.erdosproblems.com/1099) | ChatGPT Deep research, Gemini, Gemini Deep Research | 19 Oct, 2025 | 🟢 Full solution found
@@ -408,11 +370,8 @@ Sorted by the author's last name alphabetically.
 | [[1124]](https://www.erdosproblems.com/1124) | GPT | 31 Dec, 2025 | 🟢 Solution to variant problem found
 | [[1129]](https://www.erdosproblems.com/1129) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution found
 | [[1130]](https://www.erdosproblems.com/1130) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution found
-| [[1139]](https://www.erdosproblems.com/1139) | ChatGPT Deep research | 24 Jan, 2026 | No significant results found
 | [[1147]](https://www.erdosproblems.com/1147) | GPT-5.2 Thinking | 26 Jan, 2026 | 🟢 Full solution found
-| [[1148]](https://www.erdosproblems.com/1148) | ChatGPT Deep research | 24 Jan, 2026 | No significant results found
 | [[1150]](https://www.erdosproblems.com/1150) | Gemini Deep Research | 4 Feb, 2026 | Claimed solution found
-| [[1153]](https://www.erdosproblems.com/1153) | ChatGPT Deep research | 1 Feb, 2026 | No new significant results found
 | [[1154]](https://www.erdosproblems.com/1154) | GPT-5.2 Thinking | 24 Jan, 2026 | 🟡 Partial results found
 | [[1161]](https://www.erdosproblems.com/1161) | GPT-5.2 Thinking | 24 Jan, 2026 | 🟢 Full solution found
 | [[1198]](https://www.erdosproblems.com/1198) | GPT-5.4 | 16 Apr, 2026 | 🟡 Partial results found
