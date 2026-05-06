@@ -34,11 +34,9 @@ Full details are [found here](https://github.com/teorth/erdosproblems/wiki/AI-co
 
   - [2(b). Formalization](#sect-2b)
 
-  - [2(c). Artifact generation](#sect-2c)
+  - [2(c). Rewriting](#sect-2c)
 
-  - [2(d). Rewriting](#sect-2d)
-
-  - [2(e). Computation](#sect-2e)
+  - [2(d). Computation](#sect-2d)
 
 * [3. Pending assessment](#sect-3)
 
@@ -221,6 +219,7 @@ Sorted by the author's last name alphabetically.
 
 | Problem | Humans | AI systems | Date | Outcome |
 | ------- | ------ | ---------- | ---- | ------- |
+| [[7]](https://www.erdosproblems.com/7) | Jinook Lee | Aristotle | 2 May, 2026 | 🔴 Incorrect proof found
 | [[12]](https://www.erdosproblems.com/12) | Nat Sothanaphan, Terence Tao | GPT-5.4 Thinking | 7 Apr, 2026 | 🟡 Partial result
 | [[25]](https://www.erdosproblems.com/25) | Przemek Chojecki | GPT-5.4 Pro | 19 Mar, 2026 | 🟡 Partial result
 | [[42]](https://www.erdosproblems.com/42) | Harjas | GPT-5.5 Pro | 27 Apr, 2026 | 🟢 Full solution
@@ -549,20 +548,7 @@ Sorted by the author's last name alphabetically.
 | [[1196]](https://www.erdosproblems.com/1196) | 🟢 GPT-5.4 Pro (2026) | Gauss | 16 Apr, 2026
 
 <a id="sect-2c"></a>
-### 2(c). Artifact generation
-
-| Problem | AI systems | Part of | Date | Artifacts |
-| ------- | ---------- | ------- | ---- | --------- |
-| [[69]](https://www.erdosproblems.com/69) | GPT | 🟢 Tao and Teräväinen (2025) | 1 Dec, 2025 | Numerics and images
-| [[114]](https://www.erdosproblems.com/114) | AlphaEvolve, Gemini | 🟡 Tao (2025) | 13 Dec, 2025 | Initial numerics, code, and images
-| [[248]](https://www.erdosproblems.com/248) | GPT | 🟢 Tao and Teräväinen (2025) | 1 Dec, 2025 | Numerics and images
-| [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Pro | 🟡 He and Tang (2026) | 12 Feb, 2026 | Code
-| [[682]](https://www.erdosproblems.com/682) | GPT | 🟢 Gafni and Tao (2025) | 8 Aug, 2025 | Initial code
-| [[946]](https://www.erdosproblems.com/946) | GPT | 🟡 Tao and Teräväinen (2025) | 1 Dec, 2025 | Numerics and images
-| [[1153]](https://www.erdosproblems.com/1153) | Gemini | 🟢 Tao (2026) | 27 Feb, 2026 | Initial code
-
-<a id="sect-2d"></a>
-### 2(d). Rewriting
+### 2(c). Rewriting
 
 | Problem | AI systems | Date | Argument to rewrite |
 | ------- | ---------- | ---- | ------------------- |
@@ -576,25 +562,17 @@ Sorted by the author's last name alphabetically.
 | [[846]](https://www.erdosproblems.com/846) | GPT-5.2 Thinking | 25 Feb, 2026 | 🟢 DeepMind prover agent (2026)
 | [[1196]](https://www.erdosproblems.com/1196) | GPT-5.4 Thinking | 20 Apr, 2026 | 🟢 Tao (2026)
 
-<a id="sect-2e"></a>
-### 2(e). Computation
+<a id="sect-2d"></a>
+### 2(d). Computation
 
 | Problem | AI systems | Date | Computation |
 | ------- | ---------- | ---- | ----------- |
-| [[42]](https://www.erdosproblems.com/42) | Grok | 20 Jan, 2026 | Verification and exploration
-| [[43]](https://www.erdosproblems.com/43) | Grok | 20 Jan, 2026 | Verification and exploration
-| [[271]](https://www.erdosproblems.com/271) | Unspecified | 11 Jan, 2026 | OEIS sequence generation
-| [[334]](https://www.erdosproblems.com/334) | Unspecified | 3 Mar, 2026 | OEIS sequence generation
-| [[396]](https://www.erdosproblems.com/396) | Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro | 23 Mar, 2026 | OEIS sequence generation
-| [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Pro | 12 Feb, 2026 | Exploration
-| [[650]](https://www.erdosproblems.com/650) | AlphaEvolve | 7 Mar, 2026 | Optimal construction found numerically
-| [[684]](https://www.erdosproblems.com/684) | GPT | 20 Jan, 2026 | Exploration
-| [[757]](https://www.erdosproblems.com/757) | GPT-5.2 Pro | 26 Feb, 2026 | Exploration
-| [[783]](https://www.erdosproblems.com/783) | AlphaEvolve | 4 Feb, 2026 | Exploration
-| [[860]](https://www.erdosproblems.com/860) | Claude Opus 4.5 | 16 Jan, 2026 | OEIS sequence location
-| [[872]](https://www.erdosproblems.com/872) | GPT | 11 Jan, 2026 | OEIS sequence generation
-| [[993]](https://www.erdosproblems.com/993) | Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex | 15 Feb-12 Mar, 2026 | Exhaustive verification and exploration
-| [[1044]](https://www.erdosproblems.com/1044) | GPT-5.2 Pro | 5 Jan, 2026 | Exploration
+| [[334]](https://www.erdosproblems.com/334) | Unspecified | 3 Mar, 2026 | OEIS sequence
+| [[396]](https://www.erdosproblems.com/396) | Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro | 23 Mar, 2026 | OEIS sequence
+| [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Pro | 12 Feb, 2026 | Numerical certificate
+| [[650]](https://www.erdosproblems.com/650) | AlphaEvolve | 7 Mar, 2026 | Numerical optimization
+| [[757]](https://www.erdosproblems.com/757) | GPT-5.2 Pro | 26 Feb, 2026 | Exhaustive verification
+| [[993]](https://www.erdosproblems.com/993) | Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex | 15 Feb-12 Mar, 2026 | Exhaustive verification
 
 <a id="sect-3"></a>
 ## 3. Pending assessment
