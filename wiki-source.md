@@ -2,6 +2,8 @@ This AI Wiki collects contributions of AI systems to the understanding of Erdős
 
 If you are interested in getting started with using AI for research mathematics, we have some [free advice](https://github.com/teorth/erdosproblems/wiki/Getting-started-with-using-AI-for-research-mathematics).
 
+If you are looking for famous solutions, we have information on some [notable cases](https://github.com/teorth/erdosproblems/wiki/Notable-cases-of-AI-contributions-to-Erd%C5%91s-problems).
+
 ## Introduction
 
 ### Color indicators
