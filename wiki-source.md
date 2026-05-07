@@ -98,22 +98,16 @@ Sorted by the author's last name alphabetically.
 | [[251]](https://www.erdosproblems.com/251) | GPT-5.4 Pro | 15 Apr, 2026 | 🟡 Solution to variant problem
 | [[358]](https://www.erdosproblems.com/358) | GPT-5.2 Pro | 11 Feb, 2026 | 🔴 Argument with major gaps made
 | [[457]](https://www.erdosproblems.com/457) | Aristotle, GPT-5.2 Pro | 2 Mar, 2026 | 🟢 Full solution (Lean)
-| [[460]](https://www.erdosproblems.com/460) | GPT-5.2 Thinking | 14 Jan, 2026 | 🟡 Cheap solution to previous formulation of problem
 | [[477]](https://www.erdosproblems.com/477) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
-| [[486]](https://www.erdosproblems.com/486) | GPT-5.2 | 11 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
-| [[514]](https://www.erdosproblems.com/514) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
-| [[563]](https://www.erdosproblems.com/563) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[616]](https://www.erdosproblems.com/616) | Claude Sonnet 4.5, Gemini 3 Pro, GPT-5.2 Pro | 18 Jan, 2026 | 🔴 Incorrect proof found
 | [[647]](https://www.erdosproblems.com/647) | ChatGPT Deep research, DeepSeek DeepThink, Gemini  | 28 Jan, 2026 | 🔴 Incorrect proof found
 | [[654]](https://www.erdosproblems.com/654) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one formulation of problem
-| [[665]](https://www.erdosproblems.com/665) | GPT-5.2 Pro | 17 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[684]](https://www.erdosproblems.com/684) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result
 | [[694]](https://www.erdosproblems.com/694) | GPT-5.5 Pro | 1 May, 2026 | 🟢 Full solution
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 31 Mar, 2026 | 🟡 Partial result (Lean) (solution to variant of first part; solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result (solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution (Lean)
 | [[783]](https://www.erdosproblems.com/783) | GPT-5.2 | 23 Jan, 2026 | 🟡 Partial result
-| [[850]](https://www.erdosproblems.com/850) | GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Cheap counterexample to previous formulation of problem
 | [[872]](https://www.erdosproblems.com/872) | GPT-5.2 Pro | 16 Feb, 2026 | 🟡 Partial result
 | [[888]](https://www.erdosproblems.com/888) | Claude Opus 4.5, Gemini 3 Pro, GPT-5.2 Thinking | 18 Jan, 2026 | 🔴 Incorrect proof found
 | [[949]](https://www.erdosproblems.com/949) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
