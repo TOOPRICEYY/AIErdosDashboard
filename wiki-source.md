@@ -262,6 +262,7 @@ Sorted by the author's last name alphabetically.
 | [[863]](https://www.erdosproblems.com/863) | Boon Suan Ho | GPT-5.4 Pro | 22 Apr, 2026 | 🟢 Full solution
 | [[866]](https://www.erdosproblems.com/866) | Wouter van Doorn | Aristotle, GPT-5.3 Instant | 4 May, 2026 | 🟡 Partial result (Lean)
 | [[872]](https://www.erdosproblems.com/872) | Om_Buddhdev_sensho | GPT-5.4 Pro | 16 Apr, 2026 | 🟡 Partial result
+| [[875]](https://www.erdosproblems.com/875) | Lech Mazur | Codex, GPT-5.5 Pro | 7 May, 2026 | 🟡 Partial result (Lean)
 | [[931]](https://www.erdosproblems.com/931) | MalekZ | Claude, GPT-5.4 | 12-15 Mar, 2026 | 🟡 Partial result
 | [[943]](https://www.erdosproblems.com/943) | Przemek Chojecki | GPT-5.4 Pro | 3 Feb-18 Mar, 2026 | 🟡 Partial result
 | [[995]](https://www.erdosproblems.com/995) | Boon Suan Ho | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
