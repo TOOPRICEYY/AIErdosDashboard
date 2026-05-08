@@ -119,6 +119,7 @@ Sorted by the author's last name alphabetically.
 | [[987]](https://www.erdosproblems.com/987) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[990]](https://www.erdosproblems.com/990) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[1014]](https://www.erdosproblems.com/1014) | OpenAI internal model | 23 Apr, 2026 | 🟢 Full solution
+| [[1039]](https://www.erdosproblems.com/1039) | GPT-5.5 Pro | 7 May, 2026 | 🟡 Partial result
 | [[1040]](https://www.erdosproblems.com/1040) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one part of problem; 🔴 incorrect solution to other part
 | [[1041]](https://www.erdosproblems.com/1041) | GPT-5.4 Thinking | 22 Apr, 2026 | 🔴 Argument with major gaps made
 | [[1044]](https://www.erdosproblems.com/1044) | GPT-5.2 Pro | 5 Jan, 2026  | 🔴 Incorrect claim made
@@ -559,6 +560,7 @@ Sorted by the author's last name alphabetically.
 | [[783]](https://www.erdosproblems.com/783) | GPT-5.2 Thinking | 24 Jan, 2026 | 🟡 GPT-5.2 (2026)
 | [[783]](https://www.erdosproblems.com/783) | GPT-5.2 Thinking | 21 Feb, 2026 | 🟡 Tao (2026)
 | [[846]](https://www.erdosproblems.com/846) | GPT-5.2 Thinking | 25 Feb, 2026 | 🟢 DeepMind prover agent (2026)
+| [[1039]](https://www.erdosproblems.com/1039) | GPT-5.5 Thinking | 8 May, 2026 | 🟡 GPT-5.5 Pro (2026)
 | [[1196]](https://www.erdosproblems.com/1196) | GPT-5.4 Thinking | 20 Apr, 2026 | 🟢 Tao (2026)
 
 <a id="sect-2d"></a>
@@ -600,7 +602,6 @@ Sorted by the author's last name alphabetically.
 | [[953]](https://www.erdosproblems.com/953) | Przemek Chojecki | GPT-5.5 Pro | 27 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[956]](https://www.erdosproblems.com/956) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 27 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[983]](https://www.erdosproblems.com/983) | Liam Price | GPT-5.5 Pro | 30 Apr, 2026 | 1(a) 🟡 Partial result (solution to first part)?
-| [[1039]](https://www.erdosproblems.com/1039) | Liam Price | GPT-5.5 Pro | 7 May, 2026 | 1(a) 🟡 Partial result?
 | [[1092]](https://www.erdosproblems.com/1092) | Przemek Chojecki | GPT-5.5 Pro | 28 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[1101]](https://www.erdosproblems.com/1101) | lipet2k | GPT-5.5 Pro | 27 Apr, 2026 | 1(a) 🟡 Partial result (solution to second part)?
 | [[1131]](https://www.erdosproblems.com/1131) | Liam Price | GPT-5.5 Pro | 26 Apr, 2026 | 1(a) 🟡 Partial result?
