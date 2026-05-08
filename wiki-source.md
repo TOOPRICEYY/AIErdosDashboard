@@ -497,6 +497,7 @@ Sorted by the author's last name alphabetically.
 | [[785]](https://www.erdosproblems.com/785) | 🟡 Narkiewicz (1959/60) + 🟢 Ruzsa (2015) | Aristotle | 6 Mar, 2026
 | [[788]](https://www.erdosproblems.com/788) | 🟡 GPT-5.2 Pro (2026) | Aristotle | 20 Jan, 2026
 | [[794]](https://www.erdosproblems.com/794) | 🟢 Harris (2025) | Aristotle | 5 Feb, 2026
+| [[798]](https://www.erdosproblems.com/798) | 🟢 Alon (1991) | Aristotle | 8 May, 2026
 | [[818]](https://www.erdosproblems.com/818) | 🟢 Solymosi (2009) | Aristotle | 25 Apr, 2026
 | [[835]](https://www.erdosproblems.com/835) | 🟡 Likely folklore | AlphaProof | 26 Dec, 2025
 | [[844]](https://www.erdosproblems.com/844) | 🟢 Chvátal (1974) + Weisenberg | Aristotle | 26 Apr, 2026
