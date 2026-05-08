@@ -266,6 +266,7 @@ Sorted by the author's last name alphabetically.
 | [[875]](https://www.erdosproblems.com/875) | Lech Mazur | Codex, GPT-5.5 Pro | 7 May, 2026 | 🟡 Partial result (Lean)
 | [[931]](https://www.erdosproblems.com/931) | MalekZ | Claude, GPT-5.4 | 12-15 Mar, 2026 | 🟡 Partial result
 | [[943]](https://www.erdosproblems.com/943) | Przemek Chojecki | GPT-5.4 Pro | 3 Feb-18 Mar, 2026 | 🟡 Partial result
+| [[953]](https://www.erdosproblems.com/953) | Przemek Chojecki | GPT-5.5 Pro | 27 Apr, 2026 | 🟢 Full solution
 | [[995]](https://www.erdosproblems.com/995) | Boon Suan Ho | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
 | [[996]](https://www.erdosproblems.com/996) | Boon Suan Ho | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
 | [[951]](https://www.erdosproblems.com/951) | Nat Sothanaphan | GPT-5.2 Thinking | 28 Jan, 2026 | 🟡 New solution to one formulation of problem
@@ -599,7 +600,6 @@ Sorted by the author's last name alphabetically.
 | [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[896]](https://www.erdosproblems.com/896) | Przemek Chojecki | GPT-5.5 Pro | 26 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | 1(d) 🟢 Full solution?
-| [[953]](https://www.erdosproblems.com/953) | Przemek Chojecki | GPT-5.5 Pro | 27 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[956]](https://www.erdosproblems.com/956) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 27 Apr, 2026 | 1(d) 🟢 Full solution?
 | [[983]](https://www.erdosproblems.com/983) | Liam Price | GPT-5.5 Pro | 30 Apr, 2026 | 1(a) 🟡 Partial result (solution to first part)?
 | [[1092]](https://www.erdosproblems.com/1092) | Przemek Chojecki | GPT-5.5 Pro | 28 Apr, 2026 | 1(d) 🟢 Full solution?
