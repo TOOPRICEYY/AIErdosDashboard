@@ -99,6 +99,7 @@ Sorted by the author's last name alphabetically.
 | [[205]](https://www.erdosproblems.com/205) | Aristotle, GPT-5.2 Thinking | 10 Jan, 2026 | 🟢 Full solution (Lean)
 | [[233]](https://www.erdosproblems.com/233) | GPT-5.2 Pro | 18 Jan, 2026 | 🔴 Incorrect (conditional) proof found
 | [[251]](https://www.erdosproblems.com/251) | GPT-5.4 Pro | 15 Apr, 2026 | 🟡 Solution to variant problem
+| [[263]](https://www.erdosproblems.com/263) | Aristotle, Claude Opus 4.7, GPT-5.5 Pro | 9 May, 2026 | 🟡 Partial result (Lean) (solution to second part)
 | [[358]](https://www.erdosproblems.com/358) | GPT-5.2 Pro | 11 Feb, 2026 | 🔴 Argument with major gaps made
 | [[457]](https://www.erdosproblems.com/457) | Aristotle, GPT-5.2 Pro | 2 Mar, 2026 | 🟢 Full solution (Lean)
 | [[477]](https://www.erdosproblems.com/477) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
@@ -417,6 +418,7 @@ Sorted by the author's last name alphabetically.
 | [[221]](https://www.erdosproblems.com/221) | 🟢 Ruzsa (1972) + van Doorn (2025) | Aristotle | 31 Jan, 2026
 | [[226]](https://www.erdosproblems.com/226) | 🟢 Sato and Rankin (1974) | Aristotle | 29 Dec, 2025
 | [[229]](https://www.erdosproblems.com/229) | 🟢 Barth and Schneider (1972) | Aristotle | 28 Dec, 2025
+| [[231]](https://www.erdosproblems.com/231) | 🟢 Keränen (1992) | Aristotle | 9 May, 2026
 | [[237]](https://www.erdosproblems.com/237) | 🟢 Chen and Ding (2022) | Aristotle | 4 Apr, 2026
 | [[246]](https://www.erdosproblems.com/246) | 🟢 Birch (1959) | Aristotle | 28 Dec, 2025
 | [[258]](https://www.erdosproblems.com/258) | 🟢 GPT-5.4 Pro (2026) | Aristotle | 14 Apr, 2026
