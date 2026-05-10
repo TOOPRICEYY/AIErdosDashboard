@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-09T17:34:26.659Z",
+    "generatedAt": "2026-05-10T13:50:51.940Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 465,
@@ -3934,7 +3934,7 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/36"
         }
       ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
+      "aiSystemsRaw": "AlphaEvolve",
       "aiSystemsLabel": "AlphaEvolve",
       "humansRaw": "",
       "humansLabel": "",
@@ -3943,7 +3943,7 @@ window.ERDOS_AI_DATA = {
       "descriptionLabel": "🟡 Slight improvement to past construction",
       "fieldsRaw": {
         "Problem": "[[36]](https://www.erdosproblems.com/36)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
+        "AI systems": "AlphaEvolve",
         "Date": "3 Nov, 2025",
         "Literature": "🟡 Haugland (2016)",
         "Outcome": "🟡 Slight improvement to past construction"
@@ -4385,7 +4385,7 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/507"
         }
       ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
+      "aiSystemsRaw": "AlphaEvolve",
       "aiSystemsLabel": "AlphaEvolve",
       "humansRaw": "",
       "humansLabel": "",
@@ -4394,7 +4394,7 @@ window.ERDOS_AI_DATA = {
       "descriptionLabel": "🟡 Surpassed some past constructions",
       "fieldsRaw": {
         "Problem": "[[507]](https://www.erdosproblems.com/507)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
+        "AI systems": "AlphaEvolve",
         "Date": "3 Nov, 2025",
         "Literature": "🟡 Friedman (2015)",
         "Outcome": "🟡 Surpassed some past constructions"
@@ -5287,7 +5287,7 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1097"
         }
       ],
-      "aiSystemsRaw": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
+      "aiSystemsRaw": "AlphaEvolve",
       "aiSystemsLabel": "AlphaEvolve",
       "humansRaw": "",
       "humansLabel": "",
@@ -5296,7 +5296,7 @@ window.ERDOS_AI_DATA = {
       "descriptionLabel": "🟡 Slight improvement to past construction",
       "fieldsRaw": {
         "Problem": "[[1097]](https://www.erdosproblems.com/1097)",
-        "AI systems": "[AlphaEvolve](https://arxiv.org/abs/2511.02864)",
+        "AI systems": "AlphaEvolve",
         "Date": "3 Nov, 2025",
         "Literature": "🟡 Lemm (2015)",
         "Outcome": "🟡 Slight improvement to past construction"

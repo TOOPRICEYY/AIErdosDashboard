@@ -175,7 +175,7 @@ Sorted by the author's last name alphabetically.
 | ------- | ---------- | ---- | ---------- | ------- |
 | [[12]](https://www.erdosproblems.com/12) | DeepMind prover agent | 7 Apr, 2026 | 🟡 Erdős and Sárközy (1970) | 🟡 Partial result (Lean) (solutions to first part and second part)
 | [[26]](https://www.erdosproblems.com/26) | DeepMind prover agent | 6 Apr, 2026 | 🟢 Ruzsa | 🟢 Solution to stronger problem
-| [[36]](https://www.erdosproblems.com/36) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Haugland (2016) | 🟡 Slight improvement to past construction
+| [[36]](https://www.erdosproblems.com/36) | AlphaEvolve | 3 Nov, 2025 | 🟡 Haugland (2016) | 🟡 Slight improvement to past construction
 | [[43]](https://www.erdosproblems.com/43) | Aristotle | 4 Dec, 2025 | 🟡 Barreto (2025) | 🟡 New proof of partial result (Lean)
 | [[75]](https://www.erdosproblems.com/75) | GPT-5.4 Pro | 12 Apr, 2026 | 🟡 Erdős, Hajnal, and Szemerédi (1982) | 🟡 Partial result
 | [[198]](https://www.erdosproblems.com/198) | AlphaProof | 2025 | 🟢 Baumgartner (1975) | 🟢 New proof found
@@ -186,7 +186,7 @@ Sorted by the author's last name alphabetically.
 | [[379]](https://www.erdosproblems.com/379) | Seed Prover 1.5 | 21 Dec, 2025 | 🟢 Cambie, Kovač, and Tao (2025) | 🟢 New proof found
 | [[488]](https://www.erdosproblems.com/488) | Aristotle | 27 Nov, 2025 | 🟡 Cambie (2025) | 🟡 New solution to variant problem (Lean)
 | [[493]](https://www.erdosproblems.com/493) | Aristotle, GPT, Seed Prover | 2025 | 🟢 Seamans (2025) | 🟢 New or existing proof found (Lean)
-| [[507]](https://www.erdosproblems.com/507) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Friedman (2015) | 🟡 Surpassed some past constructions
+| [[507]](https://www.erdosproblems.com/507) | AlphaEvolve | 3 Nov, 2025 | 🟡 Friedman (2015) | 🟡 Surpassed some past constructions
 | [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Thinking | 1 Mar, 2026 | 🟡 He and Tang (2026) | 🟡 Slight improvement to past construction
 | [[524]](https://www.erdosproblems.com/524) | Gemini, GPT-5.2, Grok | 30 Jan, 2026 | 🟡 Sawhney (2025) | 🟡 Improved partial result
 | [[679]](https://www.erdosproblems.com/679) | Aristotle | 12 Jan, 2026 | 🟡 DottedCalculator (2025) | 🟡 Improved proof by reducing dependence on prime number theorem
@@ -208,7 +208,7 @@ Sorted by the author's last name alphabetically.
 | [[1048]](https://www.erdosproblems.com/1048) | Aristotle | 28 Jan, 2026 | 🟢 Pommerenke (1961) | 🟢 Proof found (Lean), which is a specific case of Pommerenke
 | [[1090]](https://www.erdosproblems.com/1090) | Aristotle, Gemini 3 Flash | 27 Feb, 2026 | 🟢 Graham and Selfridge (unpublished, ~1975) | 🟢 Proof found (Lean)
 | [[1095]](https://www.erdosproblems.com/1095) | Aristotle | 30 Dec, 2025 | 🟡 Ecklund, Erdős, and Selfridge (1975) | 🟡 New proof of (slightly weaker) partial result (Lean)
-| [[1097]](https://www.erdosproblems.com/1097) | [AlphaEvolve](https://arxiv.org/abs/2511.02864) | 3 Nov, 2025 | 🟡 Lemm (2015) | 🟡 Slight improvement to past construction
+| [[1097]](https://www.erdosproblems.com/1097) | AlphaEvolve | 3 Nov, 2025 | 🟡 Lemm (2015) | 🟡 Slight improvement to past construction
 | [[1197]](https://www.erdosproblems.com/1197) | Aristotle, GPT-5.4 Pro | 13 Apr, 2026 | 🟡 Buczolich and Mauldin (1999) | 🟢 Full solution (Lean)
 
 <a id="sect-1d"></a>
