@@ -397,6 +397,7 @@ Sorted by the author's last name alphabetically.
 | [[31]](https://www.erdosproblems.com/31) | 🟢 Lorentz (1954), Wouter van Doorn (2025) | Aristotle, GPT | 24 Nov, 2025
 | [[34]](https://www.erdosproblems.com/34) | 🟢 Konieczny (2015) | Aristotle | 5 Feb, 2026
 | [[38]](https://www.erdosproblems.com/38) | 🟢 GPT-5.5 Pro (2026) | Aristotle | 1 May, 2026
+| [[42]](https://www.erdosproblems.com/42) | 🟢 GPT-5.5 Pro (2026) | Codex, GPT-5.5 Pro | 10 May, 2026
 | [[43]](https://www.erdosproblems.com/43) | 🟡 Barreto (2025) | Aristotle, Claude | 21 Dec, 2025
 | [[56]](https://www.erdosproblems.com/56) | 🟢 Ahlswede and Khachatrian (1995) | Aristotle, GPT | 25 Nov, 2025
 | [[93]](https://www.erdosproblems.com/93) | 🟢 Altman (1963) | Aristotle, Claude Opus 4.5, Claude Opus 4.6, Gemini 3 Flash, Gemini 3 Pro, Numina Lean Agent | 17 Feb, 2026
@@ -410,6 +411,7 @@ Sorted by the author's last name alphabetically.
 | [[164]](https://www.erdosproblems.com/164) | 🟢 Alexeev, Barreto, Li, Lichtman, Price, Shah, Tang, and Tao (2026) | Codex | 4 May, 2026
 | [[178]](https://www.erdosproblems.com/178) | 🟢 Beck (1981) | Aristotle | 21 Apr, 2026
 | [[189]](https://www.erdosproblems.com/189) | 🟢 Kovač (2023) | Aristotle, Gemini 3 Pro | 17 Dec, 2025
+| [[192]](https://www.erdosproblems.com/192) | 🟢 Keränen (1992) | Aristotle | 9-10 May, 2026
 | [[194]](https://www.erdosproblems.com/194) | 🟢 Ardal, Brown, and Jungić  (2011) | Aristotle | 15 Apr, 2026
 | [[198]](https://www.erdosproblems.com/198) | 🟢 Baumgartner (1975) | Aristotle, GPT | 24 Nov, 2025
 | [[199]](https://www.erdosproblems.com/199) | 🟢 Baumgartner (1975) | Aristotle | 24 Feb, 2026
