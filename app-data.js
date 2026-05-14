@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-14T11:03:03.330Z",
+    "generatedAt": "2026-05-14T11:54:30.995Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 469,
+    "recordCount": 470,
     "sectionCount": 9
   },
   "sections": [
@@ -137,7 +137,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Status"
       ],
-      "rowCount": 26
+      "rowCount": 27
     }
   ],
   "releases": [
@@ -18847,6 +18847,51 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
       "rowOrder": 4,
+      "problemRaw": "[[327]](https://www.erdosproblems.com/327)",
+      "problemLabel": "327",
+      "problemIds": [
+        327
+      ],
+      "problemLinks": [
+        {
+          "label": "327",
+          "url": "https://www.erdosproblems.com/327"
+        }
+      ],
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[327]](https://www.erdosproblems.com/327)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "327",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-005",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 10,
+      "rowOrder": 5,
       "problemRaw": "[[390]](https://www.erdosproblems.com/390)",
       "problemLabel": "390",
       "problemIds": [
@@ -18885,13 +18930,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-005",
+      "id": "sect-3-006",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 5,
+      "rowOrder": 6,
       "problemRaw": "[[451]](https://www.erdosproblems.com/451)",
       "problemLabel": "451",
       "problemIds": [
@@ -18930,13 +18975,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-006",
+      "id": "sect-3-007",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 6,
+      "rowOrder": 7,
       "problemRaw": "[[503]](https://www.erdosproblems.com/503)",
       "problemLabel": "503",
       "problemIds": [
@@ -18975,13 +19020,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-007",
+      "id": "sect-3-008",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 7,
+      "rowOrder": 8,
       "problemRaw": "[[598]](https://www.erdosproblems.com/598)",
       "problemLabel": "598",
       "problemIds": [
@@ -19020,13 +19065,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-008",
+      "id": "sect-3-009",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 8,
+      "rowOrder": 9,
       "problemRaw": "[[750]](https://www.erdosproblems.com/750)",
       "problemLabel": "750",
       "problemIds": [
@@ -19065,13 +19110,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-009",
+      "id": "sect-3-010",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 9,
+      "rowOrder": 10,
       "problemRaw": "[[836]](https://www.erdosproblems.com/836)",
       "problemLabel": "836",
       "problemIds": [
@@ -19110,13 +19155,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-010",
+      "id": "sect-3-011",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 10,
+      "rowOrder": 11,
       "problemRaw": "[[852]](https://www.erdosproblems.com/852)",
       "problemLabel": "852",
       "problemIds": [
@@ -19155,13 +19200,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-011",
+      "id": "sect-3-012",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 11,
+      "rowOrder": 12,
       "problemRaw": "[[856]](https://www.erdosproblems.com/856)",
       "problemLabel": "856",
       "problemIds": [
@@ -19200,13 +19245,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-012",
+      "id": "sect-3-013",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 12,
+      "rowOrder": 13,
       "problemRaw": "[[870]](https://www.erdosproblems.com/870)",
       "problemLabel": "870",
       "problemIds": [
@@ -19245,13 +19290,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-013",
+      "id": "sect-3-014",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 13,
+      "rowOrder": 14,
       "problemRaw": "[[872]](https://www.erdosproblems.com/872)",
       "problemLabel": "872",
       "problemIds": [
@@ -19281,51 +19326,6 @@ window.ERDOS_AI_DATA = {
       },
       "fieldsPlain": {
         "Problem": "872",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-014",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 10,
-      "rowOrder": 14,
-      "problemRaw": "[[873]](https://www.erdosproblems.com/873)",
-      "problemLabel": "873",
-      "problemIds": [
-        873
-      ],
-      "problemLinks": [
-        {
-          "label": "873",
-          "url": "https://www.erdosproblems.com/873"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[873]](https://www.erdosproblems.com/873)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "873",
         "Humans": "",
         "AI systems": "",
         "Date": "",
@@ -19387,6 +19387,51 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
       "rowOrder": 16,
+      "problemRaw": "[[873]](https://www.erdosproblems.com/873)",
+      "problemLabel": "873",
+      "problemIds": [
+        873
+      ],
+      "problemLinks": [
+        {
+          "label": "873",
+          "url": "https://www.erdosproblems.com/873"
+        }
+      ],
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[873]](https://www.erdosproblems.com/873)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "873",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-017",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 10,
+      "rowOrder": 17,
       "problemRaw": "[[888]](https://www.erdosproblems.com/888)",
       "problemLabel": "888",
       "problemIds": [
@@ -19425,13 +19470,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-017",
+      "id": "sect-3-018",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 17,
+      "rowOrder": 18,
       "problemRaw": "[[896]](https://www.erdosproblems.com/896)",
       "problemLabel": "896",
       "problemIds": [
@@ -19470,13 +19515,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-018",
+      "id": "sect-3-019",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 18,
+      "rowOrder": 19,
       "problemRaw": "[[906]](https://www.erdosproblems.com/906)",
       "problemLabel": "906",
       "problemIds": [
@@ -19515,13 +19560,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-019",
+      "id": "sect-3-020",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 19,
+      "rowOrder": 20,
       "problemRaw": "[[956]](https://www.erdosproblems.com/956)",
       "problemLabel": "956",
       "problemIds": [
@@ -19560,13 +19605,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-020",
+      "id": "sect-3-021",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 20,
+      "rowOrder": 21,
       "problemRaw": "[[983]](https://www.erdosproblems.com/983)",
       "problemLabel": "983",
       "problemIds": [
@@ -19605,13 +19650,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-021",
+      "id": "sect-3-022",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 21,
+      "rowOrder": 22,
       "problemRaw": "[[1101]](https://www.erdosproblems.com/1101)",
       "problemLabel": "1101",
       "problemIds": [
@@ -19650,13 +19695,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-022",
+      "id": "sect-3-023",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 22,
+      "rowOrder": 23,
       "problemRaw": "[[1131]](https://www.erdosproblems.com/1131)",
       "problemLabel": "1131",
       "problemIds": [
@@ -19695,13 +19740,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-3-023",
+      "id": "sect-3-024",
       "majorSection": "3. Pending assessment",
       "majorAnchor": "sect-3",
       "subsection": "3. Pending assessment",
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
-      "rowOrder": 23,
+      "rowOrder": 24,
       "problemRaw": "[[1133]](https://www.erdosproblems.com/1133)",
       "problemLabel": "1133",
       "problemIds": [
@@ -19731,51 +19776,6 @@ window.ERDOS_AI_DATA = {
       },
       "fieldsPlain": {
         "Problem": "1133",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      }
-    },
-    {
-      "id": "sect-3-024",
-      "majorSection": "3. Pending assessment",
-      "majorAnchor": "sect-3",
-      "subsection": "3. Pending assessment",
-      "subsectionAnchor": "sect-3",
-      "subsectionOrder": 10,
-      "rowOrder": 24,
-      "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
-      "problemLabel": "1190",
-      "problemIds": [
-        1190
-      ],
-      "problemLinks": [
-        {
-          "label": "1190",
-          "url": "https://www.erdosproblems.com/1190"
-        }
-      ],
-      "aiSystemsRaw": "",
-      "aiSystemsLabel": "",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "",
-      "descriptionRaw": "",
-      "descriptionLabel": "",
-      "fieldsRaw": {
-        "Problem": "[[1190]](https://www.erdosproblems.com/1190)",
-        "Humans": "",
-        "AI systems": "",
-        "Date": "",
-        "Outcome": "",
-        "E": "",
-        "F": ""
-      },
-      "fieldsPlain": {
-        "Problem": "1190",
         "Humans": "",
         "AI systems": "",
         "Date": "",
@@ -19837,6 +19837,51 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-3",
       "subsectionOrder": 10,
       "rowOrder": 26,
+      "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
+      "problemLabel": "1190",
+      "problemIds": [
+        1190
+      ],
+      "problemLinks": [
+        {
+          "label": "1190",
+          "url": "https://www.erdosproblems.com/1190"
+        }
+      ],
+      "aiSystemsRaw": "",
+      "aiSystemsLabel": "",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[1190]](https://www.erdosproblems.com/1190)",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      },
+      "fieldsPlain": {
+        "Problem": "1190",
+        "Humans": "",
+        "AI systems": "",
+        "Date": "",
+        "Outcome": "",
+        "E": "",
+        "F": ""
+      }
+    },
+    {
+      "id": "sect-3-027",
+      "majorSection": "3. Pending assessment",
+      "majorAnchor": "sect-3",
+      "subsection": "3. Pending assessment",
+      "subsectionAnchor": "sect-3",
+      "subsectionOrder": 10,
+      "rowOrder": 27,
       "problemRaw": "[[1201]](https://www.erdosproblems.com/1201)",
       "problemLabel": "1201",
       "problemIds": [
