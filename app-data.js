@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-14T12:54:42.142Z",
+    "generatedAt": "2026-05-14T15:07:42.269Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 472,
@@ -5516,21 +5516,21 @@ window.ERDOS_AI_DATA = {
       ],
       "aiSystemsRaw": "GPT-5.5 Pro",
       "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Harjas",
-      "humansLabel": "Harjas",
+      "humansRaw": "Harjas Sandhu",
+      "humansLabel": "Harjas Sandhu",
       "dateRaw": "27 Apr, 2026",
       "descriptionRaw": "🟢 Full solution",
       "descriptionLabel": "🟢 Full solution",
       "fieldsRaw": {
         "Problem": "[[42]](https://www.erdosproblems.com/42)",
-        "Humans": "Harjas",
+        "Humans": "Harjas Sandhu",
         "AI systems": "GPT-5.5 Pro",
         "Date": "27 Apr, 2026",
         "Outcome": "🟢 Full solution"
       },
       "fieldsPlain": {
         "Problem": "42",
-        "Humans": "Harjas",
+        "Humans": "Harjas Sandhu",
         "AI systems": "GPT-5.5 Pro",
         "Date": "27 Apr, 2026",
         "Outcome": "🟢 Full solution"
