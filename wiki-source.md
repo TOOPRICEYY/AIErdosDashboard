@@ -553,6 +553,7 @@ Sorted by the author's last name alphabetically.
 | [[1141]](https://www.erdosproblems.com/1141) | 🟢 OpenAI internal model (2026) | GPT-5.4 Pro | 11 Apr, 2026
 | [[1148]](https://www.erdosproblems.com/1148) | 🟢 Chojecki (2026) | Claude Opus 4.6, Gemini 3.1, GPT-5.4, UlamAI Prover | 17 Mar, 2026
 | [[1151]](https://www.erdosproblems.com/1151) | 🟢 Chojecki (2026) (main part) | Codex, GPT | 6 May, 2026
+| [[1187]](https://www.erdosproblems.com/1187) | 🟢 Trivial (second part) | Codex, GPT-5.5 | 12 May, 2026
 | [[1193]](https://www.erdosproblems.com/1193) | 🟢 Trivial | Aristotle | 13 Apr, 2026
 | [[1196]](https://www.erdosproblems.com/1196) | 🟢 GPT-5.4 Pro (2026) | Gauss | 16 Apr, 2026
 

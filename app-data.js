@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-12T12:58:49.357Z",
+    "generatedAt": "2026-05-14T11:03:03.330Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 468,
+    "recordCount": 469,
     "sectionCount": 9
   },
   "sections": [
@@ -94,7 +94,7 @@ window.ERDOS_AI_DATA = {
         "AI systems",
         "Date"
       ],
-      "rowCount": 162
+      "rowCount": 163
     },
     {
       "title": "2(c). Rewriting",
@@ -17971,6 +17971,45 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
       "rowOrder": 161,
+      "problemRaw": "[[1187]](https://www.erdosproblems.com/1187)",
+      "problemLabel": "1187",
+      "problemIds": [
+        1187
+      ],
+      "problemLinks": [
+        {
+          "label": "1187",
+          "url": "https://www.erdosproblems.com/1187"
+        }
+      ],
+      "aiSystemsRaw": "Codex, GPT-5.5",
+      "aiSystemsLabel": "Codex, GPT-5.5",
+      "humansRaw": "",
+      "humansLabel": "",
+      "dateRaw": "12 May, 2026",
+      "descriptionRaw": "",
+      "descriptionLabel": "",
+      "fieldsRaw": {
+        "Problem": "[[1187]](https://www.erdosproblems.com/1187)",
+        "Proof to formalize": "🟢 Trivial (second part)",
+        "AI systems": "Codex, GPT-5.5",
+        "Date": "12 May, 2026"
+      },
+      "fieldsPlain": {
+        "Problem": "1187",
+        "Proof to formalize": "🟢 Trivial (second part)",
+        "AI systems": "Codex, GPT-5.5",
+        "Date": "12 May, 2026"
+      }
+    },
+    {
+      "id": "sect-2b-162",
+      "majorSection": "2. Secondary contributions",
+      "majorAnchor": "sect-2",
+      "subsection": "2(b). Formalization",
+      "subsectionAnchor": "sect-2b",
+      "subsectionOrder": 7,
+      "rowOrder": 162,
       "problemRaw": "[[1193]](https://www.erdosproblems.com/1193)",
       "problemLabel": "1193",
       "problemIds": [
@@ -18003,13 +18042,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2b-162",
+      "id": "sect-2b-163",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(b). Formalization",
       "subsectionAnchor": "sect-2b",
       "subsectionOrder": 7,
-      "rowOrder": 162,
+      "rowOrder": 163,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
