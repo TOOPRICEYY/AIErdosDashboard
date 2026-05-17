@@ -458,7 +458,7 @@ Sorted by the author's last name alphabetically.
 | [[399]](https://www.erdosproblems.com/399) | 🟢 Barfield (2025) | Codex | Feb 2026
 | [[418]](https://www.erdosproblems.com/418) | 🟢 Browkin and Schinzel (1995) | Aristotle, GPT | 22 Nov, 2025
 | [[419]](https://www.erdosproblems.com/419) | 🟢 Sawhney (2025) | Aristotle | 31 Jan, 2026
-| [[425]](https://www.erdosproblems.com/425) | 🟢 Erdős (1938) | Aristotle, GPT | 5 May, 2026
+| [[425]](https://www.erdosproblems.com/425) | 🟢 Erdős (1938) | Aristotle, GPT | 5-17 May, 2026
 | [[426]](https://www.erdosproblems.com/426) | 🟢 Bradač and Christoph (2024) | Aristotle | 20 Apr, 2026
 | [[427]](https://www.erdosproblems.com/427) | 🟢 Pilatte | Aristotle | 26 Apr, 2026
 | [[429]](https://www.erdosproblems.com/429) | 🟢 Weisenberg (2024) | Aristotle | 29 Jan, 2026
