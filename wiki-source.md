@@ -228,6 +228,7 @@ Sorted by the author's last name alphabetically.
 | [[283]](https://www.erdosproblems.com/283) | Kevin Barreto, Liam Price | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[330]](https://www.erdosproblems.com/330) | David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 🟢 Full solution
 | [[342]](https://www.erdosproblems.com/342) | Przemek Chojecki | GPT-5.2 Pro, GPT-5.4 Pro | 20 Jan-23 Mar, 2026 | 🟡 Partial result
+| [[345]](https://www.erdosproblems.com/345) | Wouter van Doorn | Aristotle, GPT | 16 May, 2026 | 🟡 Partial result (Lean)
 | [[347]](https://www.erdosproblems.com/347) | Enrique Barschkis, Wouter van Doorn, jbbaehr22, Bartosz Naskrecki, Terence Tao | Aristotle, Claude Opus, Codex, GPT | 25 Oct, 2025-4 Feb, 2026 | 🟢 Full solution (Lean)
 | [[351]](https://www.erdosproblems.com/351) | Kevin Barreto, Liam Price | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[358]](https://www.erdosproblems.com/358) | Nat Sothanaphan | GPT-5.2 Thinking | 13-20 Feb, 2026 | 🔴 Argument with major gaps made
