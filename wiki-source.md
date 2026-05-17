@@ -607,6 +607,7 @@ Sorted by the author's last name alphabetically.
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 1(d) 🟡 Partial result?
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 1(d) 🟡 Partial result?
 | [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | 1(d) 🟢 Full solution?
+| [[819]](https://www.erdosproblems.com/819) | Yu Leon Liu | GPT-5.5, Rethlas | 15 May, 2026 | 1(d) 🟡 Partial result?
 | [[836]](https://www.erdosproblems.com/836) | Liam Price | GPT-5.5 Pro | 27 Apr, 2026 | 1(a) 🟡 Partial result?
 | [[852]](https://www.erdosproblems.com/852) | Przemek Chojecki, David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 1(d) 🟡 Partial result?
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | 1(d) 🟢 Full solution?
