@@ -118,7 +118,6 @@ Sorted by the author's last name alphabetically.
 | [[951]](https://www.erdosproblems.com/951) | GPT-5.2 Pro | 27 Jan, 2026 | 🟡 Solution to one formulation of problem
 | [[960]](https://www.erdosproblems.com/960) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[963]](https://www.erdosproblems.com/963) | Gemini 3 Pro | 22 Jan, 2026  | 🔴 Argument with major gaps made
-| [[983]](https://www.erdosproblems.com/983) | GPT-5.5 Pro | 30 Apr, 2026 | 🟡 Partial result (solution to first part)
 | [[987]](https://www.erdosproblems.com/987) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[990]](https://www.erdosproblems.com/990) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[1014]](https://www.erdosproblems.com/1014) | OpenAI internal model | 23 Apr, 2026 | 🟢 Full solution
@@ -160,6 +159,7 @@ Sorted by the author's last name alphabetically.
 | [[851]](https://www.erdosproblems.com/851) | GPT-5.2 Pro | Feb 5, 2026 | 🟢 Full solution (building upon 🟡 Romanoff (1934)) | Matthews (1982); 🟢 Green and Sawhney (unpublished) | 6 Feb, 2026 | Yes
 | [[897]](https://www.erdosproblems.com/897) | Archivara, Aristotle | 26 Dec, 2025 | 🟢 Full solution (Lean) | 🟢 Wirsing (1981) | 26 Dec, 2025 | Yes
 | [[935]](https://www.erdosproblems.com/935) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one part of problem | 🟡 van Doorn (2025) (solution to one part of [367]) | 2 Feb, 2026 | Yes
+| [[983]](https://www.erdosproblems.com/983) | GPT-5.5 Pro | 30 Apr, 2026 | 🟡 Partial result (solution to first part) | 🟡 Erdős (1970) | 19 May, 2026 | Yes
 | [[997]](https://www.erdosproblems.com/997) | OpenAI internal model | 31 Mar, 2026 | 🟢 Full solution | 🟡 Benatar (2014) | 1 Apr, 2026 | Yes
 | [[1026]](https://www.erdosproblems.com/1026) | Aristotle | 7 Dec, 2025  | 🟢 Full solution (Lean) | 🟢 Tidor, Wang, and Yang (2016) | 8 Dec, 2025 | Only after applying an argument from Seidenberg (1959) 
 | [[1077]](https://www.erdosproblems.com/1077) | Aristotle | 24 Dec, 2025 | 🟡 Trivial counterexample to previous formulation of problem (Lean) | 🟢 Jiang and Longbrake (2025) | 28 Dec, 2025 | No
