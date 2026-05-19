@@ -252,7 +252,7 @@ Sorted by the author's last name alphabetically.
 | [[524]](https://www.erdosproblems.com/524) | Brayden Letwin, Mehtaab Sawhney | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
 | [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | 🟡 Partial result (implicit in literature)
 | [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
-| [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean)
+| [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean) (implicit in literature)
 | [[659]](https://www.erdosproblems.com/659) | Benjamin Grayzel | Gemini 3 | 13 Jan, 2026 | 🟢 Full solution
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result
 | [[684]](https://www.erdosproblems.com/684) | Quanyu Tang | GPT-5.2 Thinking | 19 Jan, 2026 | 🟡 Partial result
@@ -289,6 +289,7 @@ Sorted by the author's last name alphabetically.
 | [[1141]](https://www.erdosproblems.com/1141) | Quanyu Tang | GPT-5.2 Pro, GPT-5.2 Thinking | 25 Jan, 2026 | 🟡 Partial result of variant problem
 | [[1143]](https://www.erdosproblems.com/1143) | Przemek Chojecki | GPT-5.5 Pro | 29 Apr, 2026 | 🟡 Partial result (implicit in literature)
 | [[1148]](https://www.erdosproblems.com/1148) | Ingo Althöfer, Przemek Chojecki, Wouter van Doorn | Gemini 3 Pro, Gemini 3.1 Pro, GPT-5.2 Pro, GPT-5.2 Thinking, GPT-5.4 Pro | 24 Jan-16 Mar, 2026 | 🟢 Full solution
+| [[1148]](https://www.erdosproblems.com/1148) | Ingo Althöfer, Przemek Chojecki | GPT-5.5 Pro | 19 May, 2026 | 🟢 Solution to stronger problem
 | [[1151]](https://www.erdosproblems.com/1151) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | 🟢 Full solution
 | [[1153]](https://www.erdosproblems.com/1153) | Aron Bhalla, Nat Sothanaphan, Terence Tao | AlphaEvolve, Claude, Gemini Pro, GPT-5.2 Thinking, GPT-5.4 Pro | 2 Feb-24 Mar, 2026 | 🟢 Full solution
 | [[1183]](https://www.erdosproblems.com/1183) | Przemek Chojecki, Quanyu Tang | GPT-5.4 Pro | 18 Mar, 2026  | 🟡 Partial result

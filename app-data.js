@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-17T17:36:19.090Z",
+    "generatedAt": "2026-05-19T15:26:03.237Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 478,
+    "recordCount": 479,
     "sectionCount": 9
   },
   "sections": [
@@ -66,7 +66,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 78
+      "rowCount": 79
     },
     {
       "title": "2(a). Literature search",
@@ -6749,21 +6749,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Przemek Chojecki",
       "humansLabel": "Przemek Chojecki",
       "dateRaw": "21 Apr, 2026",
-      "descriptionRaw": "🟢 Full solution (Lean)",
-      "descriptionLabel": "🟢 Full solution (Lean)",
+      "descriptionRaw": "🟢 Full solution (Lean) (implicit in literature)",
+      "descriptionLabel": "🟢 Full solution (Lean) (implicit in literature)",
       "fieldsRaw": {
         "Problem": "[[610]](https://www.erdosproblems.com/610)",
         "Humans": "Przemek Chojecki",
         "AI systems": "Aristotle, GPT-5.4 Pro",
         "Date": "21 Apr, 2026",
-        "Outcome": "🟢 Full solution (Lean)"
+        "Outcome": "🟢 Full solution (Lean) (implicit in literature)"
       },
       "fieldsPlain": {
         "Problem": "610",
         "Humans": "Przemek Chojecki",
         "AI systems": "Aristotle, GPT-5.4 Pro",
         "Date": "21 Apr, 2026",
-        "Outcome": "🟢 Full solution (Lean)"
+        "Outcome": "🟢 Full solution (Lean) (implicit in literature)"
       }
     },
     {
@@ -8250,6 +8250,47 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
       "rowOrder": 71,
+      "problemRaw": "[[1148]](https://www.erdosproblems.com/1148)",
+      "problemLabel": "1148",
+      "problemIds": [
+        1148
+      ],
+      "problemLinks": [
+        {
+          "label": "1148",
+          "url": "https://www.erdosproblems.com/1148"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Pro",
+      "aiSystemsLabel": "GPT-5.5 Pro",
+      "humansRaw": "Ingo Althöfer, Przemek Chojecki",
+      "humansLabel": "Ingo Althöfer, Przemek Chojecki",
+      "dateRaw": "19 May, 2026",
+      "descriptionRaw": "🟢 Solution to stronger problem",
+      "descriptionLabel": "🟢 Solution to stronger problem",
+      "fieldsRaw": {
+        "Problem": "[[1148]](https://www.erdosproblems.com/1148)",
+        "Humans": "Ingo Althöfer, Przemek Chojecki",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "19 May, 2026",
+        "Outcome": "🟢 Solution to stronger problem"
+      },
+      "fieldsPlain": {
+        "Problem": "1148",
+        "Humans": "Ingo Althöfer, Przemek Chojecki",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "19 May, 2026",
+        "Outcome": "🟢 Solution to stronger problem"
+      }
+    },
+    {
+      "id": "sect-1d-072",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(d). AI collaborating with humans",
+      "subsectionAnchor": "sect-1d",
+      "subsectionOrder": 4,
+      "rowOrder": 72,
       "problemRaw": "[[1151]](https://www.erdosproblems.com/1151)",
       "problemLabel": "1151",
       "problemIds": [
@@ -8284,13 +8325,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-072",
+      "id": "sect-1d-073",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 72,
+      "rowOrder": 73,
       "problemRaw": "[[1153]](https://www.erdosproblems.com/1153)",
       "problemLabel": "1153",
       "problemIds": [
@@ -8325,13 +8366,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-073",
+      "id": "sect-1d-074",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 73,
+      "rowOrder": 74,
       "problemRaw": "[[1183]](https://www.erdosproblems.com/1183)",
       "problemLabel": "1183",
       "problemIds": [
@@ -8366,13 +8407,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-074",
+      "id": "sect-1d-075",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 74,
+      "rowOrder": 75,
       "problemRaw": "[[1190]](https://www.erdosproblems.com/1190)",
       "problemLabel": "1190",
       "problemIds": [
@@ -8407,13 +8448,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-075",
+      "id": "sect-1d-076",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 75,
+      "rowOrder": 76,
       "problemRaw": "[[1194]](https://www.erdosproblems.com/1194)",
       "problemLabel": "1194",
       "problemIds": [
@@ -8448,13 +8489,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-076",
+      "id": "sect-1d-077",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 76,
+      "rowOrder": 77,
       "problemRaw": "[[1195]](https://www.erdosproblems.com/1195)",
       "problemLabel": "1195",
       "problemIds": [
@@ -8489,13 +8530,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-077",
+      "id": "sect-1d-078",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 77,
+      "rowOrder": 78,
       "problemRaw": "[[1196]](https://www.erdosproblems.com/1196)",
       "problemLabel": "1196",
       "problemIds": [
@@ -8530,13 +8571,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1d-078",
+      "id": "sect-1d-079",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(d). AI collaborating with humans",
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 4,
-      "rowOrder": 78,
+      "rowOrder": 79,
       "problemRaw": "[[1209]](https://www.erdosproblems.com/1209)",
       "problemLabel": "1209",
       "problemIds": [
