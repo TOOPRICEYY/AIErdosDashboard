@@ -87,6 +87,7 @@ Sorted by the author's last name alphabetically.
 | [[42]](https://www.erdosproblems.com/42) | Codex, GPT-5.2, GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Partial result (Lean)
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
 | [[75]](https://www.erdosproblems.com/75) | Aletheia | 1 Feb, 2026 | 🟡 Solution (using prior literature) to previous formulation of problem
+| [[90]](https://www.erdosproblems.com/90) | OpenAI internal model | 20 May, 2026 | 🟢 Full solution
 | [[124]](https://www.erdosproblems.com/124) | Aristotle | 29 Nov, 2025 | 🟡 Partial result (Lean)
 | [[125]](https://www.erdosproblems.com/125) | DeepMind prover agent | 21 Feb, 2026 | 🟡 Solution to variant problem (Lean)
 | [[125]](https://www.erdosproblems.com/125) | DeepMind prover agent | 30 Mar, 2026 | 🟢 Full solution (Lean)
