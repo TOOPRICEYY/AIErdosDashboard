@@ -11,10 +11,7 @@ If you are looking for famous solutions, we have information on some [notable ca
 * 🟢: *Full* resolution.
 * 🟡: *Partial* progress.
 * 🔴: *Incorrect* work.
-
-The 🔴 (incorrect) refers to works that the humans interacting with AI initially understood to be correct but were later found incorrect. Occasional AI mistake does not automatically count. The purpose is to caution against errors rather than record all mistakes. Even if the work is incorrect, there could be some salvageable aspects.
-
-An entry that does not fit these colors will not have a color indicator.
+* ⚪: Unverified.
 
 ### Section placement
 
@@ -386,7 +383,7 @@ Sorted by the author's last name alphabetically.
 | [[1129]](https://www.erdosproblems.com/1129) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution found
 | [[1130]](https://www.erdosproblems.com/1130) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution found
 | [[1147]](https://www.erdosproblems.com/1147) | GPT-5.2 Thinking | 26 Jan, 2026 | 🟢 Full solution found
-| [[1150]](https://www.erdosproblems.com/1150) | Gemini Deep Research | 4 Feb, 2026 | Claimed solution found
+| [[1150]](https://www.erdosproblems.com/1150) | Gemini Deep Research | 4 Feb, 2026 | 🟡 Claimed solution found (likely incorrect)
 | [[1154]](https://www.erdosproblems.com/1154) | GPT-5.2 Thinking | 24 Jan, 2026 | 🟡 Partial results found
 | [[1161]](https://www.erdosproblems.com/1161) | GPT-5.2 Thinking | 24 Jan, 2026 | 🟢 Full solution found
 | [[1198]](https://www.erdosproblems.com/1198) | GPT-5.4 | 16 Apr, 2026 | 🟡 Partial results found

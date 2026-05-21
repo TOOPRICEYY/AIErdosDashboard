@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-19T18:56:22.918Z",
+    "generatedAt": "2026-05-21T11:25:13.614Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 479,
@@ -11722,19 +11722,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "4 Feb, 2026",
-      "descriptionRaw": "Claimed solution found",
-      "descriptionLabel": "Claimed solution found",
+      "descriptionRaw": "🟡 Claimed solution found (likely incorrect)",
+      "descriptionLabel": "🟡 Claimed solution found (likely incorrect)",
       "fieldsRaw": {
         "Problem": "[[1150]](https://www.erdosproblems.com/1150)",
         "AI systems": "Gemini Deep Research",
         "Date": "4 Feb, 2026",
-        "Outcome": "Claimed solution found"
+        "Outcome": "🟡 Claimed solution found (likely incorrect)"
       },
       "fieldsPlain": {
         "Problem": "1150",
         "AI systems": "Gemini Deep Research",
         "Date": "4 Feb, 2026",
-        "Outcome": "Claimed solution found"
+        "Outcome": "🟡 Claimed solution found (likely incorrect)"
       }
     },
     {
