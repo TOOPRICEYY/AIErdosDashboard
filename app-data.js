@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-27T17:24:11.007Z",
+    "generatedAt": "2026-05-27T20:56:57.858Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 483,
@@ -13434,20 +13434,20 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Aristotle, GPT",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "25 Nov, 2025",
+      "dateRaw": "25 Nov, 2025-27 May, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[56]](https://www.erdosproblems.com/56)",
         "Proof to formalize": "🟢 Ahlswede and Khachatrian (1995)",
         "AI systems": "Aristotle, GPT",
-        "Date": "25 Nov, 2025"
+        "Date": "25 Nov, 2025-27 May, 2026"
       },
       "fieldsPlain": {
         "Problem": "56",
         "Proof to formalize": "🟢 Ahlswede and Khachatrian (1995)",
         "AI systems": "Aristotle, GPT",
-        "Date": "25 Nov, 2025"
+        "Date": "25 Nov, 2025-27 May, 2026"
       }
     },
     {
