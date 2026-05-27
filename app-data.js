@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-27T15:26:38.659Z",
+    "generatedAt": "2026-05-27T17:24:11.007Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 483,
@@ -7018,21 +7018,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Przemek Chojecki",
       "humansLabel": "Przemek Chojecki",
       "dateRaw": "22 Apr, 2026",
-      "descriptionRaw": "⚪ Candidate partial result",
-      "descriptionLabel": "⚪ Candidate partial result",
+      "descriptionRaw": "🔴 Argument with major gaps made",
+      "descriptionLabel": "🔴 Argument with major gaps made",
       "fieldsRaw": {
         "Problem": "[[503]](https://www.erdosproblems.com/503)",
         "Humans": "Przemek Chojecki",
         "AI systems": "Aristotle, GPT-5.4 Pro",
         "Date": "22 Apr, 2026",
-        "Outcome": "⚪ Candidate partial result"
+        "Outcome": "🔴 Argument with major gaps made"
       },
       "fieldsPlain": {
         "Problem": "503",
         "Humans": "Przemek Chojecki",
         "AI systems": "Aristotle, GPT-5.4 Pro",
         "Date": "22 Apr, 2026",
-        "Outcome": "⚪ Candidate partial result"
+        "Outcome": "🔴 Argument with major gaps made"
       }
     },
     {
