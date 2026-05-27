@@ -88,6 +88,7 @@ Sorted by the author's last name alphabetically.
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
 | [[75]](https://www.erdosproblems.com/75) | Aletheia | 1 Feb, 2026 | 🟡 Solution (using prior literature) to previous formulation of problem
 | [[90]](https://www.erdosproblems.com/90) | OpenAI internal model | 20 May, 2026 | 🟢 Full solution
+| [[90]](https://www.erdosproblems.com/90) | Claude Mythos | 26 May, 2026 | 🟢 Full solution
 | [[124]](https://www.erdosproblems.com/124) | Aristotle | 29 Nov, 2025 | 🟡 Partial result (Lean)
 | [[125]](https://www.erdosproblems.com/125) | DeepMind prover agent | 21 Feb, 2026 | 🟡 Solution to variant problem (Lean)
 | [[125]](https://www.erdosproblems.com/125) | DeepMind prover agent | 30 Mar, 2026 | 🟢 Full solution (Lean)
@@ -421,7 +422,7 @@ Sorted by the author's last name alphabetically.
 | Problem | Proof to formalize | AI systems | Date |
 | ------- | ------------------ | ---------- | -----|
 | [[16]](https://www.erdosproblems.com/16) | 🟢 Chen (2023) | Antigravity, Gemini 3.1 Pro | 25 Feb, 2026
-| [[24]](https://www.erdosproblems.com/24) | 🟢 Grzesik (2012) | Aristotle | 23 Apr, 2026
+| [[24]](https://www.erdosproblems.com/24) | 🟢 Grzesik (2012) | Aristotle | 23 Apr-26 May, 2026
 | [[26]](https://www.erdosproblems.com/26) | 🟢 Ruzsa | Aristotle | 28 Dec, 2025
 | [[31]](https://www.erdosproblems.com/31) | 🟢 Lorentz (1954), Wouter van Doorn (2025) | Aristotle, GPT | 24 Nov, 2025
 | [[34]](https://www.erdosproblems.com/34) | 🟢 Konieczny (2015) | Aristotle | 5 Feb, 2026
@@ -457,14 +458,14 @@ Sorted by the author's last name alphabetically.
 | [[246]](https://www.erdosproblems.com/246) | 🟢 Birch (1959) | Aristotle | 28 Dec, 2025
 | [[258]](https://www.erdosproblems.com/258) | 🟢 GPT-5.4 Pro (2026) | Aristotle | 14 Apr, 2026
 | [[259]](https://www.erdosproblems.com/259) | 🟢 Chen and Ruzsa (1999) | Aristotle | 21 Apr, 2026
-| [[268]](https://www.erdosproblems.com/268) | 🟢 Kovač (2024) | Aristotle | 13 Apr, 2026
+| [[268]](https://www.erdosproblems.com/268) | 🟢 Kovač (2024) | Aristotle | 13 Apr-26 May, 2026
 | [[275]](https://www.erdosproblems.com/275) | 🟢 Balister, Bollobas, Morris, Sahasrabudhe, and Tiba (2020) | Aristotle | 20 Jan, 2026
 | [[280]](https://www.erdosproblems.com/280) | 🟢 Cambie (2025) | Aristotle | 18 Apr, 2026
 | [[281]](https://www.erdosproblems.com/281) | 🟢 GPT-5.2 Pro (2026) | Aristotle, Gemini 3 Flash | 19 Jan, 2026
 | [[283]](https://www.erdosproblems.com/283) | 🟡 van Doorn (2025) | Aristotle | 28 Mar, 2026
 | [[283]](https://www.erdosproblems.com/283) | 🟢 Barreto, GPT-5.5 Pro, and Price (2026) | Claude Opus 4.7, GPT-5.5 Pro | 6 May, 2026
 | [[290]](https://www.erdosproblems.com/290) | 🟢 van Doorn (2024) | Aristotle | 14 Jan, 2026
-| [[296]](https://www.erdosproblems.com/296) | 🟢 Hunter and Sawhney | Aristotle | 22 Apr, 2026
+| [[296]](https://www.erdosproblems.com/296) | 🟢 Hunter and Sawhney | Aristotle | 22 Apr-26 May, 2026
 | [[303]](https://www.erdosproblems.com/303) | 🟢 Brown and Rödl (1991) | Seed Prover | 21 Dec, 2025
 | [[314]](https://www.erdosproblems.com/314) | 🟢 Lim and Steinerberger (2024) | Aristotle | 1 Apr, 2026
 | [[315]](https://www.erdosproblems.com/315) | 🟢 Kamio (2025) | Aristotle | 31 Jan, 2026
