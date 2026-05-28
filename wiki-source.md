@@ -224,6 +224,7 @@ Sorted by the author's last name alphabetically.
 | [[12]](https://www.erdosproblems.com/12) | Nat Sothanaphan, Terence Tao | GPT-5.4 Thinking | 7 Apr, 2026 | 🟡 Partial result
 | [[25]](https://www.erdosproblems.com/25) | Przemek Chojecki | GPT-5.4 Pro | 19 Mar, 2026 | 🟡 Partial result
 | [[42]](https://www.erdosproblems.com/42) | Harjas Sandhu | GPT-5.5 Pro | 27 Apr, 2026 | 🟢 Full solution
+| [[52]](https://www.erdosproblems.com/52) | Thomas Bloom, Will Sawin, Carl Schildkraut, Dmitrii Zhelezov | GPT-5.5 Pro | 28 May, 2026 | 🟡 Solution to variant problem
 | [[138]](https://www.erdosproblems.com/138) | Nat Sothanaphan | GPT-5.4 Thinking | 10 Apr, 2026 | 🟡 Partial result of variant problem
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution
 | [[202]](https://www.erdosproblems.com/202) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
@@ -251,6 +252,7 @@ Sorted by the author's last name alphabetically.
 | [[415]](https://www.erdosproblems.com/415) | Przemek Chojecki | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result
 | [[423]](https://www.erdosproblems.com/423) | Quanyu Tang, Nat Sothanaphan | GPT-5.2 Thinking, GPT-5.4 Thinking | 11-12 Mar, 2026 | 🟡 Partial result
 | [[451]](https://www.erdosproblems.com/451) | Quanyu Tang | GPT-5.5 Pro | 26 Apr, 2026 | ⚪ Candidate partial result
+| [[456]](https://www.erdosproblems.com/456) | David Turturean | GPT-5.5 Pro | 4 May, 2026 | ⚪ Candidate partial result (solutions to first part and second part; conditional solution to third part)
 | [[460]](https://www.erdosproblems.com/460) | Przemek Chojecki | GPT-5.2 | 13 Jan, 2026 | 🟡 Reduction to a simpler problem
 | [[488]](https://www.erdosproblems.com/488) | Przemek Chojecki | Aristotle, GPT-5.4 | 20 Mar, 2026 | 🟡 Partial result
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🔴 Argument with major gaps made
@@ -258,7 +260,7 @@ Sorted by the author's last name alphabetically.
 | [[514]](https://www.erdosproblems.com/514) | Yuta Oriike | GPT-5.5 Pro | 28 Apr, 2026 | 🟡 Partial result (Lean)
 | [[521]](https://www.erdosproblems.com/521) | Vjeko Kovac | GPT-5.5 Pro | 25 Apr, 2026 | 🟡 Solution to variant problem
 | [[524]](https://www.erdosproblems.com/524) | Brayden Letwin, Mehtaab Sawhney | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
-| [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | 🟡 Partial result (implicit in literature)
+| [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | 🟡 Partial result (implicit in literature)
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | ⚪ Candidate partial result
 | [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
 | [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean) (implicit in literature)
@@ -287,7 +289,7 @@ Sorted by the author's last name alphabetically.
 | [[873]](https://www.erdosproblems.com/873) | Ritvik Nayak | GPT-5.4 Thinking | 29 Apr, 2026 | ⚪ Candidate partial result
 | [[873]](https://www.erdosproblems.com/873) | Ingo Althöfer | GPT-5.5 Thinking | 30 Apr, 2026 | ⚪ Candidate partial result
 | [[875]](https://www.erdosproblems.com/875) | Lech Mazur | Codex, GPT-5.5 Pro | 7 May, 2026 | 🟡 Partial result (Lean)
-| [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | ⚪ Candidate full solution
+| [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
 | [[896]](https://www.erdosproblems.com/896) | Przemek Chojecki | GPT-5.5 Pro | 26 Apr, 2026 | ⚪ Candidate full solution
 | [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | ⚪ Candidate full solution
 | [[931]](https://www.erdosproblems.com/931) | MalekZ | Claude, GPT-5.4 | 12-15 Mar, 2026 | 🟡 Partial result
@@ -307,7 +309,7 @@ Sorted by the author's last name alphabetically.
 | [[1095]](https://www.erdosproblems.com/1095) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 Pro | 13 Mar, 2026 | 🟡 Partial result
 | [[1132]](https://www.erdosproblems.com/1132) | Terence Tao | AlphaEvolve, Claude, Gemini Pro, GPT-5.4 Pro | 2 Feb-24 Mar, 2026 | 🟡 Partial result
 | [[1133]](https://www.erdosproblems.com/1133) | Przemek Chojecki | GPT-5.5 Pro | 29 Apr, 2026 | ⚪ Candidate full solution
-| [[1138]](https://www.erdosproblems.com/1138) | Kireet Cheri, Sourish Kumrawat, and Hrishi Sunder | GPT-5.5 Pro, GPT-5.5 Thinking | 25 Apr, 2026 | 🟢 Full solution
+| [[1138]](https://www.erdosproblems.com/1138) | Kireet Cheri, Sourish Kumrawat, Hrishi Sunder | GPT-5.5 Pro, GPT-5.5 Thinking | 25 Apr, 2026 | 🟢 Full solution
 | [[1141]](https://www.erdosproblems.com/1141) | Quanyu Tang | GPT-5.2 Pro, GPT-5.2 Thinking | 25 Jan, 2026 | 🟡 Partial result of variant problem
 | [[1143]](https://www.erdosproblems.com/1143) | Przemek Chojecki | GPT-5.5 Pro | 29 Apr, 2026 | 🟡 Partial result (implicit in literature)
 | [[1148]](https://www.erdosproblems.com/1148) | Ingo Althöfer, Przemek Chojecki, Wouter van Doorn | Gemini 3 Pro, Gemini 3.1 Pro, GPT-5.2 Pro, GPT-5.2 Thinking, GPT-5.4 Pro | 24 Jan-16 Mar, 2026 | 🟢 Full solution
