@@ -435,6 +435,7 @@ Sorted by the author's last name alphabetically.
 | [[43]](https://www.erdosproblems.com/43) | 🟡 Barreto (2025) | Aristotle, Claude | 21 Dec, 2025
 | [[56]](https://www.erdosproblems.com/56) | 🟢 Ahlswede and Khachatrian (1995) | Aristotle, GPT | 25 Nov, 2025-27 May, 2026
 | [[71]](https://www.erdosproblems.com/71) | 🟢 Bollobás (1977) | Aristotle, Claude Opus 4.7, GPT-5.5 | 24 May, 2026
+| [[90]](https://www.erdosproblems.com/90) | 🟢 OpenAI internal model (2026) | Aleph Prover | 28 May, 2026
 | [[93]](https://www.erdosproblems.com/93) | 🟢 Altman (1963) | Aristotle, Claude Opus 4.5, Claude Opus 4.6, Gemini 3 Flash, Gemini 3 Pro, Numina Lean Agent | 17 Feb, 2026
 | [[94]](https://www.erdosproblems.com/94) | 🟢 Lefmann and Thiele (1995) | Codex, GPT-5.2 Thinking; Seed Prover | 15 Jan, 2026
 | [[105]](https://www.erdosproblems.com/105) | 🟢 Xichuan (2025) | Aristotle, GPT Pro | 17 Nov, 2025
