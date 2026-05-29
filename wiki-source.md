@@ -263,6 +263,7 @@ Sorted by the author's last name alphabetically.
 | [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result
 | [[514]](https://www.erdosproblems.com/514) | Yuta Oriike | GPT-5.5 Pro | 28 Apr, 2026 | 🟡 Partial result (Lean)
 | [[521]](https://www.erdosproblems.com/521) | Vjekoslav Kovač | GPT-5.5 Pro | 25 Apr, 2026 | 🟡 Solution to variant problem
+| [[521]](https://www.erdosproblems.com/521) | Vjekoslav Kovač | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
 | [[524]](https://www.erdosproblems.com/524) | Brayden Letwin, Mehtaab Sawhney | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
 | [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | 🟡 Partial result (implicit in literature)
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | ⚪ Candidate partial result
