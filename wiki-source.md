@@ -258,10 +258,11 @@ Sorted by the author's last name alphabetically.
 | [[456]](https://www.erdosproblems.com/456) | David Turturean | GPT-5.5 Pro | 4 May, 2026 | ⚪ Candidate partial result (solutions to first part and second part; conditional solution to third part)
 | [[460]](https://www.erdosproblems.com/460) | Przemek Chojecki | GPT-5.2 | 13 Jan, 2026 | 🟡 Reduction to a simpler problem
 | [[488]](https://www.erdosproblems.com/488) | Przemek Chojecki | Aristotle, GPT-5.4 | 20 Mar, 2026 | 🟡 Partial result
+| [[501]](https://www.erdosproblems.com/501) | Sungchul Lee | GPT-5.5 Pro | 29 May, 2026 | ⚪ Candidate conditional partial result (conditional solution to first part)
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | 🔴 Argument with major gaps made
 | [[503]](https://www.erdosproblems.com/503) | Przemek Chojecki, Junnosuke Koizumi, RealBelgian | GPT-5.5 Pro | 27-28 May, 2026 | 🟡 Partial result
-| [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result
-| [[514]](https://www.erdosproblems.com/514) | Yuta Oriike | GPT-5.5 Pro | 28 Apr, 2026 | 🟡 Partial result (Lean)
+| [[514]](https://www.erdosproblems.com/514) | Przemek Chojecki | GPT-5.4 Pro | 20 Apr, 2026 | 🟡 Partial result (solutions to first part and second part)
+| [[514]](https://www.erdosproblems.com/514) | Yuta Oriike | GPT-5.5 Pro | 28 Apr, 2026 | 🟡 Partial result (Lean) (solution to third part)
 | [[521]](https://www.erdosproblems.com/521) | Vjekoslav Kovač | GPT-5.5 Pro | 25 Apr, 2026 | 🟡 Solution to variant problem
 | [[521]](https://www.erdosproblems.com/521) | Vjekoslav Kovač | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
 | [[524]](https://www.erdosproblems.com/524) | Brayden Letwin, Mehtaab Sawhney | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
