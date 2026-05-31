@@ -296,7 +296,7 @@ Sorted by the author's last name alphabetically.
 | [[873]](https://www.erdosproblems.com/873) | Ingo Althöfer | GPT-5.5 Thinking | 30 Apr, 2026 | ⚪ Candidate partial result
 | [[875]](https://www.erdosproblems.com/875) | Lech Mazur | Codex, GPT-5.5 Pro | 7 May, 2026 | 🟡 Partial result (Lean)
 | [[888]](https://www.erdosproblems.com/888) | Przemek Chojecki | Aristotle, GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
-| [[896]](https://www.erdosproblems.com/896) | Przemek Chojecki | GPT-5.5 Pro | 26 Apr, 2026 | ⚪ Candidate full solution
+| [[896]](https://www.erdosproblems.com/896) | Przemek Chojecki | GPT-5.5 Pro | 26 Apr, 2026 | 🟢 Full solution
 | [[906]](https://www.erdosproblems.com/906) | Adriano Almeida | Unspecified | 25 Apr, 2026 | ⚪ Candidate full solution
 | [[931]](https://www.erdosproblems.com/931) | MalekZ | Claude, GPT-5.4 | 12-15 Mar, 2026 | 🟡 Partial result
 | [[943]](https://www.erdosproblems.com/943) | Przemek Chojecki | GPT-5.4 Pro | 3 Feb-18 Mar, 2026 | 🟡 Partial result

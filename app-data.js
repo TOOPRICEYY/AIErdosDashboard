@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-29T21:54:02.326Z",
+    "generatedAt": "2026-05-31T15:42:45.744Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 492,
@@ -8803,21 +8803,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Przemek Chojecki",
       "humansLabel": "Przemek Chojecki",
       "dateRaw": "26 Apr, 2026",
-      "descriptionRaw": "⚪ Candidate full solution",
-      "descriptionLabel": "⚪ Candidate full solution",
+      "descriptionRaw": "🟢 Full solution",
+      "descriptionLabel": "🟢 Full solution",
       "fieldsRaw": {
         "Problem": "[[896]](https://www.erdosproblems.com/896)",
         "Humans": "Przemek Chojecki",
         "AI systems": "GPT-5.5 Pro",
         "Date": "26 Apr, 2026",
-        "Outcome": "⚪ Candidate full solution"
+        "Outcome": "🟢 Full solution"
       },
       "fieldsPlain": {
         "Problem": "896",
         "Humans": "Przemek Chojecki",
         "AI systems": "GPT-5.5 Pro",
         "Date": "26 Apr, 2026",
-        "Outcome": "⚪ Candidate full solution"
+        "Outcome": "🟢 Full solution"
       }
     },
     {
