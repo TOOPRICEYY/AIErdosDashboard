@@ -289,7 +289,7 @@ Sorted by the author's last name alphabetically.
 | [[858]](https://www.erdosproblems.com/858) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | 🟢 Full solution
 | [[863]](https://www.erdosproblems.com/863) | Boon Suan Ho | GPT-5.4 Pro | 22 Apr, 2026 | 🟢 Full solution
 | [[866]](https://www.erdosproblems.com/866) | Wouter van Doorn | Aristotle, GPT-5.3 Instant | 4 May, 2026 | 🟡 Partial result (Lean)
-| [[870]](https://www.erdosproblems.com/870) | David Turturean | GPT-5.4 Pro, GPT-5.5 Pro | 24 Apr, 2026 | ⚪ Candidate full solution
+| [[870]](https://www.erdosproblems.com/870) | David Turturean | GPT-5.4 Pro, GPT-5.5 Pro | 24 Apr-May 2, 2026 | ⚪ Candidate full solution
 | [[872]](https://www.erdosproblems.com/872) | Om_Buddhdev_sensho | GPT-5.4 Pro | 16 Apr, 2026 | 🟡 Partial result
 | [[872]](https://www.erdosproblems.com/872) | Jonas Silva | GPT-5.5 Pro | 29 Apr, 2026 | ⚪ Candidate partial result
 | [[873]](https://www.erdosproblems.com/873) | Ritvik Nayak | GPT-5.4 Thinking | 29 Apr, 2026 | ⚪ Candidate partial result

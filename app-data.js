@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-31T16:40:32.182Z",
+    "generatedAt": "2026-05-31T17:38:34.894Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 493,
@@ -8515,21 +8515,21 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "GPT-5.4 Pro, GPT-5.5 Pro",
       "humansRaw": "David Turturean",
       "humansLabel": "David Turturean",
-      "dateRaw": "24 Apr, 2026",
+      "dateRaw": "24 Apr-May 2, 2026",
       "descriptionRaw": "⚪ Candidate full solution",
       "descriptionLabel": "⚪ Candidate full solution",
       "fieldsRaw": {
         "Problem": "[[870]](https://www.erdosproblems.com/870)",
         "Humans": "David Turturean",
         "AI systems": "GPT-5.4 Pro, GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
+        "Date": "24 Apr-May 2, 2026",
         "Outcome": "⚪ Candidate full solution"
       },
       "fieldsPlain": {
         "Problem": "870",
         "Humans": "David Turturean",
         "AI systems": "GPT-5.4 Pro, GPT-5.5 Pro",
-        "Date": "24 Apr, 2026",
+        "Date": "24 Apr-May 2, 2026",
         "Outcome": "⚪ Candidate full solution"
       }
     },
