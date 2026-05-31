@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-31T18:41:20.519Z",
+    "generatedAt": "2026-05-31T19:44:03.118Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 494,
@@ -2193,19 +2193,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "27 Apr, 2026",
-      "descriptionRaw": "⚪ Candidate partial result",
-      "descriptionLabel": "⚪ Candidate partial result",
+      "descriptionRaw": "⚪ Candidate partial result (solution to second part)",
+      "descriptionLabel": "⚪ Candidate partial result (solution to second part)",
       "fieldsRaw": {
         "Problem": "[[836]](https://www.erdosproblems.com/836)",
         "AI systems": "GPT-5.5 Pro",
         "Date": "27 Apr, 2026",
-        "Outcome": "⚪ Candidate partial result"
+        "Outcome": "⚪ Candidate partial result (solution to second part)"
       },
       "fieldsPlain": {
         "Problem": "836",
         "AI systems": "GPT-5.5 Pro",
         "Date": "27 Apr, 2026",
-        "Outcome": "⚪ Candidate partial result"
+        "Outcome": "⚪ Candidate partial result (solution to second part)"
       }
     },
     {

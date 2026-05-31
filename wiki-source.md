@@ -109,7 +109,7 @@ Sorted by the author's last name alphabetically.
 | [[741]](https://www.erdosproblems.com/741) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result (solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution (Lean)
 | [[783]](https://www.erdosproblems.com/783) | GPT-5.2 | 23 Jan, 2026 | 🟡 Partial result
-| [[836]](https://www.erdosproblems.com/836) | GPT-5.5 Pro | 27 Apr, 2026 | ⚪ Candidate partial result
+| [[836]](https://www.erdosproblems.com/836) | GPT-5.5 Pro | 27 Apr, 2026 | ⚪ Candidate partial result (solution to second part)
 | [[872]](https://www.erdosproblems.com/872) | GPT-5.2 Pro | 16 Feb, 2026 | 🟡 Partial result
 | [[888]](https://www.erdosproblems.com/888) | Claude Opus 4.5, Gemini 3 Pro, GPT-5.2 Thinking | 18 Jan, 2026 | 🔴 Incorrect proof found
 | [[949]](https://www.erdosproblems.com/949) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
