@@ -278,7 +278,7 @@ Sorted by the author's last name alphabetically.
 | [[690]](https://www.erdosproblems.com/690) | Davide Crapis, Shouqiao Wang | Multiscalar Fields System | 8 May, 2026 | 🟢 Full solution
 | [[696]](https://www.erdosproblems.com/696) | David Turturean | Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-1 May, 2026 | 🟢 Full solution (Lean)
 | [[749]](https://www.erdosproblems.com/749) | Aron Bhalla | GPT-5.4 Thinking | 4-6 Apr, 2026 | 🟡 Partial result; 🟡 Solution to variant problem
-| [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | ⚪ Candidate full solution
+| [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[776]](https://www.erdosproblems.com/776) | Yixin He, Quanyu Tang | GPT-5.2 Thinking | 11 Feb, 2026 | 🟡 Partial result
 | [[819]](https://www.erdosproblems.com/819) | Yu Leon Liu | GPT-5.5, Rethlas | 15 May, 2026 | ⚪ Candidate partial result
 | [[848]](https://www.erdosproblems.com/848) | MalekZ | Claude Opus 4.6, GPT-5.4 | 12-15 Mar, 2026 | 🔴 Incorrect proof found
@@ -540,6 +540,7 @@ Sorted by the author's last name alphabetically.
 | [[698]](https://www.erdosproblems.com/698) | 🟢 Bergman (2011) | Aristotle | 16 Jan, 2026
 | [[707]](https://www.erdosproblems.com/707) | 🟢 Hall (1947) | GPT | 23 Nov, 2025
 | [[728]](https://www.erdosproblems.com/728) | 🟢 Pomerance (2026) | Aristotle | 22 Jan, 2026
+| [[750]](https://www.erdosproblems.com/750) | 🟢 Chojecki and GPT-5.5 Pro (2026) | Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 4 May, 2026
 | [[751]](https://www.erdosproblems.com/751) | 🟢 Bondy and Vince (1998) | GPT-5.2-Codex, GPT-5.2 Thinking | 27 Jan, 2026
 | [[753]](https://www.erdosproblems.com/753) | 🟢 Alon (1992) | Aristotle | 14 Apr, 2026
 | [[756]](https://www.erdosproblems.com/756) | 🟢 Bhowmick (2024) | Aristotle | 15 Mar, 2026
