@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-01T14:23:16.590Z",
+    "generatedAt": "2026-06-01T17:03:41.273Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 493,
@@ -1920,19 +1920,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "1 Feb, 2026",
-      "descriptionRaw": "🟡 Solution to one formulation of problem",
-      "descriptionLabel": "🟡 Solution to one formulation of problem",
+      "descriptionRaw": "🟡 Partial result",
+      "descriptionLabel": "🟡 Partial result",
       "fieldsRaw": {
         "Problem": "[[654]](https://www.erdosproblems.com/654)",
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
-        "Outcome": "🟡 Solution to one formulation of problem"
+        "Outcome": "🟡 Partial result"
       },
       "fieldsPlain": {
         "Problem": "654",
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
-        "Outcome": "🟡 Solution to one formulation of problem"
+        "Outcome": "🟡 Partial result"
       }
     },
     {
@@ -2349,19 +2349,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "27 Jan, 2026",
-      "descriptionRaw": "🟡 Solution to one formulation of problem",
-      "descriptionLabel": "🟡 Solution to one formulation of problem",
+      "descriptionRaw": "🟡 Solution to variant problem",
+      "descriptionLabel": "🟡 Solution to variant problem",
       "fieldsRaw": {
         "Problem": "[[951]](https://www.erdosproblems.com/951)",
         "AI systems": "GPT-5.2 Pro",
         "Date": "27 Jan, 2026",
-        "Outcome": "🟡 Solution to one formulation of problem"
+        "Outcome": "🟡 Solution to variant problem"
       },
       "fieldsPlain": {
         "Problem": "951",
         "AI systems": "GPT-5.2 Pro",
         "Date": "27 Jan, 2026",
-        "Outcome": "🟡 Solution to one formulation of problem"
+        "Outcome": "🟡 Solution to variant problem"
       }
     },
     {
@@ -4453,21 +4453,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "18 Dec, 2025",
-      "descriptionRaw": "🟡 New proof of partial result (Lean); no progress on remaining open problems",
-      "descriptionLabel": "🟡 New proof of partial result (Lean); no progress on remaining open problems",
+      "descriptionRaw": "🟡 New proof of partial result (Lean)",
+      "descriptionLabel": "🟡 New proof of partial result (Lean)",
       "fieldsRaw": {
         "Problem": "[[264]](https://www.erdosproblems.com/264)",
         "AI systems": "Aristotle",
         "Date": "18 Dec, 2025",
         "Literature": "🟡 Kovač and Tao (2024)",
-        "Outcome": "🟡 New proof of partial result (Lean); no progress on remaining open problems"
+        "Outcome": "🟡 New proof of partial result (Lean)"
       },
       "fieldsPlain": {
         "Problem": "264",
         "AI systems": "Aristotle",
         "Date": "18 Dec, 2025",
         "Literature": "🟡 Kovač and Tao (2024)",
-        "Outcome": "🟡 New proof of partial result (Lean); no progress on remaining open problems"
+        "Outcome": "🟡 New proof of partial result (Lean)"
       }
     },
     {
@@ -5068,21 +5068,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "28 Jan, 2026",
-      "descriptionRaw": "🟡 New solution to one formulation of problem",
-      "descriptionLabel": "🟡 New solution to one formulation of problem",
+      "descriptionRaw": "🟡 New solution to variant problem",
+      "descriptionLabel": "🟡 New solution to variant problem",
       "fieldsRaw": {
         "Problem": "[[951]](https://www.erdosproblems.com/951)",
         "AI systems": "AlphaEvolve",
         "Date": "28 Jan, 2026",
-        "Literature": "🟡 Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to one formulation of problem)",
-        "Outcome": "🟡 New solution to one formulation of problem"
+        "Literature": "🟡 Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to variant problem)",
+        "Outcome": "🟡 New solution to variant problem"
       },
       "fieldsPlain": {
         "Problem": "951",
         "AI systems": "AlphaEvolve",
         "Date": "28 Jan, 2026",
-        "Literature": "🟡 Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to one formulation of problem)",
-        "Outcome": "🟡 New solution to one formulation of problem"
+        "Literature": "🟡 Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to variant problem)",
+        "Outcome": "🟡 New solution to variant problem"
       }
     },
     {
@@ -6872,21 +6872,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Boris Alexeev, Kevin Barreto, Liam Price, Nat Sothanaphan",
       "humansLabel": "Boris Alexeev, Kevin Barreto, Liam Price, Nat Sothanaphan",
       "dateRaw": "10-11 Jan, 2026",
-      "descriptionRaw": "🟢 Counterexample to alternate formulation; full solution to revised formulation (Lean)",
-      "descriptionLabel": "🟢 Counterexample to alternate formulation; full solution to revised formulation (Lean)",
+      "descriptionRaw": "🟢 Full solution (Lean); solution to variant problem",
+      "descriptionLabel": "🟢 Full solution (Lean); solution to variant problem",
       "fieldsRaw": {
         "Problem": "[[401]](https://www.erdosproblems.com/401)",
         "Humans": "Boris Alexeev, Kevin Barreto, Liam Price, Nat Sothanaphan",
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "10-11 Jan, 2026",
-        "Outcome": "🟢 Counterexample to alternate formulation; full solution to revised formulation (Lean)"
+        "Outcome": "🟢 Full solution (Lean); solution to variant problem"
       },
       "fieldsPlain": {
         "Problem": "401",
         "Humans": "Boris Alexeev, Kevin Barreto, Liam Price, Nat Sothanaphan",
         "AI systems": "Aristotle, GPT-5.2 Pro",
         "Date": "10-11 Jan, 2026",
-        "Outcome": "🟢 Counterexample to alternate formulation; full solution to revised formulation (Lean)"
+        "Outcome": "🟢 Full solution (Lean); solution to variant problem"
       }
     },
     {
@@ -7199,21 +7199,21 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "GPT-5.5 Pro",
       "humansRaw": "Sungchul Lee",
       "humansLabel": "Sungchul Lee",
-      "dateRaw": "29 May, 2026",
+      "dateRaw": "29 May-1 Jun, 2026",
       "descriptionRaw": "⚪ Candidate conditional partial result (conditional solution to first part)",
       "descriptionLabel": "⚪ Candidate conditional partial result (conditional solution to first part)",
       "fieldsRaw": {
         "Problem": "[[501]](https://www.erdosproblems.com/501)",
         "Humans": "Sungchul Lee",
         "AI systems": "GPT-5.5 Pro",
-        "Date": "29 May, 2026",
+        "Date": "29 May-1 Jun, 2026",
         "Outcome": "⚪ Candidate conditional partial result (conditional solution to first part)"
       },
       "fieldsPlain": {
         "Problem": "501",
         "Humans": "Sungchul Lee",
         "AI systems": "GPT-5.5 Pro",
-        "Date": "29 May, 2026",
+        "Date": "29 May-1 Jun, 2026",
         "Outcome": "⚪ Candidate conditional partial result (conditional solution to first part)"
       }
     },
@@ -9127,21 +9127,21 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "Nat Sothanaphan",
       "humansLabel": "Nat Sothanaphan",
       "dateRaw": "28 Jan, 2026",
-      "descriptionRaw": "🟡 New solution to one formulation of problem",
-      "descriptionLabel": "🟡 New solution to one formulation of problem",
+      "descriptionRaw": "🟡 New solution to variant problem",
+      "descriptionLabel": "🟡 New solution to variant problem",
       "fieldsRaw": {
         "Problem": "[[951]](https://www.erdosproblems.com/951)",
         "Humans": "Nat Sothanaphan",
         "AI systems": "GPT-5.2 Thinking",
         "Date": "28 Jan, 2026",
-        "Outcome": "🟡 New solution to one formulation of problem"
+        "Outcome": "🟡 New solution to variant problem"
       },
       "fieldsPlain": {
         "Problem": "951",
         "Humans": "Nat Sothanaphan",
         "AI systems": "GPT-5.2 Thinking",
         "Date": "28 Jan, 2026",
-        "Outcome": "🟡 New solution to one formulation of problem"
+        "Outcome": "🟡 New solution to variant problem"
       }
     },
     {
@@ -17329,20 +17329,20 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Aristotle, GPT",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "7 Feb, 2026",
+      "dateRaw": "7 Feb-1 Jun, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[649]](https://www.erdosproblems.com/649)",
         "Proof to formalize": "🟢 Tong; Sampaio",
         "AI systems": "Aristotle, GPT",
-        "Date": "7 Feb, 2026"
+        "Date": "7 Feb-1 Jun, 2026"
       },
       "fieldsPlain": {
         "Problem": "649",
         "Proof to formalize": "🟢 Tong; Sampaio",
         "AI systems": "Aristotle, GPT",
-        "Date": "7 Feb, 2026"
+        "Date": "7 Feb-1 Jun, 2026"
       }
     },
     {
