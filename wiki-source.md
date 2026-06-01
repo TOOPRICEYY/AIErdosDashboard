@@ -86,7 +86,7 @@ Sorted by the author's last name alphabetically.
 | [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
 | [[42]](https://www.erdosproblems.com/42) | Codex, GPT-5.2, GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Partial result (Lean)
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
-| [[75]](https://www.erdosproblems.com/75) | Aletheia | 1 Feb, 2026 | 🟡 Solution (using prior literature) to previous formulation of problem
+| [[75]](https://www.erdosproblems.com/75) | Aletheia | 1 Feb, 2026 | 🟡 Solution to variant problem (implicit in literature)
 | [[90]](https://www.erdosproblems.com/90) | OpenAI internal model | 20 May, 2026 | 🟢 Full solution
 | [[90]](https://www.erdosproblems.com/90) | Claude Mythos | 26 May, 2026 | 🟢 Full solution
 | [[124]](https://www.erdosproblems.com/124) | Aristotle | 29 Nov, 2025 | 🟡 Partial result (Lean)
@@ -161,9 +161,8 @@ Sorted by the author's last name alphabetically.
 | [[935]](https://www.erdosproblems.com/935) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one part of problem | 🟡 van Doorn (2025) (solution to one part of [367]) | 2 Feb, 2026 | Yes
 | [[983]](https://www.erdosproblems.com/983) | GPT-5.5 Pro | 30 Apr, 2026 | 🟡 Partial result (solution to first part) | 🟡 Erdős (1970) | 19 May, 2026 | Yes
 | [[997]](https://www.erdosproblems.com/997) | OpenAI internal model | 31 Mar, 2026 | 🟢 Full solution | 🟡 Benatar (2014) | 1 Apr, 2026 | Yes
-| [[1026]](https://www.erdosproblems.com/1026) | Aristotle | 7 Dec, 2025  | 🟢 Full solution (Lean) | 🟢 Tidor, Wang, and Yang (2016) | 8 Dec, 2025 | Only after applying an argument from Seidenberg (1959) 
-| [[1077]](https://www.erdosproblems.com/1077) | Aristotle | 24 Dec, 2025 | 🟡 Trivial counterexample to previous formulation of problem (Lean) | 🟢 Jiang and Longbrake (2025) | 28 Dec, 2025 | No
-| [[1082]](https://www.erdosproblems.com/1082) | DeepMind prover agent | 14 Feb, 2026 | 🟡 Counterexample to one part (Lean) | 🟡 Fishburn (2002) | 25 Feb, 2026 | Yes 
+| [[1026]](https://www.erdosproblems.com/1026) | Aristotle | 7 Dec, 2025  | 🟢 Full solution (Lean) | 🟢 Tidor, Wang, and Yang (2016) | 8 Dec, 2025 | Only after applying an argument from Seidenberg (1959)
+| [[1082]](https://www.erdosproblems.com/1082) | DeepMind prover agent | 14 Feb, 2026 | 🟡 Counterexample to one part (Lean) | 🟡 Fishburn (2002) | 25 Feb, 2026 | Yes
 | [[1089]](https://www.erdosproblems.com/1089) | Aletheia | 1 Feb, 2026 | 🟢 Full solution found | 🟢 Bannai and Bannai (1981) | 1 Feb, 2026 | Yes
 
 <a id="sect-1c"></a>

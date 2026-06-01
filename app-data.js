@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-05-31T19:44:03.118Z",
+    "generatedAt": "2026-06-01T14:23:16.590Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 494,
+    "recordCount": 493,
     "sectionCount": 8
   },
   "sections": [
@@ -36,7 +36,7 @@ window.ERDOS_AI_DATA = {
         "Literature found on",
         "Similar?"
       ],
-      "rowCount": 24
+      "rowCount": 23
     },
     {
       "title": "1(c). AI building on literature",
@@ -1296,19 +1296,19 @@ window.ERDOS_AI_DATA = {
       "humansRaw": "",
       "humansLabel": "",
       "dateRaw": "1 Feb, 2026",
-      "descriptionRaw": "🟡 Solution (using prior literature) to previous formulation of problem",
-      "descriptionLabel": "🟡 Solution (using prior literature) to previous formulation of problem",
+      "descriptionRaw": "🟡 Solution to variant problem (implicit in literature)",
+      "descriptionLabel": "🟡 Solution to variant problem (implicit in literature)",
       "fieldsRaw": {
         "Problem": "[[75]](https://www.erdosproblems.com/75)",
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
-        "Outcome": "🟡 Solution (using prior literature) to previous formulation of problem"
+        "Outcome": "🟡 Solution to variant problem (implicit in literature)"
       },
       "fieldsPlain": {
         "Problem": "75",
         "AI systems": "Aletheia",
         "Date": "1 Feb, 2026",
-        "Outcome": "🟡 Solution (using prior literature) to previous formulation of problem"
+        "Outcome": "🟡 Solution to variant problem (implicit in literature)"
       }
     },
     {
@@ -4019,51 +4019,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1b",
       "subsectionOrder": 2,
       "rowOrder": 22,
-      "problemRaw": "[[1077]](https://www.erdosproblems.com/1077)",
-      "problemLabel": "1077",
-      "problemIds": [
-        1077
-      ],
-      "problemLinks": [
-        {
-          "label": "1077",
-          "url": "https://www.erdosproblems.com/1077"
-        }
-      ],
-      "aiSystemsRaw": "Aristotle",
-      "aiSystemsLabel": "Aristotle",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "24 Dec, 2025",
-      "descriptionRaw": "🟡 Trivial counterexample to previous formulation of problem (Lean)",
-      "descriptionLabel": "🟡 Trivial counterexample to previous formulation of problem (Lean)",
-      "fieldsRaw": {
-        "Problem": "[[1077]](https://www.erdosproblems.com/1077)",
-        "AI systems": "Aristotle",
-        "Date": "24 Dec, 2025",
-        "Outcome": "🟡 Trivial counterexample to previous formulation of problem (Lean)",
-        "Literature": "🟢 Jiang and Longbrake (2025)",
-        "Literature found on": "28 Dec, 2025",
-        "Similar?": "No"
-      },
-      "fieldsPlain": {
-        "Problem": "1077",
-        "AI systems": "Aristotle",
-        "Date": "24 Dec, 2025",
-        "Outcome": "🟡 Trivial counterexample to previous formulation of problem (Lean)",
-        "Literature": "🟢 Jiang and Longbrake (2025)",
-        "Literature found on": "28 Dec, 2025",
-        "Similar?": "No"
-      }
-    },
-    {
-      "id": "sect-1b-023",
-      "majorSection": "1. Primary contributions",
-      "majorAnchor": "sect-1",
-      "subsection": "1(b). AI alongside literature",
-      "subsectionAnchor": "sect-1b",
-      "subsectionOrder": 2,
-      "rowOrder": 23,
       "problemRaw": "[[1082]](https://www.erdosproblems.com/1082)",
       "problemLabel": "1082",
       "problemIds": [
@@ -4102,13 +4057,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-1b-024",
+      "id": "sect-1b-023",
       "majorSection": "1. Primary contributions",
       "majorAnchor": "sect-1",
       "subsection": "1(b). AI alongside literature",
       "subsectionAnchor": "sect-1b",
       "subsectionOrder": 2,
-      "rowOrder": 24,
+      "rowOrder": 23,
       "problemRaw": "[[1089]](https://www.erdosproblems.com/1089)",
       "problemLabel": "1089",
       "problemIds": [
