@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 
 const WIKI_RAW_URL =
   "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md";
@@ -140,7 +141,7 @@ const baseReleaseCatalog = [
     sourceLabel: "DeepSeek",
     sourceUrl: "https://api-docs.deepseek.com/news/news250120",
     notes: "Mapped to the public DeepSeek-R1 release as the nearest public 'deep thinking' mode.",
-    patterns: ["\\bDeepSeek Deepthinking\\b"],
+    patterns: ["\\bDeepSeek Deep ?[Tt]hink(?:ing)?\\b"],
   },
   {
     id: "alphaevolve",
@@ -193,7 +194,7 @@ const baseReleaseCatalog = [
     sourceLabel: "OpenAI",
     sourceUrl: "https://openai.com/index/introducing-gpt-5/",
     notes: "Main GPT-5 launch page.",
-    patterns: ["\\bGPT-5(?!\\.[234]|-Codex)\\b"],
+    patterns: ["\\bGPT-5(?!\\.\\d|-Codex)\\b"],
   },
   {
     id: "claude-sonnet-4.5",
@@ -394,6 +395,160 @@ const baseReleaseCatalog = [
 function splitTableRow(line) {
   const normalized = line.trim().replace(/^\|/, "").replace(/\|$/, "");
   return normalized.split("|").map((cell) => cell.trim());
+}
+
+const SECTION_DEFINITIONS = [
+  {
+    title: "1. Primary contributions",
+    anchor: "sect-1",
+    subsections: [
+      { title: "1(a). AI standalone", anchor: "sect-1a" },
+      { title: "1(b). AI alongside literature", anchor: "sect-1b" },
+      { title: "1(c). AI building on literature", anchor: "sect-1c" },
+      { title: "1(d). AI collaborating with humans", anchor: "sect-1d" },
+    ],
+  },
+  {
+    title: "2. Secondary contributions",
+    anchor: "sect-2",
+    subsections: [
+      { title: "2(a). Literature search", anchor: "sect-2a" },
+      { title: "2(b). Formalization", anchor: "sect-2b" },
+      { title: "2(c). Rewriting", anchor: "sect-2c" },
+      { title: "2(d). Computation", anchor: "sect-2d" },
+      { title: "2(e). Computation", anchor: "sect-2e" },
+    ],
+  },
+  {
+    title: "3. Pending assessment",
+    anchor: "sect-3",
+    subsections: [{ title: "3. Pending assessment", anchor: "sect-3" }],
+  },
+];
+
+const ALL_KNOWN_HEADINGS = SECTION_DEFINITIONS.flatMap((major) => [
+  { title: major.title, anchor: major.anchor, level: 2, major },
+  ...major.subsections.map((subsection) => ({
+    title: subsection.title,
+    anchor: subsection.anchor,
+    level: 3,
+    major,
+  })),
+]);
+
+function findHeadingPositions(markdown) {
+  return ALL_KNOWN_HEADINGS.flatMap((heading) => {
+    const regex = new RegExp(`#{2,3}\\s+${escapeRegExp(heading.title)}(?=$|\\s)`, "gi");
+    return [...markdown.matchAll(regex)].map((match) => ({
+      ...heading,
+      index: match.index,
+    }));
+  }).sort((left, right) => left.index - right.index || right.level - left.level);
+}
+
+function parseMarkdownTable(segment) {
+  const headerStart = segment.search(/\|\s*Problem\s*\|/i);
+  if (headerStart === -1) {
+    return null;
+  }
+
+  const tableText = segment
+    .slice(headerStart)
+    // GitHub's wiki source now sometimes serializes whole tables onto a
+    // single physical line. Row boundaries still appear as a closing pipe
+    // followed by whitespace and the next row's opening pipe (`| |`), so make
+    // those boundaries explicit before applying the normal row splitter.
+    .replace(/\|\s*(?=\|)/g, "|\n");
+
+  const rows = [];
+  for (const line of tableText.split(/\r?\n/)) {
+    const trimmed = line.trim();
+    if (!trimmed) {
+      continue;
+    }
+    if (!trimmed.startsWith("|")) {
+      if (rows.length) {
+        break;
+      }
+      continue;
+    }
+    rows.push(splitTableRow(trimmed));
+  }
+
+  if (rows.length < 2) {
+    return null;
+  }
+
+  const headers = rows[0];
+  const bodyRows = rows
+    .slice(2)
+    .filter((row) => row.some((cell) => cell.trim()))
+    .map((row) => {
+      if (row.length >= headers.length) {
+        return row.slice(0, headers.length);
+      }
+      return [...row, ...Array(headers.length - row.length).fill("")];
+    });
+
+  return { headers, rows: bodyRows };
+}
+
+function parseWikiMarkdown(markdown) {
+  const headingPositions = findHeadingPositions(markdown);
+  const sections = [];
+  const records = [];
+  let sectionOrder = 0;
+
+  for (const major of SECTION_DEFINITIONS) {
+    const majorHeading = headingPositions.find(
+      (heading) => heading.anchor === major.anchor && heading.level === 2
+    );
+    const effectiveMajor = {
+      title: major.title,
+      anchor: major.anchor,
+    };
+
+    for (const subsectionDefinition of major.subsections) {
+      const subsectionHeading = headingPositions.find(
+        (heading) => heading.anchor === subsectionDefinition.anchor && heading.level === 3
+      );
+      if (!subsectionHeading) {
+        continue;
+      }
+
+      const nextHeading = headingPositions.find(
+        (heading) => heading.index > subsectionHeading.index && heading.level <= 3
+      );
+      const segment = markdown.slice(
+        subsectionHeading.index,
+        nextHeading ? nextHeading.index : markdown.length
+      );
+      const table = parseMarkdownTable(segment);
+      if (!table) {
+        continue;
+      }
+
+      const section = {
+        title: subsectionDefinition.title,
+        anchor: subsectionDefinition.anchor,
+        majorTitle: effectiveMajor.title,
+        majorAnchor: majorHeading?.anchor || effectiveMajor.anchor,
+        order: sectionOrder,
+      };
+      sectionOrder += 1;
+
+      table.rows.forEach((row, rowIndex) => {
+        records.push(buildRecord(section, effectiveMajor, table.headers, row, rowIndex));
+      });
+      sections.push({
+        ...section,
+        headers: table.headers,
+        rowCount: table.rows.length,
+      });
+    }
+  }
+
+  return { sections, records };
 }
 
 function extractMarkdownLinks(text) {
@@ -705,7 +860,7 @@ function classifyOutcome(record) {
   }
 
   if (
-    /partial|variant problem|related result|improved|cheap|reduction|initial exploration|code generation|computational|oeis|formalized/.test(
+    /partial|variant problem|one part|related result|improved|cheap|reduction|initial exploration|conditional|code generation|computational|oeis|formalized/.test(
       text
     )
   ) {
@@ -889,102 +1044,7 @@ async function main() {
   }
 
   const markdown = await response.text();
-  const lines = markdown.split(/\r?\n/);
-
-  let pendingAnchor = null;
-  let currentMajor = { title: "", anchor: "" };
-  let sectionOrder = 0;
-  const sections = [];
-  const records = [];
-
-  for (let idx = 0; idx < lines.length; idx += 1) {
-    const rawLine = lines[idx];
-    const line = rawLine.trim();
-
-    const anchorMatch = line.match(/^<a id="([^"]+)"><\/a>$/);
-    if (anchorMatch) {
-      pendingAnchor = anchorMatch[1];
-      continue;
-    }
-
-    const headingMatch = line.match(/^(#{1,3})\s+(.+)$/);
-    if (headingMatch) {
-      const title = headingMatch[2].trim();
-      const isMajor = /^\d+\./.test(title);
-      const isSubsection = /^\d+\([a-z]\)/i.test(title);
-
-      if (isMajor) {
-        currentMajor = {
-          title,
-          anchor: pendingAnchor || "",
-        };
-        pendingAnchor = null;
-
-        const nextHeading = lines[idx + 1]?.trim().match(/^(#{1,3})\s+(.+)$/);
-        const nextIsSubsection = nextHeading && /^\d+\([a-z]\)/i.test(nextHeading[2].trim());
-        if (nextIsSubsection) {
-          continue;
-        }
-      }
-
-      if (!isMajor && !isSubsection) {
-        pendingAnchor = null;
-        continue;
-      }
-
-      const effectiveMajor = isMajor
-        ? { title, anchor: currentMajor.anchor || pendingAnchor || "" }
-        : currentMajor;
-
-      const section = {
-        title,
-        anchor: pendingAnchor || effectiveMajor.anchor || "",
-        majorTitle: effectiveMajor.title,
-        majorAnchor: effectiveMajor.anchor,
-        order: sectionOrder,
-      };
-      pendingAnchor = null;
-      sectionOrder += 1;
-
-      let headerIndex = -1;
-      for (let scan = idx + 1; scan < lines.length; scan += 1) {
-        const candidate = lines[scan].trim();
-        if (candidate.startsWith("#")) {
-          break;
-        }
-        if (
-          candidate.startsWith("|") &&
-          lines[scan + 1]?.trim().startsWith("|") &&
-          lines[scan + 1].includes("---")
-        ) {
-          headerIndex = scan;
-          break;
-        }
-      }
-
-      if (headerIndex !== -1) {
-        const headers = splitTableRow(lines[headerIndex]);
-        let rowIndex = 0;
-        idx = headerIndex + 2;
-
-        while (idx < lines.length && lines[idx].trim().startsWith("|")) {
-          const row = splitTableRow(lines[idx]);
-          records.push(buildRecord(section, effectiveMajor, headers, row, rowIndex));
-          rowIndex += 1;
-          idx += 1;
-        }
-
-        idx -= 1;
-        sections.push({
-          ...section,
-          headers,
-          rowCount: rowIndex,
-        });
-      }
-
-      continue;
-    }
-  }
+  const { sections, records } = parseWikiMarkdown(markdown);
 
   const payload = {
     metadata: {
@@ -1021,7 +1081,11 @@ async function main() {
   );
 }
 
-main().catch((error) => {
-  console.error(error);
-  process.exitCode = 1;
-});
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}
+
+export { parseWikiMarkdown, parseMarkdownTable, parseDateInfo, classifyOutcome };

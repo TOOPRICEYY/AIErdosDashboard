@@ -56,8 +56,8 @@
     "sect-1d": "Human-AI collaboration",
     "sect-2a": "Literature search",
     "sect-2b": "Formalization",
-    "sect-2c": "Artifact generation",
-    "sect-2d": "Rewriting",
+    "sect-2c": "Rewriting",
+    "sect-2d": "Computation",
     "sect-2e": "Computation",
     "sect-3": "Pending assessment",
   };
