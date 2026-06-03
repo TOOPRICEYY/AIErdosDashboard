@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-02T17:48:57.763Z",
+    "generatedAt": "2026-06-03T15:52:01.594Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 494,
@@ -17955,20 +17955,20 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Aristotle",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "23 Apr, 2026",
+      "dateRaw": "23 Apr-2 Jun, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[760]](https://www.erdosproblems.com/760)",
         "Proof to formalize": "🟢 Alon, Krivelevich, and Sudakov (1997)",
         "AI systems": "Aristotle",
-        "Date": "23 Apr, 2026"
+        "Date": "23 Apr-2 Jun, 2026"
       },
       "fieldsPlain": {
         "Problem": "760",
         "Proof to formalize": "🟢 Alon, Krivelevich, and Sudakov (1997)",
         "AI systems": "Aristotle",
-        "Date": "23 Apr, 2026"
+        "Date": "23 Apr-2 Jun, 2026"
       }
     },
     {
@@ -17990,24 +17990,24 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/762"
         }
       ],
-      "aiSystemsRaw": "Aristotle, GPT",
-      "aiSystemsLabel": "Aristotle, GPT",
+      "aiSystemsRaw": "Aristotle, Claude Opus 4.7, GPT",
+      "aiSystemsLabel": "Aristotle, Claude Opus 4.7, GPT",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "8 Feb, 2026",
+      "dateRaw": "8 Feb-3 Jun, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[762]](https://www.erdosproblems.com/762)",
         "Proof to formalize": "🟢 Steiner (2024)",
-        "AI systems": "Aristotle, GPT",
-        "Date": "8 Feb, 2026"
+        "AI systems": "Aristotle, Claude Opus 4.7, GPT",
+        "Date": "8 Feb-3 Jun, 2026"
       },
       "fieldsPlain": {
         "Problem": "762",
         "Proof to formalize": "🟢 Steiner (2024)",
-        "AI systems": "Aristotle, GPT",
-        "Date": "8 Feb, 2026"
+        "AI systems": "Aristotle, Claude Opus 4.7, GPT",
+        "Date": "8 Feb-3 Jun, 2026"
       }
     },
     {
@@ -18072,20 +18072,20 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Aristotle",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "19 Apr, 2026",
+      "dateRaw": "19 Apr-3 Jun, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[775]](https://www.erdosproblems.com/775)",
         "Proof to formalize": "🟢 Gao (2025)",
         "AI systems": "Aristotle",
-        "Date": "19 Apr, 2026"
+        "Date": "19 Apr-3 Jun, 2026"
       },
       "fieldsPlain": {
         "Problem": "775",
         "Proof to formalize": "🟢 Gao (2025)",
         "AI systems": "Aristotle",
-        "Date": "19 Apr, 2026"
+        "Date": "19 Apr-3 Jun, 2026"
       }
     },
     {
