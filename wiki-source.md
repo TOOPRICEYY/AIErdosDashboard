@@ -56,7 +56,6 @@ We have collected some [disclaimers](https://github.com/teorth/erdosproblems/wik
 ### Frequently asked questions
 
 * [How have AI companies been invested in Erdős problems?](https://github.com/teorth/erdosproblems/wiki/How-have-AI-companies-been-invested-in-Erd%C5%91s-problems%3F)
-* [Why is a social media announcement about AI solving an Erdős problem not reflected on this wiki?](https://github.com/teorth/erdosproblems/wiki/Why-is-a-social-media-announcement-about-AI-solving-an-Erd%C5%91s-problem-not-reflected-on-this-wiki%3F)
 * [What to do when I think I managed to get AI to solve an Erdős problem?](https://github.com/teorth/erdosproblems/wiki/What-to-do-when-I-think-I-managed-to-get-AI-to-solve-an-Erd%C5%91s-problem%3F)
 * [What to do when AI seems to make some partial progress on an Erdős problem?](https://github.com/teorth/erdosproblems/wiki/What-to-do-when-AI-seems-to-make-some-partial-progress-on-an-Erd%C5%91s-problem%3F)
 
