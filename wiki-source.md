@@ -270,6 +270,7 @@ Sorted by the author's last name alphabetically.
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | ⚪ Candidate partial result
 | [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
 | [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean) (implicit in literature)
+| [[623]](https://www.erdosproblems.com/623) | Sungchul Lee | GPT-5.5 Pro | 4 Jun, 2026 | ⚪ Candidate full solution
 | [[659]](https://www.erdosproblems.com/659) | Benjamin Grayzel | Gemini 3 | 13 Jan, 2026 | 🟢 Full solution
 | [[675]](https://www.erdosproblems.com/675) | Boon Suan Ho | GPT-5.4 Pro | 18 Apr, 2026 | 🟡 Partial result
 | [[684]](https://www.erdosproblems.com/684) | Quanyu Tang | GPT-5.2 Thinking | 19 Jan, 2026 | 🟡 Partial result
