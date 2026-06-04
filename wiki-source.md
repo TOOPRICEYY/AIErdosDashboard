@@ -85,6 +85,7 @@ Sorted by the author's last name alphabetically.
 | [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
 | [[42]](https://www.erdosproblems.com/42) | Codex, GPT-5.2, GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Partial result (Lean)
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
+| [[52]](https://www.erdosproblems.com/52) | Claude Mythos | 3 Jun, 2026 | 🟡 Solution to variant problem
 | [[75]](https://www.erdosproblems.com/75) | Aletheia | 1 Feb, 2026 | 🟡 Solution to variant problem (implicit in literature)
 | [[90]](https://www.erdosproblems.com/90) | OpenAI internal model | 20 May, 2026 | 🟢 Full solution
 | [[90]](https://www.erdosproblems.com/90) | Claude Mythos | 26 May, 2026 | 🟢 Full solution
@@ -224,6 +225,7 @@ Sorted by the author's last name alphabetically.
 | [[42]](https://www.erdosproblems.com/42) | Harjas Sandhu | GPT-5.5 Pro | 27 Apr, 2026 | 🟢 Full solution
 | [[52]](https://www.erdosproblems.com/52) | Thomas Bloom, Will Sawin, Carl Schildkraut, Dmitrii Zhelezov | GPT-5.5 Pro | 28 May, 2026 | 🟡 Solution to variant problem
 | [[52]](https://www.erdosproblems.com/52) | Ingo Althöfer | GPT-5.5 | 28 May, 2026 | 🟡 Improved bound to variant problem
+| [[52]](https://www.erdosproblems.com/52) | Boris Alexeev | GPT-5.5 | 4 Jun, 2026 | ⚪ Candidate solution to variant problem
 | [[90]](https://www.erdosproblems.com/90) | Ingo Althöfer, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng | GPT-5.5 Pro | 21 May-3 Jun, 2026 | 🟢 Improved explicit bound
 | [[138]](https://www.erdosproblems.com/138) | Nat Sothanaphan | GPT-5.4 Thinking | 10 Apr, 2026 | 🟡 Partial result of variant problem
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution
