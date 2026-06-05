@@ -277,7 +277,7 @@ Sorted by the author's last name alphabetically.
 | [[686]](https://www.erdosproblems.com/686) | Adenwalla, Stijn Cambie, Wouter van Doorn, Vjekoslav Kovač, Miklos, Nat Sothanaphan, Quanyu Tang, Terence Tao, vilc, Malek Zribi | AlphaProof, Claude, Gemini Deep Think, GPT-5.2 Thinking, GPT-5.4 Thinking, Seed 2.0 Pro | 9 Aug, 2025-15 Mar, 2026 | 🟡 Various partial results
 | [[689]](https://www.erdosproblems.com/689) | Boris Alexeev, Przemek Chojecki, Dogmachine, jleng01, Mehtaab Sawhney, Terence Tao, Malek Zribi | Codex, GPT-5.2, GPT-5.5 Pro | 29 Oct, 2025-2 Jun, 2026 | ⚪ Candidate full solution
 | [[690]](https://www.erdosproblems.com/690) | Davide Crapis, Shouqiao Wang | Multiscalar Fields System | 8 May, 2026 | 🟢 Full solution
-| [[696]](https://www.erdosproblems.com/696) | David Turturean | Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-5 Jun, 2026 | 🟢 Full solution (Lean)
+| [[696]](https://www.erdosproblems.com/696) | Jake Mallen, David Turturean | Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-5 Jun, 2026 | 🟢 Full solution (Lean)
 | [[749]](https://www.erdosproblems.com/749) | Aron Bhalla | GPT-5.4 Thinking | 4-6 Apr, 2026 | 🟡 Partial result; 🟡 Solution to variant problem
 | [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[776]](https://www.erdosproblems.com/776) | Yixin He, Quanyu Tang | GPT-5.2 Thinking | 11 Feb, 2026 | 🟡 Partial result
@@ -567,6 +567,7 @@ Sorted by the author's last name alphabetically.
 | [[907]](https://www.erdosproblems.com/907) | 🟢 de Bruijn (1951) | Aristotle | 7 Apr, 2026
 | [[914]](https://www.erdosproblems.com/914) | 🟢 Kierstead and Kostochka (2008) | Aristotle | 15 Apr, 2026
 | [[923]](https://www.erdosproblems.com/923) | 🟢 Rödl (1977) | Aristotle | 20 Apr, 2026
+| [[927]](https://www.erdosproblems.com/927) | 🟢 Spencer (1971) | Aristotle | 5 Jun, 2026
 | [[947]](https://www.erdosproblems.com/947) | 🟢 Mirsky and Newman + Davenport and Rado | Aristotle, GPT | 2 Feb, 2026
 | [[958]](https://www.erdosproblems.com/958) | 🟢 Clemen, Dumitrescu, and Liu (2025) | Seed Prover 1.5 | 19 Dec, 2025
 | [[964]](https://www.erdosproblems.com/964) | 🟢 Eberhard (2025) | Antigravity, Aristotle, Gemini | 14 Feb, 2026
