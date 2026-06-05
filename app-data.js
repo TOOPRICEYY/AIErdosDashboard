@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-04T20:55:10.999Z",
+    "generatedAt": "2026-06-05T15:23:28.555Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 497,
@@ -1017,7 +1017,7 @@ window.ERDOS_AI_DATA = {
       "notes": "No official release page was cataloged for this exact system name; date inferred from the earliest positive wiki entry, or first appearance if no positive entry exists.",
       "inferenceType": "first_positive_then_seen",
       "inferredFrom": {
-        "dateRaw": "26 Apr-1 May, 2026",
+        "dateRaw": "26 Apr-5 Jun, 2026",
         "problem": "#696",
         "subsection": "1(d). AI collaborating with humans",
         "outcome": "full"
@@ -1039,7 +1039,7 @@ window.ERDOS_AI_DATA = {
       "notes": "No official release page was cataloged for this exact system name; date inferred from the earliest positive wiki entry, or first appearance if no positive entry exists.",
       "inferenceType": "first_positive_then_seen",
       "inferredFrom": {
-        "dateRaw": "26 Apr-1 May, 2026",
+        "dateRaw": "26 Apr-5 Jun, 2026",
         "problem": "#696",
         "subsection": "1(d). AI collaborating with humans",
         "outcome": "full"
@@ -8139,25 +8139,25 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/696"
         }
       ],
-      "aiSystemsRaw": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
-      "aiSystemsLabel": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+      "aiSystemsRaw": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+      "aiSystemsLabel": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
       "humansRaw": "David Turturean",
       "humansLabel": "David Turturean",
-      "dateRaw": "26 Apr-1 May, 2026",
+      "dateRaw": "26 Apr-5 Jun, 2026",
       "descriptionRaw": "🟢 Full solution (Lean)",
       "descriptionLabel": "🟢 Full solution (Lean)",
       "fieldsRaw": {
         "Problem": "[[696]](https://www.erdosproblems.com/696)",
         "Humans": "David Turturean",
-        "AI systems": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
-        "Date": "26 Apr-1 May, 2026",
+        "AI systems": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+        "Date": "26 Apr-5 Jun, 2026",
         "Outcome": "🟢 Full solution (Lean)"
       },
       "fieldsPlain": {
         "Problem": "696",
         "Humans": "David Turturean",
-        "AI systems": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
-        "Date": "26 Apr-1 May, 2026",
+        "AI systems": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+        "Date": "26 Apr-5 Jun, 2026",
         "Outcome": "🟢 Full solution (Lean)"
       }
     },
@@ -17804,24 +17804,24 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/694"
         }
       ],
-      "aiSystemsRaw": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
-      "aiSystemsLabel": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+      "aiSystemsRaw": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+      "aiSystemsLabel": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "3 May, 2026",
+      "dateRaw": "3 May-5 Jun, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[694]](https://www.erdosproblems.com/694)",
         "Proof to formalize": "🟢 GPT-5.5 Pro (2026)",
-        "AI systems": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
-        "Date": "3 May, 2026"
+        "AI systems": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+        "Date": "3 May-5 Jun, 2026"
       },
       "fieldsPlain": {
         "Problem": "694",
         "Proof to formalize": "🟢 GPT-5.5 Pro (2026)",
-        "AI systems": "Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
-        "Date": "3 May, 2026"
+        "AI systems": "Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro",
+        "Date": "3 May-5 Jun, 2026"
       }
     },
     {

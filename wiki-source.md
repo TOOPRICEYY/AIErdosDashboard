@@ -277,7 +277,7 @@ Sorted by the author's last name alphabetically.
 | [[686]](https://www.erdosproblems.com/686) | Adenwalla, Stijn Cambie, Wouter van Doorn, Vjekoslav Kovač, Miklos, Nat Sothanaphan, Quanyu Tang, Terence Tao, vilc, Malek Zribi | AlphaProof, Claude, Gemini Deep Think, GPT-5.2 Thinking, GPT-5.4 Thinking, Seed 2.0 Pro | 9 Aug, 2025-15 Mar, 2026 | 🟡 Various partial results
 | [[689]](https://www.erdosproblems.com/689) | Boris Alexeev, Przemek Chojecki, Dogmachine, jleng01, Mehtaab Sawhney, Terence Tao, Malek Zribi | Codex, GPT-5.2, GPT-5.5 Pro | 29 Oct, 2025-2 Jun, 2026 | ⚪ Candidate full solution
 | [[690]](https://www.erdosproblems.com/690) | Davide Crapis, Shouqiao Wang | Multiscalar Fields System | 8 May, 2026 | 🟢 Full solution
-| [[696]](https://www.erdosproblems.com/696) | David Turturean | Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-1 May, 2026 | 🟢 Full solution (Lean)
+| [[696]](https://www.erdosproblems.com/696) | David Turturean | Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-5 Jun, 2026 | 🟢 Full solution (Lean)
 | [[749]](https://www.erdosproblems.com/749) | Aron Bhalla | GPT-5.4 Thinking | 4-6 Apr, 2026 | 🟡 Partial result; 🟡 Solution to variant problem
 | [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[776]](https://www.erdosproblems.com/776) | Yixin He, Quanyu Tang | GPT-5.2 Thinking | 11 Feb, 2026 | 🟡 Partial result
@@ -537,7 +537,7 @@ Sorted by the author's last name alphabetically.
 | [[666]](https://www.erdosproblems.com/666) | 🟢 Chung (1992), Brouwer, Dejter, and Thomassen (1993) | Aristotle | 6 Feb, 2026
 | [[678]](https://www.erdosproblems.com/678) | 🟢 Cambie (2025) | Aristotle | 7 Jan, 2026
 | [[692]](https://www.erdosproblems.com/692) | 🟢 Cambie (2025) | Aristotle | 2 Apr, 2026
-| [[694]](https://www.erdosproblems.com/694) | 🟢 GPT-5.5 Pro (2026) | Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 3 May, 2026
+| [[694]](https://www.erdosproblems.com/694) | 🟢 GPT-5.5 Pro (2026) | Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 3 May-5 Jun, 2026
 | [[698]](https://www.erdosproblems.com/698) | 🟢 Bergman (2011) | Aristotle | 16 Jan, 2026
 | [[707]](https://www.erdosproblems.com/707) | 🟢 Hall (1947) | GPT | 23 Nov, 2025
 | [[728]](https://www.erdosproblems.com/728) | 🟢 Pomerance (2026) | Aristotle | 22 Jan, 2026
