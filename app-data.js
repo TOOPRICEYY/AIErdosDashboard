@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-05T17:02:48.502Z",
+    "generatedAt": "2026-06-06T14:50:56.877Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 498,
+    "recordCount": 495,
     "sectionCount": 8
   },
   "sections": [
@@ -122,7 +122,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Computation"
       ],
-      "rowCount": 6
+      "rowCount": 3
     }
   ],
   "releases": [
@@ -880,28 +880,6 @@ window.ERDOS_AI_DATA = {
       ]
     },
     {
-      "id": "unspecified",
-      "label": "Unspecified",
-      "vendor": "Inferred",
-      "family": "unspecified",
-      "releaseDate": "2026-03-03",
-      "releaseType": "inferred-first_seen",
-      "sourceKind": "inferred",
-      "sourceLabel": "Erdos wiki inference",
-      "sourceUrl": "https://www.erdosproblems.com/334",
-      "notes": "Placeholder token from the wiki rather than a single named model; date inferred from first appearance.",
-      "inferenceType": "first_seen",
-      "inferredFrom": {
-        "dateRaw": "3 Mar, 2026",
-        "problem": "#334",
-        "subsection": "2(d). Computation",
-        "outcome": "partial"
-      },
-      "patterns": [
-        "^Unspecified$"
-      ]
-    },
-    {
       "id": "gpt-5.4",
       "label": "GPT-5.4",
       "vendor": "OpenAI",
@@ -1002,6 +980,28 @@ window.ERDOS_AI_DATA = {
       },
       "patterns": [
         "^GPT-5\\.5 Thinking$"
+      ]
+    },
+    {
+      "id": "unspecified",
+      "label": "Unspecified",
+      "vendor": "Inferred",
+      "family": "unspecified",
+      "releaseDate": "2026-04-25",
+      "releaseType": "inferred-first_seen",
+      "sourceKind": "inferred",
+      "sourceLabel": "Erdos wiki inference",
+      "sourceUrl": "https://www.erdosproblems.com/906",
+      "notes": "Placeholder token from the wiki rather than a single named model; date inferred from first appearance.",
+      "inferenceType": "first_seen",
+      "inferredFrom": {
+        "dateRaw": "25 Apr, 2026",
+        "problem": "#906",
+        "subsection": "1(d). AI collaborating with humans",
+        "outcome": "full"
+      },
+      "patterns": [
+        "^Unspecified$"
       ]
     },
     {
@@ -20796,45 +20796,6 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-2d",
       "subsectionOrder": 7,
       "rowOrder": 1,
-      "problemRaw": "[[334]](https://www.erdosproblems.com/334)",
-      "problemLabel": "334",
-      "problemIds": [
-        334
-      ],
-      "problemLinks": [
-        {
-          "label": "334",
-          "url": "https://www.erdosproblems.com/334"
-        }
-      ],
-      "aiSystemsRaw": "Unspecified",
-      "aiSystemsLabel": "Unspecified",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "3 Mar, 2026",
-      "descriptionRaw": "OEIS sequence",
-      "descriptionLabel": "OEIS sequence",
-      "fieldsRaw": {
-        "Problem": "[[334]](https://www.erdosproblems.com/334)",
-        "AI systems": "Unspecified",
-        "Date": "3 Mar, 2026",
-        "Computation": "OEIS sequence"
-      },
-      "fieldsPlain": {
-        "Problem": "334",
-        "AI systems": "Unspecified",
-        "Date": "3 Mar, 2026",
-        "Computation": "OEIS sequence"
-      }
-    },
-    {
-      "id": "sect-2d-002",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(d). Computation",
-      "subsectionAnchor": "sect-2d",
-      "subsectionOrder": 7,
-      "rowOrder": 2,
       "problemRaw": "[[396]](https://www.erdosproblems.com/396)",
       "problemLabel": "396",
       "problemIds": [
@@ -20850,30 +20811,30 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "23 Mar, 2026",
+      "dateRaw": "23 Mar-4 Apr, 2026",
       "descriptionRaw": "OEIS sequence",
       "descriptionLabel": "OEIS sequence",
       "fieldsRaw": {
         "Problem": "[[396]](https://www.erdosproblems.com/396)",
         "AI systems": "Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro",
-        "Date": "23 Mar, 2026",
+        "Date": "23 Mar-4 Apr, 2026",
         "Computation": "OEIS sequence"
       },
       "fieldsPlain": {
         "Problem": "396",
         "AI systems": "Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro",
-        "Date": "23 Mar, 2026",
+        "Date": "23 Mar-4 Apr, 2026",
         "Computation": "OEIS sequence"
       }
     },
     {
-      "id": "sect-2d-003",
+      "id": "sect-2d-002",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(d). Computation",
       "subsectionAnchor": "sect-2d",
       "subsectionOrder": 7,
-      "rowOrder": 3,
+      "rowOrder": 2,
       "problemRaw": "[[513]](https://www.erdosproblems.com/513)",
       "problemLabel": "513",
       "problemIds": [
@@ -20906,13 +20867,13 @@ window.ERDOS_AI_DATA = {
       }
     },
     {
-      "id": "sect-2d-004",
+      "id": "sect-2d-003",
       "majorSection": "2. Secondary contributions",
       "majorAnchor": "sect-2",
       "subsection": "2(d). Computation",
       "subsectionAnchor": "sect-2d",
       "subsectionOrder": 7,
-      "rowOrder": 4,
+      "rowOrder": 3,
       "problemRaw": "[[650]](https://www.erdosproblems.com/650)",
       "problemLabel": "650",
       "problemIds": [
@@ -20942,84 +20903,6 @@ window.ERDOS_AI_DATA = {
         "AI systems": "AlphaEvolve",
         "Date": "7 Mar, 2026",
         "Computation": "Numerical optimization"
-      }
-    },
-    {
-      "id": "sect-2d-005",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(d). Computation",
-      "subsectionAnchor": "sect-2d",
-      "subsectionOrder": 7,
-      "rowOrder": 5,
-      "problemRaw": "[[757]](https://www.erdosproblems.com/757)",
-      "problemLabel": "757",
-      "problemIds": [
-        757
-      ],
-      "problemLinks": [
-        {
-          "label": "757",
-          "url": "https://www.erdosproblems.com/757"
-        }
-      ],
-      "aiSystemsRaw": "GPT-5.2 Pro",
-      "aiSystemsLabel": "GPT-5.2 Pro",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "26 Feb, 2026",
-      "descriptionRaw": "Exhaustive verification",
-      "descriptionLabel": "Exhaustive verification",
-      "fieldsRaw": {
-        "Problem": "[[757]](https://www.erdosproblems.com/757)",
-        "AI systems": "GPT-5.2 Pro",
-        "Date": "26 Feb, 2026",
-        "Computation": "Exhaustive verification"
-      },
-      "fieldsPlain": {
-        "Problem": "757",
-        "AI systems": "GPT-5.2 Pro",
-        "Date": "26 Feb, 2026",
-        "Computation": "Exhaustive verification"
-      }
-    },
-    {
-      "id": "sect-2d-006",
-      "majorSection": "2. Secondary contributions",
-      "majorAnchor": "sect-2",
-      "subsection": "2(d). Computation",
-      "subsectionAnchor": "sect-2d",
-      "subsectionOrder": 7,
-      "rowOrder": 6,
-      "problemRaw": "[[993]](https://www.erdosproblems.com/993)",
-      "problemLabel": "993",
-      "problemIds": [
-        993
-      ],
-      "problemLinks": [
-        {
-          "label": "993",
-          "url": "https://www.erdosproblems.com/993"
-        }
-      ],
-      "aiSystemsRaw": "Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex",
-      "aiSystemsLabel": "Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex",
-      "humansRaw": "",
-      "humansLabel": "",
-      "dateRaw": "15 Feb-12 Mar, 2026",
-      "descriptionRaw": "Exhaustive verification",
-      "descriptionLabel": "Exhaustive verification",
-      "fieldsRaw": {
-        "Problem": "[[993]](https://www.erdosproblems.com/993)",
-        "AI systems": "Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex",
-        "Date": "15 Feb-12 Mar, 2026",
-        "Computation": "Exhaustive verification"
-      },
-      "fieldsPlain": {
-        "Problem": "993",
-        "AI systems": "Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex",
-        "Date": "15 Feb-12 Mar, 2026",
-        "Computation": "Exhaustive verification"
       }
     }
   ]

@@ -626,9 +626,6 @@ Sorted by the author's last name alphabetically.
 
 | Problem | AI systems | Date | Computation |
 | ------- | ---------- | ---- | ----------- |
-| [[334]](https://www.erdosproblems.com/334) | Unspecified | 3 Mar, 2026 | OEIS sequence
-| [[396]](https://www.erdosproblems.com/396) | Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro | 23 Mar, 2026 | OEIS sequence
+| [[396]](https://www.erdosproblems.com/396) | Claude Opus 4.6, Gemini 3.1 Deep Think, GPT-5.4 Pro | 23 Mar-4 Apr, 2026 | OEIS sequence
 | [[513]](https://www.erdosproblems.com/513) | GPT-5.2 Pro | 12 Feb, 2026 | Numerical certificate
 | [[650]](https://www.erdosproblems.com/650) | AlphaEvolve | 7 Mar, 2026 | Numerical optimization
-| [[757]](https://www.erdosproblems.com/757) | GPT-5.2 Pro | 26 Feb, 2026 | Exhaustive verification
-| [[993]](https://www.erdosproblems.com/993) | Claude Opus 4.6, Gemini 3 Pro, GPT-5.2 Pro, GPT-5.3-Codex | 15 Feb-12 Mar, 2026 | Exhaustive verification
