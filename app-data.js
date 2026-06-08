@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-08T15:26:59.957Z",
+    "generatedAt": "2026-06-08T21:04:15.655Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 495,
@@ -9084,23 +9084,23 @@ window.ERDOS_AI_DATA = {
       ],
       "aiSystemsRaw": "Claude, GPT-5.4",
       "aiSystemsLabel": "Claude, GPT-5.4",
-      "humansRaw": "Malek Zribi",
-      "humansLabel": "Malek Zribi",
-      "dateRaw": "12-15 Mar, 2026",
+      "humansRaw": "Adenwalla, Malek Zribi",
+      "humansLabel": "Adenwalla, Malek Zribi",
+      "dateRaw": "12 Mar-8 Jun, 2026",
       "descriptionRaw": "🟡 Partial result",
       "descriptionLabel": "🟡 Partial result",
       "fieldsRaw": {
         "Problem": "[[931]](https://www.erdosproblems.com/931)",
-        "Humans": "Malek Zribi",
+        "Humans": "Adenwalla, Malek Zribi",
         "AI systems": "Claude, GPT-5.4",
-        "Date": "12-15 Mar, 2026",
+        "Date": "12 Mar-8 Jun, 2026",
         "Outcome": "🟡 Partial result"
       },
       "fieldsPlain": {
         "Problem": "931",
-        "Humans": "Malek Zribi",
+        "Humans": "Adenwalla, Malek Zribi",
         "AI systems": "Claude, GPT-5.4",
-        "Date": "12-15 Mar, 2026",
+        "Date": "12 Mar-8 Jun, 2026",
         "Outcome": "🟡 Partial result"
       }
     },
