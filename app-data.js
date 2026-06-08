@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-06T14:50:56.877Z",
+    "generatedAt": "2026-06-08T15:26:59.957Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 495,
@@ -6009,23 +6009,23 @@ window.ERDOS_AI_DATA = {
       ],
       "aiSystemsRaw": "GPT-5.5 Pro",
       "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Ingo Althöfer, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
-      "humansLabel": "Ingo Althöfer, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
-      "dateRaw": "21 May-3 Jun, 2026",
+      "humansRaw": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
+      "humansLabel": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
+      "dateRaw": "21 May-8 Jun, 2026",
       "descriptionRaw": "🟢 Improved explicit bound",
       "descriptionLabel": "🟢 Improved explicit bound",
       "fieldsRaw": {
         "Problem": "[[90]](https://www.erdosproblems.com/90)",
-        "Humans": "Ingo Althöfer, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
+        "Humans": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
         "AI systems": "GPT-5.5 Pro",
-        "Date": "21 May-3 Jun, 2026",
+        "Date": "21 May-8 Jun, 2026",
         "Outcome": "🟢 Improved explicit bound"
       },
       "fieldsPlain": {
         "Problem": "90",
-        "Humans": "Ingo Althöfer, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
+        "Humans": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
         "AI systems": "GPT-5.5 Pro",
-        "Date": "21 May-3 Jun, 2026",
+        "Date": "21 May-8 Jun, 2026",
         "Outcome": "🟢 Improved explicit bound"
       }
     },
