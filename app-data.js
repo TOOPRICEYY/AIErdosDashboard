@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-08T21:04:15.655Z",
+    "generatedAt": "2026-06-09T15:23:13.674Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 495,
@@ -6011,21 +6011,21 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "GPT-5.5 Pro",
       "humansRaw": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
       "humansLabel": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
-      "dateRaw": "21 May-8 Jun, 2026",
+      "dateRaw": "21 May-9 Jun, 2026",
       "descriptionRaw": "🟢 Improved explicit bound",
       "descriptionLabel": "🟢 Improved explicit bound",
       "fieldsRaw": {
         "Problem": "[[90]](https://www.erdosproblems.com/90)",
         "Humans": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
         "AI systems": "GPT-5.5 Pro",
-        "Date": "21 May-8 Jun, 2026",
+        "Date": "21 May-9 Jun, 2026",
         "Outcome": "🟢 Improved explicit bound"
       },
       "fieldsPlain": {
         "Problem": "90",
         "Humans": "Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng",
         "AI systems": "GPT-5.5 Pro",
-        "Date": "21 May-8 Jun, 2026",
+        "Date": "21 May-9 Jun, 2026",
         "Outcome": "🟢 Improved explicit bound"
       }
     },
