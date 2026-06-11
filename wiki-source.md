@@ -99,6 +99,7 @@ Sorted by the author's last name alphabetically.
 | [[358]](https://www.erdosproblems.com/358) | GPT-5.2 Pro | 11 Feb, 2026 | 🔴 Argument with major gaps made
 | [[457]](https://www.erdosproblems.com/457) | Aristotle, GPT-5.2 Pro | 2 Mar, 2026 | 🟢 Full solution (Lean)
 | [[477]](https://www.erdosproblems.com/477) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
+| [[539]](https://www.erdosproblems.com/539) | Codex, GPT-5.5, ProofCouncil | 10 Jun, 2026 | 🟡 Partial result (Lean)
 | [[616]](https://www.erdosproblems.com/616) | Claude Sonnet 4.5, Gemini 3 Pro, GPT-5.2 Pro | 18 Jan, 2026 | 🔴 Incorrect proof found
 | [[647]](https://www.erdosproblems.com/647) | ChatGPT Deep research, DeepSeek DeepThink, Gemini  | 28 Jan, 2026 | 🔴 Incorrect proof found
 | [[654]](https://www.erdosproblems.com/654) | Aletheia | 1 Feb, 2026 | 🟡 Partial result
