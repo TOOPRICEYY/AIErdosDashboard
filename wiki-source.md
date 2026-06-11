@@ -310,7 +310,7 @@ Sorted by the author's last name alphabetically.
 | [[951]](https://www.erdosproblems.com/951) | Nat Sothanaphan | GPT-5.2 Thinking | 28 Jan, 2026 | 🟡 New solution to variant problem
 | [[976]](https://www.erdosproblems.com/976) | Aron Bhalla | GPT-5.4 | 16 Apr, 2026 | 🟡 Conditional partial result
 | [[1026]](https://www.erdosproblems.com/1026) | Boris Alexeev, Stijn Cambie, Terence Tao, Lawrence Wu | AlphaEvolve, Aristotle, Gemini, GPT | 8 Dec, 2025  | 🟢 Full solution (Lean)
-| [[1038]](https://www.erdosproblems.com/1038) | jspier, Junnosuke Koizumi, Nat Sothanaphan, Terence Tao | AlphaEvolve, GPT-5.2 Thinking, GPT-5.4 Thinking | 16 Dec, 2025-19 Mar, 2026 | 🟡 Partial result
+| [[1038]](https://www.erdosproblems.com/1038) | catsflowers5544, jspier, Junnosuke Koizumi, Kenneth Mendoza, Nat Sothanaphan, Terence Tao, Hua Xu | AlphaEvolve, Claude Fable 5, Codex, GPT-5.2 Thinking, GPT-5.4 Thinking, GPT-5.5 | 16 Dec, 2025-10 Jun, 2026 | 🟡 Partial result
 | [[1039]](https://www.erdosproblems.com/1039) | Houi | Aristotle, Claude Opus 4.6 | 6-8 Mar, 2026 | 🟡 Partial result (Lean)
 | [[1041]](https://www.erdosproblems.com/1041) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 | 17-24 Mar, 2026 | 🔴 Argument with major gaps made
 | [[1062]](https://www.erdosproblems.com/1062) | Damek Davis | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result
@@ -452,6 +452,7 @@ Sorted by the author's last name alphabetically.
 | [[150]](https://www.erdosproblems.com/150) | 🟢 Bradač (2024) | Aristotle | 31 Mar, 2026
 | [[154]](https://www.erdosproblems.com/154) | 🟢 Lindström (1998) | Aristotle, GPT | 6 Feb, 2026
 | [[164]](https://www.erdosproblems.com/164) | 🟢 Alexeev, Barreto, Li, Lichtman, Price, Shah, Tang, and Tao (2026) | Codex | 4 May, 2026
+| [[165]](https://www.erdosproblems.com/165) | 🟡 Hefty, Horn, King and Pfender (2025) | Trellis | 10 Jun, 2026
 | [[178]](https://www.erdosproblems.com/178) | 🟢 Beck (1981) | Aristotle | 21 Apr, 2026
 | [[189]](https://www.erdosproblems.com/189) | 🟢 Kovač (2023) | Aristotle, Gemini 3 Pro | 17 Dec, 2025
 | [[192]](https://www.erdosproblems.com/192) | 🟢 Keränen (1992) | Aristotle | 9-10 May, 2026
@@ -574,6 +575,7 @@ Sorted by the author's last name alphabetically.
 | [[964]](https://www.erdosproblems.com/964) | 🟢 Eberhard (2025) | Antigravity, Aristotle, Gemini | 14 Feb, 2026
 | [[967]](https://www.erdosproblems.com/967) | 🟢 Yip (2025) | Aristotle | 19 Dec, 2025
 | [[974]](https://www.erdosproblems.com/974) | 🟢 Tijdeman (1966) | Aristotle | 27 Apr, 2026
+| [[986]](https://www.erdosproblems.com/986) | 🟡 Bradač (2026) | Trellis | 10 Jun, 2026
 | [[990]](https://www.erdosproblems.com/990) | 🟢 OpenAI internal model (2026) | GPT-5.4 Pro | 10 Apr, 2026
 | [[997]](https://www.erdosproblems.com/997) | 🟢 OpenAI internal model (2026) | Aristotle | 1 Apr, 2026
 | [[1000]](https://www.erdosproblems.com/1000) | 🟢 Haight | Aristotle, GPT | 28 Dec, 2025
