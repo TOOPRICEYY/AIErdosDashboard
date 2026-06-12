@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-11T17:28:37.797Z",
+    "generatedAt": "2026-06-12T18:02:28.375Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 498,
@@ -14169,20 +14169,20 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Aleph Prover",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "28 May, 2026",
+      "dateRaw": "28 May-12 Jun, 2026",
       "descriptionRaw": "",
       "descriptionLabel": "",
       "fieldsRaw": {
         "Problem": "[[90]](https://www.erdosproblems.com/90)",
         "Proof to formalize": "🟢 OpenAI internal model (2026)",
         "AI systems": "Aleph Prover",
-        "Date": "28 May, 2026"
+        "Date": "28 May-12 Jun, 2026"
       },
       "fieldsPlain": {
         "Problem": "90",
         "Proof to formalize": "🟢 OpenAI internal model (2026)",
         "AI systems": "Aleph Prover",
-        "Date": "28 May, 2026"
+        "Date": "28 May-12 Jun, 2026"
       }
     },
     {
