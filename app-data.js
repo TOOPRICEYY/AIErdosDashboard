@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-12T18:02:28.375Z",
+    "generatedAt": "2026-06-14T13:55:17.680Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 498,
@@ -6358,26 +6358,26 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/326"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5",
-      "aiSystemsLabel": "GPT-5.5",
+      "aiSystemsRaw": "Aristotle, Codex, GPT-5.5",
+      "aiSystemsLabel": "Aristotle, Codex, GPT-5.5",
       "humansRaw": "Aron Bhalla",
       "humansLabel": "Aron Bhalla",
-      "dateRaw": "20 May, 2026",
-      "descriptionRaw": "🟢 Full solution",
-      "descriptionLabel": "🟢 Full solution",
+      "dateRaw": "20 May-14 Jun, 2026",
+      "descriptionRaw": "🟢 Full solution (Lean)",
+      "descriptionLabel": "🟢 Full solution (Lean)",
       "fieldsRaw": {
         "Problem": "[[326]](https://www.erdosproblems.com/326)",
         "Humans": "Aron Bhalla",
-        "AI systems": "GPT-5.5",
-        "Date": "20 May, 2026",
-        "Outcome": "🟢 Full solution"
+        "AI systems": "Aristotle, Codex, GPT-5.5",
+        "Date": "20 May-14 Jun, 2026",
+        "Outcome": "🟢 Full solution (Lean)"
       },
       "fieldsPlain": {
         "Problem": "326",
         "Humans": "Aron Bhalla",
-        "AI systems": "GPT-5.5",
-        "Date": "20 May, 2026",
-        "Outcome": "🟢 Full solution"
+        "AI systems": "Aristotle, Codex, GPT-5.5",
+        "Date": "20 May-14 Jun, 2026",
+        "Outcome": "🟢 Full solution (Lean)"
       }
     },
     {
