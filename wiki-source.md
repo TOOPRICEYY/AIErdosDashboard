@@ -333,6 +333,7 @@ Sorted by the author's last name alphabetically.
 | [[1195]](https://www.erdosproblems.com/1195) | Boon Suan Ho | GPT-5.4 Pro | 19 Apr, 2026 | 🟢 Full solution
 | [[1196]](https://www.erdosproblems.com/1196) | Nat Sothanaphan | GPT-5.4 Thinking | 16 Apr, 2026 | 🟢 Full solution (stronger than literature)
 | [[1201]](https://www.erdosproblems.com/1201) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
+| [[1208]](https://www.erdosproblems.com/1208) | Sungchul Lee | GPT-5.5 Pro | 14 Jun, 2026 | ⚪ Candidate partial result
 | [[1209]](https://www.erdosproblems.com/1209) | Enrique Barschkis | GPT-5.4 Pro | 15 Apr, 2026  | 🟡 Partial result (Lean)
 
 <a id="sect-2"></a>

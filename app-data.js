@@ -1,9 +1,9 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-14T15:53:01.237Z",
+    "generatedAt": "2026-06-14T16:46:26.610Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
-    "recordCount": 499,
+    "recordCount": 500,
     "sectionCount": 8
   },
   "sections": [
@@ -66,7 +66,7 @@ window.ERDOS_AI_DATA = {
         "Date",
         "Outcome"
       ],
-      "rowCount": 115
+      "rowCount": 116
     },
     {
       "title": "2(a). Literature search",
@@ -10488,6 +10488,47 @@ window.ERDOS_AI_DATA = {
       "subsectionAnchor": "sect-1d",
       "subsectionOrder": 3,
       "rowOrder": 115,
+      "problemRaw": "[[1208]](https://www.erdosproblems.com/1208)",
+      "problemLabel": "1208",
+      "problemIds": [
+        1208
+      ],
+      "problemLinks": [
+        {
+          "label": "1208",
+          "url": "https://www.erdosproblems.com/1208"
+        }
+      ],
+      "aiSystemsRaw": "GPT-5.5 Pro",
+      "aiSystemsLabel": "GPT-5.5 Pro",
+      "humansRaw": "Sungchul Lee",
+      "humansLabel": "Sungchul Lee",
+      "dateRaw": "14 Jun, 2026",
+      "descriptionRaw": "⚪ Candidate partial result",
+      "descriptionLabel": "⚪ Candidate partial result",
+      "fieldsRaw": {
+        "Problem": "[[1208]](https://www.erdosproblems.com/1208)",
+        "Humans": "Sungchul Lee",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "14 Jun, 2026",
+        "Outcome": "⚪ Candidate partial result"
+      },
+      "fieldsPlain": {
+        "Problem": "1208",
+        "Humans": "Sungchul Lee",
+        "AI systems": "GPT-5.5 Pro",
+        "Date": "14 Jun, 2026",
+        "Outcome": "⚪ Candidate partial result"
+      }
+    },
+    {
+      "id": "sect-1d-116",
+      "majorSection": "1. Primary contributions",
+      "majorAnchor": "sect-1",
+      "subsection": "1(d). AI collaborating with humans",
+      "subsectionAnchor": "sect-1d",
+      "subsectionOrder": 3,
+      "rowOrder": 116,
       "problemRaw": "[[1209]](https://www.erdosproblems.com/1209)",
       "problemLabel": "1209",
       "problemIds": [
