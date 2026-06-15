@@ -101,7 +101,7 @@ Sorted by the author's last name alphabetically.
 | [[477]](https://www.erdosproblems.com/477) | AlphaProof | 7 Jan, 2026 | 🟡 Solution to variant problem (Lean)
 | [[539]](https://www.erdosproblems.com/539) | Codex, GPT-5.5, ProofCouncil | 10 Jun, 2026 | 🟡 Partial result (Lean)
 | [[616]](https://www.erdosproblems.com/616) | Claude Sonnet 4.5, Gemini 3 Pro, GPT-5.2 Pro | 18 Jan, 2026 | 🔴 Incorrect proof found
-| [[619]](https://www.erdosproblems.com/619) | Claude Fable 5, Codex, GPT-5.5 | 14 Jun, 2026 | 🟢 Full solution (Lean)
+| [[619]](https://www.erdosproblems.com/619) | Claude Fable 5, Codex, GPT-5.5 | 9 Jun, 2026 | 🟢 Full solution (Lean)
 | [[647]](https://www.erdosproblems.com/647) | ChatGPT Deep research, DeepSeek DeepThink, Gemini  | 28 Jan, 2026 | 🔴 Incorrect proof found
 | [[654]](https://www.erdosproblems.com/654) | Aletheia | 1 Feb, 2026 | 🟡 Partial result
 | [[684]](https://www.erdosproblems.com/684) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result

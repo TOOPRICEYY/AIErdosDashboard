@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-15T16:56:40.637Z",
+    "generatedAt": "2026-06-15T18:46:52.579Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 501,
@@ -2068,19 +2068,19 @@ window.ERDOS_AI_DATA = {
       "aiSystemsLabel": "Claude Fable 5, Codex, GPT-5.5",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "14 Jun, 2026",
+      "dateRaw": "9 Jun, 2026",
       "descriptionRaw": "🟢 Full solution (Lean)",
       "descriptionLabel": "🟢 Full solution (Lean)",
       "fieldsRaw": {
         "Problem": "[[619]](https://www.erdosproblems.com/619)",
         "AI systems": "Claude Fable 5, Codex, GPT-5.5",
-        "Date": "14 Jun, 2026",
+        "Date": "9 Jun, 2026",
         "Outcome": "🟢 Full solution (Lean)"
       },
       "fieldsPlain": {
         "Problem": "619",
         "AI systems": "Claude Fable 5, Codex, GPT-5.5",
-        "Date": "14 Jun, 2026",
+        "Date": "9 Jun, 2026",
         "Outcome": "🟢 Full solution (Lean)"
       }
     },
