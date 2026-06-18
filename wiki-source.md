@@ -233,6 +233,7 @@ Sorted by the author's last name alphabetically.
 | [[202]](https://www.erdosproblems.com/202) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
 | [[283]](https://www.erdosproblems.com/283) | Kevin Barreto, Liam Price | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[288]](https://www.erdosproblems.com/288) | Ritvik Nayak | GPT-5.5 Thinking | 3 May, 2026 | ⚪ Candidate partial result
+| [[306]](https://www.erdosproblems.com/306) | Shisheng Li | Claude, Claude Code | 17 Jun, 2026 | 🟡 Partial result (Lean)
 | [[326]](https://www.erdosproblems.com/326) | Aron Bhalla | Aristotle, Codex, GPT-5.5 | 20 May-14 Jun, 2026 | 🟢 Full solution (Lean)
 | [[327]](https://www.erdosproblems.com/327) | Yu Leon Liu | GPT-5.5, Rethlas | 13 May, 2026 | ⚪ Candidate partial result
 | [[330]](https://www.erdosproblems.com/330) | David Turturean | GPT-5.5 Pro | 24 Apr, 2026 | 🟢 Full solution
