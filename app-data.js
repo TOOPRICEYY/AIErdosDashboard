@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-18T19:59:18.785Z",
+    "generatedAt": "2026-06-19T15:24:24.432Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 502,
@@ -7340,26 +7340,26 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/451"
         }
       ],
-      "aiSystemsRaw": "GPT-5.5 Pro",
-      "aiSystemsLabel": "GPT-5.5 Pro",
-      "humansRaw": "Quanyu Tang",
-      "humansLabel": "Quanyu Tang",
-      "dateRaw": "26 Apr, 2026",
-      "descriptionRaw": "⚪ Candidate partial result",
-      "descriptionLabel": "⚪ Candidate partial result",
+      "aiSystemsRaw": "Aristotle, GPT-5.5 Pro",
+      "aiSystemsLabel": "Aristotle, GPT-5.5 Pro",
+      "humansRaw": "Wouter van Doorn, Quanyu Tang",
+      "humansLabel": "Wouter van Doorn, Quanyu Tang",
+      "dateRaw": "26 Apr-19 Jun, 2026",
+      "descriptionRaw": "🟡 Partial result (Lean)",
+      "descriptionLabel": "🟡 Partial result (Lean)",
       "fieldsRaw": {
         "Problem": "[[451]](https://www.erdosproblems.com/451)",
-        "Humans": "Quanyu Tang",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "⚪ Candidate partial result"
+        "Humans": "Wouter van Doorn, Quanyu Tang",
+        "AI systems": "Aristotle, GPT-5.5 Pro",
+        "Date": "26 Apr-19 Jun, 2026",
+        "Outcome": "🟡 Partial result (Lean)"
       },
       "fieldsPlain": {
         "Problem": "451",
-        "Humans": "Quanyu Tang",
-        "AI systems": "GPT-5.5 Pro",
-        "Date": "26 Apr, 2026",
-        "Outcome": "⚪ Candidate partial result"
+        "Humans": "Wouter van Doorn, Quanyu Tang",
+        "AI systems": "Aristotle, GPT-5.5 Pro",
+        "Date": "26 Apr-19 Jun, 2026",
+        "Outcome": "🟡 Partial result (Lean)"
       }
     },
     {
