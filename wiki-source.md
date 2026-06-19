@@ -227,6 +227,7 @@ Sorted by the author's last name alphabetically.
 | [[52]](https://www.erdosproblems.com/52) | Thomas Bloom, Will Sawin, Carl Schildkraut, Dmitrii Zhelezov | GPT-5.5 Pro | 28 May, 2026 | 🟡 Solution to variant problem
 | [[52]](https://www.erdosproblems.com/52) | Ingo Althöfer | GPT-5.5 | 28 May, 2026 | 🟡 Improved bound to variant problem
 | [[52]](https://www.erdosproblems.com/52) | Boris Alexeev | GPT-5.5 | 4 Jun, 2026 | ⚪ Candidate solution to variant problem
+| [[81]](https://www.erdosproblems.com/81) | Wouter van Doorn | Aristotle, GPT-5.5 Pro | 19 Jun, 2026 | 🟡 Partial result (Lean)
 | [[90]](https://www.erdosproblems.com/90) | Ingo Althöfer, Michael Emmerich, Paata Ivanisvili, Tomasz Kania, leloy, mlewko, Eric Naslund, norxornor, Will Sawin, Carl Schildkraut, spiderduckpig, Tseng | GPT-5.5 Pro | 21 May-9 Jun, 2026 | 🟢 Improved explicit bound
 | [[138]](https://www.erdosproblems.com/138) | Nat Sothanaphan | GPT-5.4 Thinking | 10 Apr, 2026 | 🟡 Partial result of variant problem
 | [[202]](https://www.erdosproblems.com/202) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution
