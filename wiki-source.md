@@ -147,6 +147,7 @@ Sorted by the author's last name alphabetically.
 | [[218]](https://www.erdosproblems.com/218) | GPT | 28 Jan, 2026 | 🟡 Conditional solution | 🟡 Banks (2023) | 28 Jan, 2026 | Yes
 | [[281]](https://www.erdosproblems.com/281) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution | 🟢 Davenport and Erdős (1936) + Rogers (in Halberstam-Roth (1966)) | 18 Jan, 2026 | No
 | [[333]](https://www.erdosproblems.com/333) | Claude Opus 4.5, GPT-5.2 Pro | 25 Dec, 2025 | 🟢 Full solution (Lean) | 🟢 Erdős and Newman (1977) | 25 Dec, 2025 | Yes
+| [[346]](https://www.erdosproblems.com/346) | Codex, GPT-5.5 Pro | 19 Jun, 2026 | 🟡 Solution to variant problem (Lean) | 🟡 Burr and Erdős (1981) | 20 Jun, 2026 | Yes
 | [[366]](https://www.erdosproblems.com/366) | Automated research pipeline | 14 Apr, 2026 | 🟡 Conditional partial result | 🟡 Aktaş and Murty (2017) | 15 Apr, 2026 | Yes
 | [[397]](https://www.erdosproblems.com/397) | Aristotle, GPT-5.2 Pro | 10 Jan, 2026 | 🟢 Full solution (Lean) | 🟢 China TST competition (2012) | 14 Jan, 2026 | Yes
 | [[397]](https://www.erdosproblems.com/397) | Aletheia | 2 Feb, 2026 | 🟢 Full solution | 🟢 China TST competition (2012) | 2 Feb, 2026 | Yes
