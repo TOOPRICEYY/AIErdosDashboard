@@ -199,6 +199,7 @@ Sorted by the author's last name alphabetically.
 | [[868]](https://www.erdosproblems.com/868) | GPT-5.2 multi-agent system | 13 Jan, 2026 | 🟡 Erdős and Nathanson (1989) | 🟡 New partial result
 | [[871]](https://www.erdosproblems.com/871) | Claude Opus 4.5, Gemini 3 Pro | 5 Jan, 2026 | 🟡 Erdős and Nathanson (1989) | 🟢 Existing partial result upgraded to full solution (Lean)
 | [[942]](https://www.erdosproblems.com/942) | Gemini | 23 Nov, 2025 | 🟡 Erdős (unpublished, 1976) | 🟡 New proof found
+| [[948]](https://www.erdosproblems.com/948) | Aristotle, GPT-5.5 Pro | 21 Jun, 2026 | 🟡 Erdős and Galvin (1991) | 🟢 Full solution (Lean)
 | [[951]](https://www.erdosproblems.com/951) | AlphaEvolve | 28 Jan, 2026 | 🟡 Barreto, GPT-5.2 Pro, and Price (2026) + GPT-5.2 Thinking and Sothanaphan (2026) (solution to variant problem) | 🟡 New solution to variant problem
 | [[958]](https://www.erdosproblems.com/958) | Aristotle | 27 Dec, 2025 | 🟢 Clemen, Dumitrescu, and Liu (2025) | 🟢 New proof found (Lean)
 | [[966]](https://www.erdosproblems.com/966) | Aristotle | 25 Feb, 2026 | 🟢 Spencer (unpublished) | 🟢 Full solution (Lean)
