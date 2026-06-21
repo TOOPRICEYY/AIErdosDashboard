@@ -1,6 +1,6 @@
 window.ERDOS_AI_DATA = {
   "metadata": {
-    "generatedAt": "2026-06-21T17:49:22.081Z",
+    "generatedAt": "2026-06-21T21:44:32.652Z",
     "wikiRawUrl": "https://raw.githubusercontent.com/wiki/teorth/erdosproblems/AI-contributions-to-Erd%C5%91s-problems.md",
     "wikiPageUrl": "https://github.com/teorth/erdosproblems/wiki/AI-contributions-to-Erd%C5%91s-problems",
     "recordCount": 517,
@@ -939,6 +939,28 @@ window.ERDOS_AI_DATA = {
       ]
     },
     {
+      "id": "claude-opus-4-7",
+      "label": "Claude Opus 4.7",
+      "vendor": "Anthropic",
+      "family": "claude-opus-4-7",
+      "releaseDate": "2026-04-13",
+      "releaseType": "inferred-first_positive_then_seen",
+      "sourceKind": "inferred",
+      "sourceLabel": "Erdos wiki inference",
+      "sourceUrl": "https://www.erdosproblems.com/1197",
+      "notes": "No official release page was cataloged for this exact system name; date inferred from the earliest positive wiki entry, or first appearance if no positive entry exists.",
+      "inferenceType": "first_positive_then_seen",
+      "inferredFrom": {
+        "dateRaw": "13 Apr-21 Jun, 2026",
+        "problem": "#1197",
+        "subsection": "1(c). AI building on literature",
+        "outcome": "full"
+      },
+      "patterns": [
+        "^Claude Opus 4\\.7$"
+      ]
+    },
+    {
       "id": "automated-research-pipeline",
       "label": "Automated research pipeline",
       "vendor": "Inferred",
@@ -1046,28 +1068,6 @@ window.ERDOS_AI_DATA = {
       },
       "patterns": [
         "^Claude Code$"
-      ]
-    },
-    {
-      "id": "claude-opus-4-7",
-      "label": "Claude Opus 4.7",
-      "vendor": "Anthropic",
-      "family": "claude-opus-4-7",
-      "releaseDate": "2026-04-26",
-      "releaseType": "inferred-first_positive_then_seen",
-      "sourceKind": "inferred",
-      "sourceLabel": "Erdos wiki inference",
-      "sourceUrl": "https://www.erdosproblems.com/696",
-      "notes": "No official release page was cataloged for this exact system name; date inferred from the earliest positive wiki entry, or first appearance if no positive entry exists.",
-      "inferenceType": "first_positive_then_seen",
-      "inferredFrom": {
-        "dateRaw": "26 Apr-5 Jun, 2026",
-        "problem": "#696",
-        "subsection": "1(d). AI collaborating with humans",
-        "outcome": "full"
-      },
-      "patterns": [
-        "^Claude Opus 4\\.7$"
       ]
     },
     {
@@ -5935,24 +5935,24 @@ window.ERDOS_AI_DATA = {
           "url": "https://www.erdosproblems.com/1197"
         }
       ],
-      "aiSystemsRaw": "Aristotle, GPT-5.4 Pro",
-      "aiSystemsLabel": "Aristotle, GPT-5.4 Pro",
+      "aiSystemsRaw": "Aristotle, Claude Opus 4.7, GPT-5.4 Pro",
+      "aiSystemsLabel": "Aristotle, Claude Opus 4.7, GPT-5.4 Pro",
       "humansRaw": "",
       "humansLabel": "",
-      "dateRaw": "13 Apr, 2026",
+      "dateRaw": "13 Apr-21 Jun, 2026",
       "descriptionRaw": "🟢 Full solution (Lean)",
       "descriptionLabel": "🟢 Full solution (Lean)",
       "fieldsRaw": {
         "Problem": "[[1197]](https://www.erdosproblems.com/1197)",
-        "AI systems": "Aristotle, GPT-5.4 Pro",
-        "Date": "13 Apr, 2026",
+        "AI systems": "Aristotle, Claude Opus 4.7, GPT-5.4 Pro",
+        "Date": "13 Apr-21 Jun, 2026",
         "Literature": "🟡 Buczolich and Mauldin (1999)",
         "Outcome": "🟢 Full solution (Lean)"
       },
       "fieldsPlain": {
         "Problem": "1197",
-        "AI systems": "Aristotle, GPT-5.4 Pro",
-        "Date": "13 Apr, 2026",
+        "AI systems": "Aristotle, Claude Opus 4.7, GPT-5.4 Pro",
+        "Date": "13 Apr-21 Jun, 2026",
         "Literature": "🟡 Buczolich and Mauldin (1999)",
         "Outcome": "🟢 Full solution (Lean)"
       }

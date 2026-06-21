@@ -212,7 +212,7 @@ Sorted by the author's last name alphabetically.
 | [[1090]](https://www.erdosproblems.com/1090) | Aristotle, Gemini 3 Flash | 27 Feb, 2026 | 🟢 Graham and Selfridge (unpublished, ~1975) | 🟢 Proof found (Lean)
 | [[1095]](https://www.erdosproblems.com/1095) | Aristotle | 30 Dec, 2025 | 🟡 Ecklund, Erdős, and Selfridge (1975) | 🟡 New proof of (slightly weaker) partial result (Lean)
 | [[1097]](https://www.erdosproblems.com/1097) | AlphaEvolve | 3 Nov, 2025 | 🟡 Lemm (2015) | 🟡 Slight improvement to past construction
-| [[1197]](https://www.erdosproblems.com/1197) | Aristotle, GPT-5.4 Pro | 13 Apr, 2026 | 🟡 Buczolich and Mauldin (1999) | 🟢 Full solution (Lean)
+| [[1197]](https://www.erdosproblems.com/1197) | Aristotle, Claude Opus 4.7, GPT-5.4 Pro | 13 Apr-21 Jun, 2026 | 🟡 Buczolich and Mauldin (1999) | 🟢 Full solution (Lean)
 
 <a id="sect-1d"></a>
 ### 1(d). AI collaborating with humans
