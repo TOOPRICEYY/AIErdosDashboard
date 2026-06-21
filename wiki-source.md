@@ -144,6 +144,7 @@ Sorted by the author's last name alphabetically.
 | ------- | ---------- | ---- | ------- | ---------- | ------------------- | -------- |
 | [[120]](https://www.erdosproblems.com/120) | DeepMind prover agent | 14 Mar, 2026 | 🟡 Solution to variant problem (Lean) | 🟡 de Reyna (1983) | 14 Mar, 2026 | No
 | [[152]](https://www.erdosproblems.com/152) | DeepMind prover agent | 3 Apr, 2026 | 🟢 Full solution (Lean) | 🟡 Erdős, Sárközy, and Sós (1994) | 3 Apr, 2026 | Yes
+| [[176]](https://www.erdosproblems.com/176) | Codex, GPT-5.5 Pro | 21 Jun, 2026 | 🟡 Partial result (Lean) | 🟡 Hunter (2026) | 21 Jun, 2026 | Yes
 | [[218]](https://www.erdosproblems.com/218) | GPT | 28 Jan, 2026 | 🟡 Conditional solution | 🟡 Banks (2023) | 28 Jan, 2026 | Yes
 | [[281]](https://www.erdosproblems.com/281) | GPT-5.2 Pro | 17 Jan, 2026 | 🟢 Full solution | 🟢 Davenport and Erdős (1936) + Rogers (in Halberstam-Roth (1966)) | 18 Jan, 2026 | No
 | [[333]](https://www.erdosproblems.com/333) | Claude Opus 4.5, GPT-5.2 Pro | 25 Dec, 2025 | 🟢 Full solution (Lean) | 🟢 Erdős and Newman (1977) | 25 Dec, 2025 | Yes
