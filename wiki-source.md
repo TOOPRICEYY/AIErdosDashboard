@@ -538,6 +538,7 @@ Sorted by the author's last name alphabetically.
 | [[499]](https://www.erdosproblems.com/499) | 🟢 Marcus and Minc (1962) | Aristotle | 29 Nov, 2025
 | [[502]](https://www.erdosproblems.com/502) | 🟢 Petrov and Pohoata (2021) | Aristotle | 2 Feb, 2026
 | [[505]](https://www.erdosproblems.com/505) | 🟢 Kahn and Kalai (1993) | Aristotle | 2 Feb, 2026
+| [[512]](https://www.erdosproblems.com/512) | 🟢 McGehee, Pigno, and Smith (1981) | Aristotle | 22 Jun, 2026
 | [[519]](https://www.erdosproblems.com/519) | 🟢 Atkinson (1961) | Aristotle | 19 Apr, 2026
 | [[537]](https://www.erdosproblems.com/537) | 🟢 Ruzsa | Aristotle | 6 Feb, 2026
 | [[540]](https://www.erdosproblems.com/540) | 🟢 Szemerédi (1970) | Aristotle | 15 Apr, 2026
