@@ -525,6 +525,7 @@ Sorted by the author's last name alphabetically.
 | [[447]](https://www.erdosproblems.com/447) | 🟢 Kleitman (1971) | Aristotle | 10 Feb, 2026
 | [[453]](https://www.erdosproblems.com/453) | 🟢 Pomerance (1979) | Aristotle | 31 Jan, 2026
 | [[459]](https://www.erdosproblems.com/459) | 🟢 Cambie (2026) | Aristotle | 11 Mar, 2026
+| [[464]](https://www.erdosproblems.com/464) | 🟢 de Mathan (1980) | Aristotle | 21 Jun, 2026
 | [[476]](https://www.erdosproblems.com/476) | 🟢 Alon, Nathanson, and Ruzsa (1995) | Aristotle | 31 Dec, 2025
 | [[480]](https://www.erdosproblems.com/480) | 🟢 Chung and Graham (1984) | Aristotle | 28 Nov, 2025
 | [[481]](https://www.erdosproblems.com/481) | 🟢 Barreto (2025) | Aristotle, Claude | 1 Dec, 2025
