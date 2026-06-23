@@ -290,6 +290,7 @@ Sorted by the author's last name alphabetically.
 | [[696]](https://www.erdosproblems.com/696) | Jake Mallen, David Turturean | Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-5 Jun, 2026 | 🟢 Full solution (Lean)
 | [[749]](https://www.erdosproblems.com/749) | Aron Bhalla | GPT-5.4 Thinking | 4-6 Apr, 2026 | 🟡 Partial result; 🟡 Solution to variant problem
 | [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
+| [[768]](https://www.erdosproblems.com/768) | Eric Li | GPT | 22 Jun, 2026 | ⚪ Candidate full solution
 | [[776]](https://www.erdosproblems.com/776) | Yixin He, Quanyu Tang | GPT-5.2 Thinking | 11 Feb, 2026 | 🟡 Partial result
 | [[819]](https://www.erdosproblems.com/819) | Yu Leon Liu | GPT-5.5, Rethlas | 15 May, 2026 | ⚪ Candidate partial result
 | [[848]](https://www.erdosproblems.com/848) | Malek Zribi | Claude Opus 4.6, GPT-5.4 | 12-15 Mar, 2026 | 🔴 Incorrect proof found
