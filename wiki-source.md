@@ -230,6 +230,7 @@ Sorted by the author's last name alphabetically.
 | ------- | ------ | ---------- | ---- | ------- |
 | [[7]](https://www.erdosproblems.com/7) | Jinook Lee | Aristotle | 2 May, 2026 | 🔴 Incorrect proof found
 | [[12]](https://www.erdosproblems.com/12) | Nat Sothanaphan, Terence Tao | GPT-5.4 Thinking | 7 Apr, 2026 | 🟡 Partial result
+| [[21]](https://www.erdosproblems.com/21) | Varun Sivashankar | Aristotle, GPT-5.5 Pro | 23 Jun, 2026 | 🟡 Partial result (Lean)
 | [[25]](https://www.erdosproblems.com/25) | Przemek Chojecki | GPT-5.4 Pro | 19 Mar, 2026 | 🟡 Partial result
 | [[42]](https://www.erdosproblems.com/42) | Harjas Sandhu | GPT-5.5 Pro | 27 Apr, 2026 | 🟢 Full solution
 | [[52]](https://www.erdosproblems.com/52) | Thomas Bloom, Will Sawin, Carl Schildkraut, Dmitrii Zhelezov | GPT-5.5 Pro | 28 May, 2026 | 🟡 Solution to variant problem
