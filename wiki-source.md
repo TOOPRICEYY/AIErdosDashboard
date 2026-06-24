@@ -282,6 +282,7 @@ Sorted by the author's last name alphabetically.
 | [[521]](https://www.erdosproblems.com/521) | Vjekoslav Kovač | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
 | [[524]](https://www.erdosproblems.com/524) | Brayden Letwin, Mehtaab Sawhney | GPT-5.4 Pro | 21 Apr, 2026 | 🟡 Partial result
 | [[535]](https://www.erdosproblems.com/535) | Kireet Cheri, Sourish Kumrawat, Hrishi Sunder | GPT-5.5 Thinking | 27 Apr, 2026 | 🟡 Partial result (implicit in literature)
+| [[593]](https://www.erdosproblems.com/593) | Eric Li | GPT | 23 Jun, 2026 | ⚪ Candidate full solution
 | [[598]](https://www.erdosproblems.com/598) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 22 Apr, 2026 | ⚪ Candidate partial result
 | [[603]](https://www.erdosproblems.com/603) | Przemek Chojecki | GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution
 | [[610]](https://www.erdosproblems.com/610) | Przemek Chojecki | Aristotle, GPT-5.4 Pro | 21 Apr, 2026 | 🟢 Full solution (Lean) (implicit in literature)
@@ -344,6 +345,7 @@ Sorted by the author's last name alphabetically.
 | [[1148]](https://www.erdosproblems.com/1148) | Ingo Althöfer, Przemek Chojecki | GPT-5.5 Pro | 19 May, 2026 | 🟢 Solution to stronger problem
 | [[1151]](https://www.erdosproblems.com/1151) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | 🟢 Full solution
 | [[1153]](https://www.erdosproblems.com/1153) | Aron Bhalla, Nat Sothanaphan, Terence Tao | AlphaEvolve, Claude, Gemini Pro, GPT-5.2 Thinking, GPT-5.4 Pro | 2 Feb-24 Mar, 2026 | 🟢 Full solution
+| [[1177]](https://www.erdosproblems.com/1177) | Eric Li | GPT | 23 Jun, 2026 | ⚪ Candidate full solution
 | [[1183]](https://www.erdosproblems.com/1183) | Przemek Chojecki, Quanyu Tang | GPT-5.4 Pro | 18 Mar, 2026  | 🟡 Partial result
 | [[1190]](https://www.erdosproblems.com/1190) | Boon Suan Ho | GPT-5.4 Pro | 23 Apr, 2026 | 🟢 Full solution
 | [[1190]](https://www.erdosproblems.com/1190) | Przemek Chojecki | GPT-5.5 Pro | 30 Apr, 2026 | ⚪ Candidate full solution
