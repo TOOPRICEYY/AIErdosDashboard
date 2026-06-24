@@ -110,6 +110,7 @@ Sorted by the author's last name alphabetically.
 | [[671]](https://www.erdosproblems.com/671) | Codex, GPT-5.5 Pro | 22 Jun, 2026 | ⚪ Candidate full solution (Lean)
 | [[684]](https://www.erdosproblems.com/684) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result
 | [[694]](https://www.erdosproblems.com/694) | GPT-5.5 Pro | 1 May, 2026 | 🟢 Full solution
+| [[730]](https://www.erdosproblems.com/730) | GPT-5.5 Pro | 24 Jun, 2026 | ⚪ Candidate full solution
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 31 Mar, 2026 | 🟡 Partial result (Lean) (solution to variant of first part; solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | OpenAI internal model | 31 Mar, 2026 | 🟡 Partial result (solution to second part)
 | [[741]](https://www.erdosproblems.com/741) | DeepMind prover agent | 16 Apr, 2026 | 🟢 Full solution (Lean)
@@ -129,7 +130,7 @@ Sorted by the author's last name alphabetically.
 | [[1041]](https://www.erdosproblems.com/1041) | GPT-5.4 Thinking | 22 Apr, 2026 | 🔴 Argument with major gaps made
 | [[1044]](https://www.erdosproblems.com/1044) | GPT-5.2 Pro | 5 Jan, 2026  | 🔴 Incorrect claim made
 | [[1051]](https://www.erdosproblems.com/1051) | Aletheia | 29 Jan, 2026 | 🟢 Full solution (Lean)
-| [[1054]](https://www.erdosproblems.com/1054) | Claude Opus 4.8, GPT-5.5 Pro, Principia Math | 22 Jun, 2026 | ⚪ Candidate partial result (Lean)
+| [[1054]](https://www.erdosproblems.com/1054) | Claude Opus 4.8, GPT-5.5 Pro, Principia Math | 22-23 Jun, 2026 | 🟡 Partial result (Lean)
 | [[1091]](https://www.erdosproblems.com/1091) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[1101]](https://www.erdosproblems.com/1101) | GPT-5.5 Pro | 27 Apr, 2026 | ⚪ Candidate partial result (solution to second part)
 | [[1131]](https://www.erdosproblems.com/1131) | GPT-5.5 Pro | 26 Apr, 2026 | ⚪ Candidate partial result
