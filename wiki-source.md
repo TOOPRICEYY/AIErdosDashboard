@@ -309,6 +309,7 @@ Sorted by the author's last name alphabetically.
 | [[856]](https://www.erdosproblems.com/856) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | ⚪ Candidate full solution
 | [[858]](https://www.erdosproblems.com/858) | Przemek Chojecki | GPT-5.4 Pro | 15 Apr, 2026 | 🟢 Full solution
 | [[863]](https://www.erdosproblems.com/863) | Boon Suan Ho | GPT-5.4 Pro | 22 Apr, 2026 | 🟢 Full solution
+| [[865]](https://www.erdosproblems.com/865) | Ricky Cipollini | GPT-5.5 Pro | 21-22 Jun, 2026 | 🟢 Full solution
 | [[866]](https://www.erdosproblems.com/866) | Wouter van Doorn | Aristotle, GPT-5.3 Instant | 4 May, 2026 | 🟡 Partial result (Lean)
 | [[870]](https://www.erdosproblems.com/870) | David Turturean | GPT-5.4 Pro, GPT-5.5 Pro | 24 Apr-May 2, 2026 | ⚪ Candidate full solution
 | [[872]](https://www.erdosproblems.com/872) | Om_Buddhdev_sensho | GPT-5.4 Pro | 16 Apr, 2026 | 🟡 Partial result
@@ -334,6 +335,7 @@ Sorted by the author's last name alphabetically.
 | [[1038]](https://www.erdosproblems.com/1038) | catsflowers5544, jspier, Junnosuke Koizumi, Kenneth Mendoza, Nat Sothanaphan, Terence Tao, Hua Xu | AlphaEvolve, Claude Fable 5, Codex, GPT-5.2 Thinking, GPT-5.4 Thinking, GPT-5.5 | 16 Dec, 2025-10 Jun, 2026 | 🟡 Partial result
 | [[1039]](https://www.erdosproblems.com/1039) | Houi | Aristotle, Claude Opus 4.6 | 6-8 Mar, 2026 | 🟡 Partial result (Lean)
 | [[1041]](https://www.erdosproblems.com/1041) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 | 17-24 Mar, 2026 | 🔴 Argument with major gaps made
+| [[1061]](https://www.erdosproblems.com/1061) | Eric Li | GPT | 24 Jun, 2026 | ⚪ Candidate full solution
 | [[1062]](https://www.erdosproblems.com/1062) | Damek Davis | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result
 | [[1092]](https://www.erdosproblems.com/1092) | Przemek Chojecki | GPT-5.5 Pro | 28 Apr, 2026 | 🟢 Full solution
 | [[1095]](https://www.erdosproblems.com/1095) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 Pro | 13 Mar, 2026 | 🟡 Partial result
