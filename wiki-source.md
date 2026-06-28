@@ -125,6 +125,7 @@ Sorted by the author's last name alphabetically.
 | [[987]](https://www.erdosproblems.com/987) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[990]](https://www.erdosproblems.com/990) | OpenAI internal model | 9 Apr, 2026 | 🟢 Full solution
 | [[1014]](https://www.erdosproblems.com/1014) | OpenAI internal model | 23 Apr, 2026 | 🟢 Full solution
+| [[1033]](https://www.erdosproblems.com/1033) | GPT-5.5 Pro | 27 Jun, 2026 | ⚪ Candidate partial result
 | [[1039]](https://www.erdosproblems.com/1039) | GPT-5.5 Pro | 7 May, 2026 | 🟡 Partial result
 | [[1040]](https://www.erdosproblems.com/1040) | Aletheia | 1 Feb, 2026 | 🟡 Solution to one part of problem; 🔴 incorrect solution to other part
 | [[1041]](https://www.erdosproblems.com/1041) | GPT-5.4 Thinking | 22 Apr, 2026 | 🔴 Argument with major gaps made
