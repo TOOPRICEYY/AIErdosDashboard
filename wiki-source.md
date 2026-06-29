@@ -81,6 +81,7 @@ Sorted by the author's last name alphabetically.
 | Problem | AI systems | Date | Outcome |
 | ------- | ---------- | ---- | ------- |
 | [[11]](https://www.erdosproblems.com/11) | Aristotle, GPT | 24 Jan, 2026 | 🔴 Incorrect claim made
+| [[36]](https://www.erdosproblems.com/36) | GPT-5.5 Pro | 29 Jun, 2026 | ⚪ Candidate partial result
 | [[38]](https://www.erdosproblems.com/38) | GPT-5.5 Pro | 25 Apr, 2026 | 🟢 Full solution
 | [[42]](https://www.erdosproblems.com/42) | Codex, GPT-5.2, GPT-5.2 Pro | 19 Jan, 2026 | 🟡 Partial result (Lean)
 | [[51]](https://www.erdosproblems.com/51) | ChatGPT free version | 11 Jan, 2026 | 🔴 Incorrect proof found
@@ -338,6 +339,7 @@ Sorted by the author's last name alphabetically.
 | [[1041]](https://www.erdosproblems.com/1041) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 | 17-24 Mar, 2026 | 🔴 Argument with major gaps made
 | [[1061]](https://www.erdosproblems.com/1061) | Eric Li | GPT | 24 Jun, 2026 | ⚪ Candidate full solution
 | [[1062]](https://www.erdosproblems.com/1062) | Damek Davis | GPT-5.4 Pro | 19 Apr, 2026 | 🟡 Partial result
+| [[1070]](https://www.erdosproblems.com/1070) | Ákos Dúcz, Dániel Varga | Codex, GPT-5.5 | 29 Jun, 2026 | 🟡 Partial result
 | [[1092]](https://www.erdosproblems.com/1092) | Przemek Chojecki | GPT-5.5 Pro | 28 Apr, 2026 | 🟢 Full solution
 | [[1095]](https://www.erdosproblems.com/1095) | shtuka | Claude Opus 4.6, Gemini 3.1 Pro, GPT-5.4 Pro | 13 Mar, 2026 | 🟡 Partial result
 | [[1132]](https://www.erdosproblems.com/1132) | Terence Tao | AlphaEvolve, Claude, Gemini Pro, GPT-5.4 Pro | 2 Feb-24 Mar, 2026 | 🟡 Partial result
