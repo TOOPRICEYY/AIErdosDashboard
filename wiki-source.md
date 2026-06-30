@@ -1,3 +1,7 @@
+**The wiki is no longer updated. The latest data is as of Jun 30, 2026.**
+
+***
+
 This AI Wiki collects contributions of AI systems to the understanding of Erdős problems.
 
 If you are interested in getting started with using AI for research mathematics, we have some [free advice](https://github.com/teorth/erdosproblems/wiki/Getting-started-with-using-AI-for-research-mathematics).
@@ -299,6 +303,7 @@ Sorted by the author's last name alphabetically.
 | [[689]](https://www.erdosproblems.com/689) | Boris Alexeev, Przemek Chojecki, Dogmachine, jleng01, Mehtaab Sawhney, Terence Tao, Malek Zribi | Codex, GPT-5.2, GPT-5.5 Pro | 29 Oct, 2025-2 Jun, 2026 | ⚪ Candidate full solution
 | [[690]](https://www.erdosproblems.com/690) | Davide Crapis, Shouqiao Wang | Multiscalar Fields System | 8 May, 2026 | 🟢 Full solution
 | [[696]](https://www.erdosproblems.com/696) | Jake Mallen, David Turturean | Aristotle, Claude Code, Claude Opus 4.7, GPT-5.5 Pro | 26 Apr-5 Jun, 2026 | 🟢 Full solution (Lean)
+| [[731]](https://www.erdosproblems.com/731) | Eric Li | GPT | 27 Jun, 2026 | ⚪ Candidate full solution
 | [[749]](https://www.erdosproblems.com/749) | Aron Bhalla | GPT-5.4 Thinking | 4-6 Apr, 2026 | 🟡 Partial result; 🟡 Solution to variant problem
 | [[750]](https://www.erdosproblems.com/750) | Przemek Chojecki | GPT-5.5 Pro | 3 May, 2026 | 🟢 Full solution
 | [[768]](https://www.erdosproblems.com/768) | Eric Li | GPT | 22 Jun, 2026 | ⚪ Candidate full solution
